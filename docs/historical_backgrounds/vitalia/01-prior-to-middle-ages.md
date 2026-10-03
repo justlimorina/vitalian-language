@@ -267,6 +267,8 @@ Tiến trình hơn bốn thế kỷ hoàng kim này được chia thành ba giai
 
 #### Bối cảnh địa chính trị phía Bắc lục địa Riralia trước năm 453 AD
 
+![Bản đồ 1: Cục diện địa chính trị phía Bắc lục địa Riralia năm 452 AD — Các thực thể độc lập trước Đại nghiệp Đông Phạt của vua James II](/images/Map_452_AD.png)
+
 Trước khi đại nghiệp thống nhất của vua James II bắt đầu, bản đồ phía Đông của Vương quốc Vitalia là một bức tranh phân liệt phức tạp gồm nhiều thực thể chính trị độc lập:
 * **Khối văn hóa Cereaint [Cambrian/Wales cổ]**:
   * **Nhà nước Cambria (*Cambrian State*)**: Nằm trên bán đảo nhô ra biển Bắc, án ngữ các đô thị thành lũy kiên cố như *Kilwynverdon* và hải cảng *Alexandra*.
@@ -291,6 +293,8 @@ Sau khi vua cha Godwin I băng hà vào tháng 12 năm 452 AD, Thái tử James 
    Đứng trước vòng vây địa chính trị từ cả trên bộ lẫn ngoài biển, triều đình **Vương quốc Riralia** tại đô thành **Riralo** nhận thức rõ sự tất yếu của lịch sử. Sau nhiều vòng đàm phán ngoại giao, năm 475 AD, Quốc vương Riralia ký Hiệp ước Hợp nhất hòa bình, chấp nhận sáp nhập vương quốc vào khối liên hiệp để đổi lấy đặc quyền kinh tế và ghế lãnh đạo trong triều đình trung ương.
 
 Vào ngày lễ Thánh Michael năm 476 AD, tại kinh thành Limorina, James II long trọng tuyên bố bản chiếu chỉ lịch sử: hợp nhất toàn bộ bờ cõi từ viễn Tây Wantarii, qua dải đất Cereaint (Cambria và Penmawr), Arys, quần đảo Pheof cho tới đại đô thành Riralo thành một đế chế thống nhất mang tên **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*). Ngài ban hành *Hiến chương Liên hiệp* (*Geānnes Bōc*), tái cấu trúc Viện Nguyên Lão thành **Nghị viện Liên hiệp** với sự hiện diện bình đẳng của đại biểu quý tộc và giáo sĩ từ cả bốn xứ. Với công nghiệp vĩ đại chưa từng có, ngài được thần dân đời đời tôn kính xưng tụng là **James Đại Đế (*Iacob se Micela*)**. Ngài băng hà năm 488 AD ở tuổi 63 sau 35 năm trị vì hiển hách.
+
+![Bản đồ 2: Cương thổ Vương quốc Liên hiệp Vitalia và Riralia vào năm 488 AD — Thành quả sau 35 năm trị vì của James Đại Đế](/images/Map_488_AD.png)
 
 #### Triều Edward V Hiệp Sĩ Vương (488 – 515 AD)
 

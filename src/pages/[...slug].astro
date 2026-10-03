@@ -70,6 +70,25 @@ markdown.use({
       const innerText = tokens ? this.parser.parseInline(tokens) : text;
       return `<a href="${href}"${linkTitle ? ` title="${linkTitle}"` : ''}>${innerText}</a>`;
     },
+    image({ href, title: imgTitle, text }) {
+      if (!href) return '';
+      let src = href;
+      if (src.includes('images/')) {
+        const filename = src.split('images/').pop();
+        const cleanBase = base.endsWith('/') ? base : `${base}/`;
+        src = `${cleanBase}images/${filename}`;
+      }
+      return `<figure class="doc-figure">
+        <a class="doc-image-link" href="${src}" target="_blank" rel="noopener noreferrer" title="Bấm để mở bản đồ kích thước gốc độ phân giải cao">
+          <img class="doc-image" src="${src}" alt="${text || ''}" loading="lazy" />
+          <span class="doc-image-zoom-badge">
+            <span class="material-symbols-outlined" style="font-size: 16px">zoom_in</span>
+            <span>Phóng to</span>
+          </span>
+        </a>
+        ${text ? `<figcaption class="doc-caption">${text}</figcaption>` : ''}
+      </figure>`;
+    },
   },
 });
 
@@ -455,6 +474,74 @@ const hasToc = headings.length >= 2;
     border-top: 1px solid var(--md-sys-color-surface-container-highest);
     flex-wrap: wrap;
     gap: 12px;
+  }
+
+  /* ==========================================================================
+     Document Figures & Maps
+     ========================================================================== */
+  :global(.doc-figure) {
+    margin: 36px 0;
+    text-align: center;
+  }
+
+  :global(.doc-image-link) {
+    display: block;
+    position: relative;
+    border-radius: var(--md-sys-shape-corner-lg);
+    overflow: hidden;
+    border: 1px solid var(--md-sys-color-outline-variant);
+    box-shadow: var(--md-sys-elevation-2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+    cursor: zoom-in;
+    background: var(--md-sys-color-surface-container-low);
+  }
+
+  :global(.doc-image-link:hover) {
+    transform: translateY(-2px);
+    box-shadow: var(--md-sys-elevation-3);
+    border-color: var(--md-sys-color-primary);
+  }
+
+  :global(.doc-image) {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  :global(.doc-image-zoom-badge) {
+    position: absolute;
+    bottom: 12px;
+    right: 12px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 6px 12px;
+    background: rgba(18, 20, 18, 0.78);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    color: #ffffff;
+    font-size: 12.5px;
+    font-weight: 500;
+    border-radius: 9999px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  :global(.doc-image-link:hover .doc-image-zoom-badge) {
+    background: var(--md-sys-color-primary);
+    color: var(--md-sys-color-on-primary);
+    transform: scale(1.05);
+  }
+
+  :global(.doc-caption) {
+    margin-top: 10px;
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: var(--md-sys-color-on-surface-variant);
+    font-style: italic;
+    padding: 0 16px;
   }
 
   /* ==========================================================================

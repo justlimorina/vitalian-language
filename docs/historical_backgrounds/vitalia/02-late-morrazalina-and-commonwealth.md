@@ -46,33 +46,40 @@ Thấu hiểu sâu sắc rằng sự hiện diện vĩnh cửu của một đấ
 
 ## 2. Khủng hoảng Suy tàn và Sự Sụp đổ của Vương triều Morrazalina (968 – 1015 AD)
 
-### 47 năm trượt dài trong hỗn loạn
+### Tiến trình 47 năm tha hóa và sụp đổ (968 – 1015 AD)
 
-Mất đi cả Aglaea II lẫn Elaina—hai trụ cột tối cao về tính chính thống lẫn sức mạnh ma thuật hộ quốc—ngai vàng Limorina nhanh chóng rơi vào tay các nhánh thứ phàm trần của dòng họ Morrazalina. Khoảng thời gian 47 năm (968 – 1015 AD) là chuỗi ngày vương triều trượt dài trong điên loạn và tha hóa:
+Mất đi cả Aglaea II lẫn Elaina—hai trụ cột tối cao về tính chính thống lẫn sức mạnh ma thuật hộ quốc—ngai vàng Limorina nhanh chóng rơi vào tay các nhánh thứ phàm trần của dòng họ Morrazalina. Khoảng thời gian 47 năm (968 – 1015 AD) qua bốn đời quân vương là chuỗi ngày bi kịch khi vương triều trượt dài trong điên loạn, mê tín dị đoan và tha hóa quyền lực tột cùng:
 
-1. **Cơn sốt Điên loạn Trường sinh (*The Immortality Madness*)**:
-   * Các vị quân vương bù nhìn kế vị mang nỗi ám ảnh bệnh hoạn về sự trường sinh. Họ tin rằng Aglaea II đã giấu bí thuật luyện đan trong các lăng tẩm hoàng gia. 
-   * Triều đình hạ lệnh đào bới các khu lăng mộ tổ tiên, bắt cóc hàng trăm pháp sư khắp các tỉnh thành, nhốt vào ngục tối kinh thành để ép luyện đan dược. Hàng loạt vụ nổ ma pháp ngầm làm sụp lở các tầng hầm của cung điện Limorina, làm ô nhiễm linh mạch nguồn nước sông Kintazion.
-2. **Khủng hoảng Sinh thái & Linh mạch**:
-   * Khi không còn Đại Pháp sư điều hòa kết giới khí hậu, châu thổ miền Trung liên tiếp hứng chịu thiên tai dị thường: hạn hán thiêu rụi các cánh đồng lúa mì năm 982 AD, tiếp sau đó là trận đại hồng thủy năm 994 AD phá vỡ toàn bộ hệ thống đê điều do vua Murad I đắp từ nhiều thế kỷ trước.
-   * Dịch bệnh bùng phát, dân số suy giảm nghiêm trọng, nạn đói đẩy hàng chục vạn nông dân tự do (*carlas*) vào cảnh bần cùng hóa.
-3. **Sự ly tâm toàn diện của các xứ**:
-   * Các thương cảng duyên hải tại Alexandra, Inmouth và Maberden ngừng nộp thuế cho kinh đô, tự lập hạm đội bảo an riêng.
-   * Xứ Penmawr và Cambria tuyên bố quyền tự trị luật tục, trục xuất toàn bộ quan lại và quân đồn trú của Limorina. Quyền uy của triều đình trung ương trên thực tế chỉ còn gói gọn trong phạm vi bức tường thành kinh đô.
+#### Triều Godwin II Kẻ Đào Mộ (968 – 983 AD)
 
-### Triều Michael I và Đoạn đầu đài năm 1015 AD
+Sau khi Aglaea II thoái ẩn và Vương nữ Elaina trốn thoát, Hội đồng Tăng lữ và các đại thần phàm trần đã suy tôn người chú họ của vương nữ là hoàng thân Godwin lên ngôi, lấy vương hiệu là **Godwin II** (*Godwin II se Grafere* - Kẻ Đào Mộ / Toàn Nghi Vương) ở tuổi 45:
+* **Khởi xướng "Cơn sốt Điên loạn Trường sinh" (*The Immortality Madness*)**: Không cam chịu quy luật sinh tử của người phàm, Godwin II mang nỗi ám ảnh bệnh hoạn về sự trường sinh của Aglaea II. Cho rằng các bậc tiền nhân đã chôn giấu bí thuật luyện đan trong lăng tẩm, nhà vua ra lệnh cho quân đội khai quật hàng loạt khu lăng mộ tổ tiên quanh kinh đô Limorina.
+* **Chiến dịch truy bắt pháp sư**: Triều đình ban hành lệnh cưỡng bức bắt giữ hàng trăm pháp sư khắp các tỉnh hạt, giam cầm dưới mật thất hoàng cung để ép buộc nghiên cứu ma thuật cấm và luyện chế độc dược trường sinh. Các vụ nổ ma pháp ngầm liên tiếp xảy ra làm sụp đổ các tầng hầm cung điện, khiến linh mạch ngầm bị vỡ và chất độc ma thuật rò rỉ làm ô nhiễm dòng nước sông Kintazion.
+* **Đại hạn hán năm 982 AD**: Việc tàn phá linh mạch cộng với việc mất đi Đại Pháp sư điều hòa kết giới tự nhiên đã dẫn tới đợt hạn hán khốc liệt chưa từng có năm 982 AD, thiêu rụi toàn bộ các cánh đồng lúa mì châu thổ. Mùa đông năm 983 AD, Godwin II phát điên và băng hà sau khi uống một liều độc dược ma pháp thất bại.
 
-Năm 1008 AD, hoàng thân Michael đăng cơ ở tuổi 22, trở thành **Michael I** (*Michael I se Unrǣda* - Michael Đoản Mệnh / Vô Mưu Vương). Là vị quân vương thứ 15 của vương triều Morrazalina, Michael I hoàn toàn bất lực trước cục diện tan rã:
+#### Triều Edward VII Hư Vọng Vương (983 – 997 AD)
 
-* Nhằm cứu vãn ngân khố trống rỗng, nhà vua ra sắc lệnh tăng thuế thân lên gấp ba lần, đồng thời cưỡng bức trưng thu toàn bộ tài sản của giới quý tộc đô thành và thương nhân Cảng Brampton.
-* Sắc lệnh này châm ngòi cho sự phẫn nộ tột cùng của mọi tầng lớp xã hội: từ thị dân nghèo đói, binh lính cấm vệ bị quỵt lương cho tới giới quý tộc thế gia quyền lực.
+Kế vị vua cha là thái tử Edward, đăng cơ lấy vương hiệu là **Edward VII** (*Eadweard VII se Dƿeorg* - Hư Vọng Vương / Huyễn Mộng Vương) ở tuổi 26:
+* **Sự thao túng của sủng thần và thuật sĩ ngoại lai**: Nhu nhược và mê muội, Edward VII tiếp tục lún sâu vào con đường tìm kiếm trường thọ. Nhà vua tin dùng các phường thuật sĩ giả kim trôi nổi từ phương Nam và các tu sĩ dị giáo, chi dùng cạn kiệt ngân khố quốc gia để mua các loại khoáng thạch quý hiếm phục vụ việc luyện đan. Ngài cho xây dựng một đại ly cung xa hoa ven vịnh Brampton để "bế quan tu tiên", bỏ mặc triều chính cho các sủng thần lộng quyền mua quan bán tước.
+* **Thảm họa đại hồng thủy năm 994 AD**: Mùa thu năm 994 AD, những cơn bão dị thường từ biển Bắc đã làm vỡ tan tuyến đại đê sông Kintazion do vua Murad I đắp từ thế kỷ IV. Toàn bộ châu thổ miền Trung chìm sâu trong biển nước; dịch bệnh và nạn đói hoành hành cướp đi sinh mạng của hơn 10 vạn thường dân.
+* **Các phiên trấn ly tâm**: Trước lời khẩn cầu cứu đói của thần dân, Edward VII thẳng thừng từ chối xuất kho bạc hoàng gia. Sự phẫn nộ bùng nổ khiến các thương cảng duyên hải Alexandra, Inmouth và toàn bộ xứ Penmawr công khai tuyên bố ngừng nộp thuế khóa, trục xuất quan lại triều đình và tự thành lập hải đội bảo an riêng.
 
-Trước bờ vực diệt vong, một thủ lĩnh xuất chúng đã đứng lên lãnh đạo phong trào phản kháng: **Hector Hinderland**—một viên đại quý tộc kiêm tướng lĩnh quân vụ tài ba, người nắm giữ sự trung thành tuyệt đối của các quân đoàn đồn trú miền Tây.
+#### Triều Stephen II Phân Liệt Vương (997 – 1008 AD)
 
-* **Cuộc biến loạn tháng 8 năm 1015 AD**: Hector Hinderland liên kết với Hội đồng Thị dân Limorina, phát động binh biến. Đạo quân khởi nghĩa vượt sông Kintazion, phá toang cổng thành phía Bắc và tràn vào Hoàng cung Limorina mà hầu như không gặp phải sự kháng cự nào từ cấm quân.
-* **Xử trảm Michael I**: Ngày 24 tháng 8 năm 1015 AD, tại Quảng trường Ngã Ba Sông trước Đại Giáo đường Limorina, Hector Hinderland tuyên đọc bản cáo trạng liệt kê 12 đại tội phản quốc và bạo chính của nhà vua. Michael I bị đưa lên đoạn đầu đài và xử trảm công khai trước sự reo hò của hàng vạn thị dân.
+Sau cái chết đột ngột của Edward VII vào mùa xuân năm 997 AD, vương đệ kế vị là **Stephen II** (*Stephan II se Tōslītend* - Phân Liệt Vương):
+* **Triều đình bị xâu xé bởi các tập đoàn môn phiệt**: Dưới triều Stephen II, quyền lực hoàng gia bị vô hiệu hóa hoàn toàn. Cung đình Limorina bị xé nát bởi cuộc tranh giành quyền lực tàn bạo giữa ba phe phái: Phe Quý tộc Quân sự Wantarii, Phe Đại tài phiệt Cảng Brampton và Phe Tăng lữ bảo thủ kinh đô.
+* **Bán tống bán tháo tài nguyên quốc gia**: Để mua chuộc lòng trung thành của các phe phái và có tiền nuôi đạo quân cấm vệ bảo vệ bản thân, Stephen II đã ký các văn khế bán đứt các mỏ bạc Wantarii, mỏ sắt Invergeall và quyền thu thuế quan duyên hải cho các đại gia tộc thương mại.
+* **Đế quốc tan rã trên thực tế**: Năm 1004 AD, Xứ Riralia ở cực Đông tuyên bố trục xuất quan tổng đốc của Limorina, lập Hội đồng Chấp chính độc lập. Quyền uy của vương quyền Morrazalina trên thực tế chỉ còn kiểm soát được vùng đất trong bán kính chưa đầy 30 dặm quanh kinh thành Limorina. Nhà vua sống trong u uất, trầm cảm và qua đời năm 1008 AD ở tuổi 41.
 
-Cái chết của Michael I vào mùa thu năm 1015 AD đã **chính thức đặt dấu chấm hết vĩnh viễn cho Vương triều Morrazalina sau 855 năm cai trị hiển hách (160 – 1015 AD)**.
+#### Triều Michael I Vô Mưu Vương và Đoạn đầu đài (1008 – 1015 AD)
+
+Con trai Stephen II là Michael đăng cơ ở tuổi 22, trở thành **Michael I** (*Michael I se Unrǣda* - Michael Đoản Mệnh / Vô Mưu Vương). Là vị quân vương thứ 15 và cũng là người cuối cùng của dòng họ Morrazalina, Michael I trị vì trong sự tuyệt vọng và hoảng loạn:
+* **Bạo chính và Sắc lệnh Thuế Tam Bội**: Đứng trước một ngân khố rỗng tuếch và đạo cấm vệ quân nổi loạn vì bị nợ lương suốt 2 năm, Michael I ban hành "Sắc lệnh Thuế Tam Bội", cưỡng ép tăng thuế thân lên gấp 3 lần đối với toàn thể thị dân và nông dân nghèo. Đồng thời, nhà vua cho quân lính xông vào dinh thự của các cựu đại thần và thương nhân Cảng Brampton để tịch thu của cải.
+* **Phong trào khởi nghĩa của Hector Hinderland**: Hành động bạo ngược này đã thổi bùng ngọn lửa phẫn nộ tột cùng. Một viên đại quý tộc kiêm tướng lĩnh quân vụ tài ba là **Hector Hinderland**—người nắm giữ sự trung thành của các quân đoàn đồn trú miền Tây—đã liên kết với Hội đồng Thị dân Limorina phát động cuộc tổng khởi nghĩa vũ trang lật đổ bạo triều.
+* **Cuộc biến loạn tháng 8 năm 1015 AD & Đoạn đầu đài**: Ngày 20 tháng 8 năm 1015 AD, đạo quân của Hector Hinderland vượt sông Kintazion, phá tung cổng thành phía Bắc và tràn vào Hoàng cung Limorina. Binh lính cấm vệ lập tức buông vũ khí quy hàng. Michael I bị bắt sống khi đang cố gắng trốn thoát qua đường hầm cống ngầm.
+* **Xử trảm Michael I**: Ngày 24 tháng 8 năm 1015 AD, tại Quảng trường Ngã Ba Sông trước thềm Đại Giáo đường Limorina, Hector Hinderland tuyên đọc bản cáo trạng lịch sử liệt kê 12 đại tội bạo chính, diệt chủng ma pháp và phản quốc của triều đình. Michael I bị đưa lên đoạn đầu đài và xử trảm công khai trước sự reo hò của hàng vạn thị dân.
+
+Cái chết của vua Michael I vào mùa thu năm 1015 AD đã **chính thức đặt dấu chấm hết vĩnh viễn cho 855 năm trị vì của Vương triều Morrazalina (160 – 1015 AD)**.
 
 ---
 
@@ -90,6 +97,8 @@ Sau khi xử trảm Michael I, Hector Hinderland từ chối xưng vương, tuy�
 
 ## 4. Đại Họa Phương Nam: Sự Trỗi dậy của Đế quốc Toghmanistan và Cuộc Xâm Lược năm 1029 AD
 
+![Bản đồ 3: Cục diện toàn lục địa Riralia năm 1028 AD — Đế quốc Toghmanistan trỗi dậy thôn tính toàn bộ các vương quốc phương Nam và áp sát biên cương Thịnh vượng chung Vitalia](/images/Map_1028.png)
+
 Trong khi Vitalia chìm đắm trong nội loạn và tái lập thể chế Thịnh vượng chung, một cơn đại địa chấn địa chính trị đã âm thầm tích tụ và bùng nổ ở nửa phía Nam của lục địa Riralia:
 
 ### Sự trỗi dậy từ Vương quốc Sinowia thành Đế quốc Toghmanistan
@@ -99,7 +108,7 @@ Nhìn lại bản đồ địa chính trị phương Nam trước thời đại 
 * Bao bọc xung quanh Sinowia là một chuỗi các quốc gia đệm: **Robhia** ở phía Bắc, **Vương quốc Milmarban** ở phía Tây, **Vương quốc Silicania** ở phía Đông; xa hơn về phía Bắc là các thực thể như **Berta**, **Aloce**, **Briorcych**, **Wiveria** và **Azteria**.
 
 Vào cuối thế kỷ X, tại Sinowia, dòng tộc kỵ binh thảo nguyên hùng mạnh mang tên **Toghman** đã tiến hành cuộc cải cách tôn giáo và quân sự triệt để:
-1. **Thống nhất nội bộ Sinowia**: Lãnh tụ phái Toghman lật đổ ngai vàng cũ tại Castiluce, hợp nhất các bộ lạc kỵ binh du mục miền Nam, cải quốc hiệu Sinowia thành **Đế quốc Toghmanistan** (*Toghmanist Empire*).
+1. **Thống nhất nội bộ Sinowia**: Lãnh tụ phái Toghman lật đổ ngai vàng cũ tại Castiluce, hợp nhất các bộ lạc kỵ binh du mục miền Nam, cải quốc hiệu Sinowia thành **Đế quốc Toghmanistan** (*Toghman Empire*).
 2. **Chiến dịch Nam chinh Bắc phạt**: Sở hữu lực lượng kỵ xạ thảo nguyên thiện chiến kết hợp với kỹ thuật công thành tân tiến, quân đội Toghmanistan mở các chiến dịch bành trướng thần tốc:
    * Đánh chiếm toàn bộ **Vương quốc Milmarban** ở sườn Tây.
    * Thôn tính thung lũng **Robhia** ở sườn Bắc.
@@ -125,11 +134,13 @@ Chỉ duy nhất tại vùng núi rừng hẻo lánh **Helenica**, thị trấn 
 | STT | Nhân vật / Thực thể | Niên đại | Giai đoạn trị vì / Nắm quyền | Danh xưng / Thể chế | Biến cố lịch sử then chốt | Di sản & Ý nghĩa lịch sử |
 | :---: | :--- | :---: | :---: | :--- | :--- | :--- |
 | **1** | **Aglaea II** | Không rõ – 968 AD | 880 – 968 AD | Trí Huệ Nữ Vương (*se Wīsa*) | Nắm giữ ma lực tối cao; duy trì 88 năm thái bình; thoái ẩn bí ẩn năm 968 AD (huyền tích "Vua ngủ trong núi"). | Đỉnh cao cuối cùng của vương triều Morrazalina. |
-| **2** | **Vương nữ Elaina** | 920 AD – Bất tử | — | Đại Pháp sư (*Ealdor-Maga*) | Thừa hưởng dòng máu bất tử; đào thoát khỏi cuộc săn lùng của triều đình, lui về ẩn dật tại thị trấn Armada (Helenica). | Bảo tồn ngọn lửa tri thức và mầm mống phục hưng tương lai. |
-| **3** | **Các vua suy tàn** | 968 – 1008 AD | 968 – 1008 AD | Vương quyền tha hóa | Cuồng loạn tìm kiếm thuốc trường sinh; bùng phát thiên tai, linh mạch ô nhiễm; các xứ duyên hải ly khai. | Làm khánh kiệt toàn bộ tiềm lực quốc gia. |
-| **4** | **Michael I** | 986 – 1015 AD | 1008 – 1015 AD | Vô Mưu Vương (*se Unrǣda*) | Tăng thuế thân gấp 3; bị quý tộc Hector Hinderland làm binh biến bắt giữ và xử trảm công khai năm 1015 AD. | Vị vua cuối cùng; khép lại 855 năm vương triều Morrazalina. |
-| **5** | **Hector Hinderland** | 970 – 1029 AD | 1015 – 1029 AD | Bảo Hộ Công Tối Cao (*Lord Protector*) | Xóa bỏ ngai vàng phong kiến; khai sinh Thịnh vượng chung Vitalia và Riralia; tử trận tại Trehovil năm 1029 AD. | Người đặt dấu chấm hết cho chế độ quân chủ chuyên chế sơ kỳ. |
-| **6** | **Đế quốc Toghmanistan** | Trỗi dậy ~980 AD | 1029 AD (thôn tính) | Đại Đế chế Ngoại bang | Khởi phát từ Sinowia cổ ở phương Nam; thôn tính Milmarban, Robhia, Silicania, Berta; tiêu diệt Thịnh vượng chung năm 1029 AD. | Mở ra thời kỳ chịu ách đô hộ của ngoại bang đối với người Vitalia. |
+| **2** | **Vương nữ Elaina** | 920 AD – ? | — | Đại Pháp sư (*Ealdor-Maga*) | Thừa hưởng dòng máu bất tử; đào thoát khỏi cuộc săn lùng của triều đình, lui về ẩn dật tại thị trấn Armada (Helenica). | Bảo tồn ngọn lửa tri thức và mầm mống phục hưng tương lai. |
+| **3** | **Godwin II** (*Godwin II*) | 923 – 983 AD | 968 – 983 AD | Kẻ Đào Mộ (*se Grafere*) | Khởi xướng cơn sốt điên loạn tìm trường sinh; đào xới lăng tẩm; bắt bớ pháp sư; gây đại hạn hán năm 982 AD. | Mở đầu cho tiến trình suy thoái và hủy hoại linh mạch. |
+| **4** | **Edward VII** (*Eadweard VII*) | 957 – 997 AD | 983 – 997 AD | Hư Vọng Vương (*se Dƿeorg*) | Tin dùng thuật sĩ giả kim ngoại lai; đại hồng thủy năm 994 AD làm vỡ đê sông Kintazion; các phiên trấn ly khai. | Đẩy vương quốc vào cảnh phân liệt và khánh kiệt kinh tế. |
+| **5** | **Stephen II** (*Stephan II*) | 967 – 1008 AD | 997 – 1008 AD | Phân Liệt Vương (*se Tōslītend*) | Bán tống bán tháo mỏ bạc và quyền thu thuế; triều đình bị 3 phe môn phiệt xâu xé; Riralia lập chính quyền tự trị. | Vương quyền bị thu hẹp chỉ còn trong phạm vi thành Limorina. |
+| **6** | **Michael I** (*Michael I*) | 986 – 1015 AD | 1008 – 1015 AD | Vô Mưu Vương (*se Unrǣda*) | Ban hành Sắc lệnh Thuế Tam Bội; bị Hector Hinderland làm binh biến bắt giữ và xử trảm công khai năm 1015 AD. | Vị vua cuối cùng; khép lại 855 năm vương triều Morrazalina. |
+| **7** | **Hector Hinderland** | 970 – 1029 AD | 1015 – 1029 AD | Bảo Hộ Công Tối Cao (*Lord Protector*) | Xóa bỏ ngai vàng phong kiến; khai sinh Thịnh vượng chung Vitalia và Riralia; tử trận tại Trehovil năm 1029 AD. | Người đặt dấu chấm hết cho chế độ quân chủ chuyên chế sơ kỳ. |
+| **8** | **Đế quốc Toghmanistan** | Trỗi dậy ~980 AD | 1029 AD (thôn tính) | Đại Đế chế Ngoại bang | Khởi phát từ Sinowia cổ ở phương Nam; thôn tính Milmarban, Robhia, Silicania, Berta; tiêu diệt Thịnh vượng chung năm 1029 AD. | Mở ra thời kỳ chịu ách đô hộ của ngoại bang đối với người Vitalia. |
 
 ---
 
@@ -137,5 +148,5 @@ Chỉ duy nhất tại vùng núi rừng hẻo lánh **Helenica**, thị trấn 
 
 Giai đoạn 880 – 1029 AD là giai đoạn bản lề chứng kiến sự biến đổi sâu sắc nhất của ngôn ngữ Vitalia:
 1. **Sự đứt gãy của Tiếng Vitalia Cổ (*Eald-Vitalisc*) chuẩn mực**: Sau khi triều đình Morrazalina sụp đổ và các trường tu viện tại Limorina bị tàn phá trong chiến loạn, hệ thống 4 biến cách phức tạp và các quy tắc ngữ âm cổ điển dần mất đi vị thế độc tôn trong hành chính.
-2. **Sự xâm nhập của lớp từ ngữ kỵ binh Sinowia / Toghmanistan**: Trong quá trình tiếp xúc và bị thôn tính, hàng loạt thuật ngữ quân sự, phẩm hàm kỵ binh và từ vựng đời sống có nguồn gốc thảo nguyên phương Nam đã du nhập ồ ạt vào khẩu ngữ thường nhật của người Vitalia.
+2. **Sự xâm nhập của lớp từ ngữ kỵ binh Sinowia / Toghmanistan**: Trong quá trình tiếp xúc và bị thôn tính, hàng loạt thuật ngữ quân sự, phẩm hàm kỵ binh và từ vựng đời sống có nguồn gốc thảo nguyên phương Nam [Ả Rập (nền chính) lai Celtic] đã du nhập ồ ạt vào khẩu ngữ thường nhật của người Vitalia.
 3. **Sự hình thành Tiếng Vitalia Trung đại (*Middle Vitalian*)**: Cấu trúc câu chuyển hẳn sang trật tự **SVO (Chủ – Động – Vị)** cố định, việc sử dụng giới từ thay thế dần cho các đuôi biến cách danh từ. Đây là bước quá độ hoàn tất để định hình nên tiếng Vitalia thời Trung đại trước khi bước vào các phong trào phục quốc sau này.
