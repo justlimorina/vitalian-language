@@ -1,0 +1,23 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+const base = import.meta.env.BASE_URL;
+const cards = [
+  { eyebrow: '01 · Sounds & spelling', title: 'Phonology', text: 'The sound system, spelling conventions, and pronunciation rules.', href: 'docs/standard/phonology/' },
+  { eyebrow: '02 · How it works', title: 'Grammar', text: 'Word order, pronouns, verbs, nouns, and the shape of a sentence.', href: 'docs/standard/grammar/' },
+  { eyebrow: '03 · Words & roots', title: 'Lexicon', text: 'Germanic foundations, Romance influence, and ways to form new words.', href: 'docs/standard/lexicon/' },
+  { eyebrow: '04 · 100 essentials', title: 'Swadesh list', text: 'Core vocabulary with pronunciation and etymological notes.', href: 'docs/words_list/standard/swadesh_100/' },
+  { eyebrow: '05 · Across time', title: 'Historical background', text: 'The early history of Vitalia and the language that grew there.', href: 'docs/historical_backgrounds/vitalia/01-prior-to-middle-ages/' },
+  { eyebrow: '06 · Voices & places', title: 'Dialects and old forms', text: 'Explore Old Vitalian, Silicanian, and the Limorinian dialect.', href: 'docs/dialects_and_old_forms/old_vitalian/readme/' },
+];
+---
+<SiteLayout title="A language of Vitalia" active="home">
+  <div class="hero">
+    <div class="eyebrow">A constructed language · A world in its words</div>
+    <h1>Meet <em>Vitalische.</em></h1>
+    <p>A language shaped by centuries of change: from its Germanic roots to the courtly influence of Romance, and the living dialects spoken across an imagined kingdom.</p>
+    <div class="hero-links"><a class="button primary" href={`${base}docs/standard/phonology/`}>Start with the language ↗</a><a class="button" href="https://github.com/justlimorina/vitalian-language">Browse the project</a></div>
+  </div>
+  <div class="section-label">Explore the field guide</div>
+  <div class="card-grid">{cards.map((card) => <a class="card" href={`${base}${card.href}`}><small>{card.eyebrow}</small><strong>{card.title}</strong><span>{card.text}</span></a>)}</div>
+  <div class="prose" style="margin-top: 56px"><h2>One language, many eras</h2><p><em>Vitalische</em> is the language of Vitalia. Its standard form draws on Middle English, while older layers preserve a more deeply Germanic grammar. Over time, regional speech gave rise to distinct forms such as Silicanian and Limorinian.</p><p>This field guide brings together the sounds, grammar, vocabulary, history, and sample texts of the language.</p></div>
+</SiteLayout>

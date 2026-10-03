@@ -1,5 +1,23 @@
 # Tiếng Vitalia (Vitalische)
 
+> **Website tài liệu:** [justlimorina.github.io/vitalian-language](https://justlimorina.github.io/vitalian-language/)
+
+## Chạy website local
+
+```sh
+npm install
+npm run dev
+```
+
+Astro lấy nội dung trực tiếp từ `docs/` và `samples/`. Mỗi lần push lên nhánh `main`, GitHub Actions sẽ build và deploy website. Để bật deploy lần đầu, vào **Settings → Pages** của repository và chọn **GitHub Actions** làm build and deployment source.
+
+```sh
+npm run build
+npm run preview
+```
+
+---
+
 Ngôn ngữ xây dựng (Conlang) cho quốc gia giả tưởng **Vitalia**, lấy cảm hứng từ **tiếng Anh trung đại (Middle English)** và phát triển thành hệ thống riêng về chính tả, ngữ âm và ngữ pháp.
 
 ---

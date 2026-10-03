@@ -1,0 +1,39 @@
+---
+const { title = 'Vitalian language', active = '' } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const groups = [
+  { title: 'Standard Vitalian', links: [['Phonology', 'docs/standard/phonology'], ['Grammar', 'docs/standard/grammar'], ['Lexicon', 'docs/standard/lexicon'], ['Swadesh list', 'docs/words_list/standard/swadesh_100']] },
+  { title: 'Historical forms', links: [['Vitalia before the Middle Ages', 'docs/historical_backgrounds/vitalia/01-prior-to-middle-ages'], ['Old Vitalian', 'docs/dialects_and_old_forms/old_vitalian/readme'], ['Silicanian', 'docs/dialects_and_old_forms/silicanian/readme'], ['Limorinian', 'docs/dialects_and_old_forms/limorinian/readme']] },
+  { title: 'More', links: [['Sample texts', 'samples/sample_texts'], ['Old Vitalian word list', 'docs/words_list/old_vitalian/swadesh_100_old_vitalian'], ['Silicanian word list', 'docs/words_list/silicanian/swadesh_100_silicania'], ['Limorinian word list', 'docs/words_list/limorinian/swadesh_100_limorina']] },
+];
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#f7f5ef" />
+    <meta name="description" content="A field guide to Vitalische: its sounds, grammar, vocabulary, dialects, and history." />
+    <title>{title} · Vitalische</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="wordmark" href={`${base}`}><span class="mark">V</span><span>VITALISCHE<small>A LANGUAGE OF VITALIA</small></span></a>
+      <a class="github" href="https://github.com/justlimorina/vitalian-language">View source <span>↗</span></a>
+    </header>
+    <aside class="sidebar">
+      <a class:list={['nav-home', active === 'home' && 'selected']} href={base}>Overview</a>
+      {groups.map((group) => <section class="nav-group"><h2>{group.title}</h2>{group.links.map(([label, path]) => <a class:list={['nav-link', active === path && 'selected']} href={`${base}${path}/`}>{label}</a>)}</section>)}
+      <div class="sidebar-note">An evolving language<br />for an imagined land.</div>
+    </aside>
+    <main><slot /></main>
+    <footer>Vitalische <span>·</span> A living worldbuilding project</footer>
+  </body>
+</html>
+<style is:global>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
+  :root{font-family:'DM Sans',sans-serif;color:#252a24;background:#f7f5ef;font-synthesis:none;text-rendering:optimizeLegibility;--green:#405a43;--muted:#7b8077;--line:#e7e4db;--serif:'Newsreader',Georgia,serif;--mono:'DM Mono',monospace}
+  *{box-sizing:border-box}body{margin:0;min-height:100vh}.topbar{height:76px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 6vw;background:#faf9f5}.wordmark{display:flex;align-items:center;gap:12px;text-decoration:none;color:#273329;font-size:13px;font-weight:700;letter-spacing:.13em}.wordmark small{display:block;font:9px var(--mono);color:#878b7f;letter-spacing:.12em;margin-top:4px}.mark{display:grid;place-items:center;width:35px;height:35px;background:var(--green);color:#f8f4e9;border-radius:50%;font:italic 22px var(--serif)}.github{font-size:12px;color:#646a60;text-decoration:none}.github span{color:var(--green);margin-left:5px}.sidebar{position:fixed;top:76px;bottom:0;left:0;width:270px;padding:30px 25px 25px 6vw;border-right:1px solid var(--line);overflow:auto}.nav-home,.nav-link{display:block;text-decoration:none;color:#626960;font-size:12px;line-height:1.45;padding:7px 10px;border-radius:5px}.nav-home{font-weight:600;margin-bottom:26px;color:#3b483b}.nav-group{margin-bottom:25px}.nav-group h2{font:9px var(--mono);text-transform:uppercase;letter-spacing:.12em;color:#99998e;padding:0 10px;margin:0 0 8px}.nav-link.selected,.nav-home.selected{background:#eaece4;color:#314c35;font-weight:600}.nav-link:hover,.nav-home:hover{color:var(--green)}.sidebar-note{position:absolute;bottom:27px;color:#a0a095;font:10px/1.7 var(--mono)}main{margin-left:270px;max-width:1050px;padding:64px clamp(34px,7vw,110px) 110px}footer{margin-left:270px;padding:22px clamp(34px,7vw,110px);border-top:1px solid var(--line);color:#95958a;font:10px var(--mono)}footer span{padding:0 8px;color:#c1bcae}.eyebrow{font:10px var(--mono);text-transform:uppercase;letter-spacing:.15em;color:#8a8c7d}.prose{max-width:740px}.prose h1{font:500 clamp(38px,5vw,58px)/1.05 var(--serif);letter-spacing:-.035em;margin:16px 0 24px;color:#263428}.prose h2{font:500 29px/1.2 var(--serif);letter-spacing:-.02em;margin:48px 0 17px;color:#304332}.prose h3{font:600 17px var(--sans, sans-serif);margin:32px 0 12px}.prose p,.prose li{font-size:15px;line-height:1.85;color:#535a50}.prose a{color:#49684d;text-decoration-color:#b7c0b0;text-underline-offset:3px}.prose strong{color:#303a30}.prose ul,.prose ol{padding-left:22px}.prose blockquote{border-left:2px solid #9aaa91;margin:25px 0;padding:2px 0 2px 20px;color:#777d71}.prose table{width:100%;border-collapse:collapse;font-size:13px;display:block;overflow:auto;margin:24px 0}.prose th{text-align:left;font:10px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:#838779;background:#efeee7}.prose td,.prose th{padding:10px 13px;border:1px solid #e5e3da}.prose code{font: .85em var(--mono);background:#eeede6;padding:2px 5px;border-radius:3px}.prose pre{overflow:auto;padding:18px;background:#eeede6;border-radius:7px}.prose pre code{padding:0;background:none}.prose hr{border:0;border-top:1px solid var(--line);margin:38px 0}.hero{padding:52px 0 58px;border-bottom:1px solid var(--line);margin-bottom:44px}.hero .eyebrow{color:#71826c}.hero h1{font:500 clamp(48px,7vw,82px)/.98 var(--serif);letter-spacing:-.055em;max-width:700px;margin:19px 0}.hero h1 em{color:var(--green);font-weight:400}.hero p{max-width:580px;color:#73786e;font-size:16px;line-height:1.8}.hero-links{display:flex;gap:11px;margin-top:28px}.button{padding:11px 15px;border:1px solid #dcded3;border-radius:4px;color:#455c45;text-decoration:none;font-size:12px}.button.primary{background:var(--green);border-color:var(--green);color:white}.section-label{font:10px var(--mono);text-transform:uppercase;letter-spacing:.13em;color:#919184;margin-bottom:20px}.card-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.card{padding:19px 20px;border:1px solid var(--line);border-radius:6px;background:#faf9f5;text-decoration:none;transition:transform .15s,border-color .15s}.card:hover{transform:translateY(-2px);border-color:#aebba7}.card small{font:9px var(--mono);text-transform:uppercase;letter-spacing:.1em;color:#8b907f}.card strong{display:block;font:500 21px var(--serif);color:#344837;margin:8px 0 5px}.card span{font-size:12px;line-height:1.6;color:#7b8077}.document-head{padding-bottom:25px;border-bottom:1px solid var(--line);margin-bottom:34px}.document-head .eyebrow{margin-bottom:12px}.document-head h1{font:500 clamp(37px,5vw,54px)/1.08 var(--serif);letter-spacing:-.035em;margin:0;color:#29382a}.document-head p{color:#777d72;font-size:13px;margin:14px 0 0}
+  @media(max-width:850px){.sidebar{width:220px;padding-left:22px}.sidebar-note{display:none}main{margin-left:220px;padding:50px 34px 80px}footer{margin-left:220px;padding-left:34px}.topbar{padding:0 24px}}
+  @media(max-width:620px){.topbar{height:64px}.sidebar{position:static;width:auto;height:auto;padding:12px 15px;border-right:0;border-bottom:1px solid var(--line);display:flex;gap:6px;overflow:auto;white-space:nowrap}.nav-home,.nav-group{margin:0}.nav-home,.nav-link{padding:8px 10px}.nav-group h2,.sidebar-note{display:none}.nav-group{display:flex}main{margin:0;padding:36px 22px 70px}footer{margin:0;padding:20px 22px}.card-grid{grid-template-columns:1fr}.hero{padding-top:30px}.github{font-size:0}.github span{font-size:16px}}
+</style>
