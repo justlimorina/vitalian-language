@@ -352,7 +352,7 @@ Dưới triều **Oswald II** (*Oswald se Glēawa*), đất nước trở lại 
 
 * **Triều Murad III Bách Triều Vương (819 – 851 AD)**: Mang tôn hiệu **Murad III** (*Murad se Cynelic*). Sang thế kỷ thứ IX, sau gần bốn thế kỷ thái bình, những mầm mống khủng hoảng cơ cấu bắt đầu xuất hiện:
   * Sự tích tụ ruộng đất không ngừng của các dòng họ đại quý tộc tại Penmawr, Riralia và miền Nam khiến tầng lớp nông dân tự do (*carlas*) giảm sút nghiêm trọng.
-  * Tầng lớp đại thương gia hàng hải tại Cảng Brampton và Inmouth ngày càng thao túng nền kinh tế, đối đầu quyền lực với giới quý tộc điền trang truyền thống trong Viện Nguyên Lão Liên Hiệp.
+  * Tầng lớp đại thương gia hàng hải tại Cảng Brampton và Inmouth ngày càng thao túng nền kinh tế, đối đầu quyền lực với giới quý tộc điền trang truyền thống trong Nghị viện Liên hiệp.
   * Xuất hiện các cuộc tranh chấp quyền tài phán tôn giáo giữa Tòa Tổng Giám mục Limorina và các giáo khu bảo thủ miền Đông tại Abercaethen và Riralo.
 * **Triều James IV Trì Thế Vương (851 – 879 AD)**: Là vị quân vương thứ 12 và cũng là người cuối cùng của Kỷ nguyên Hoàng Kim, mang tôn hiệu **James IV** (*Iacob IV se Langsum*). Ý thức được nguy cơ suy thoái, nhà vua ban hành *Sắc lệnh Hạn điền* nhằm hạn chế việc kiêm tính đất đai của quý tộc, đồng thời nỗ lực điều đình mâu thuẫn sắc tộc giữa người Vitalia, người Cambria, Penmawr và Riralia. Ngài giữ vững sự ổn định và thống nhất của đế quốc cho đến ngày trút hơi thở cuối cùng vào mùa đông năm 879 AD ở tuổi 68.
 
