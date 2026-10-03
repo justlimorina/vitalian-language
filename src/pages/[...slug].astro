@@ -59,7 +59,7 @@ markdown.use({
       }
       return `<h${depth} id="${id}">${text}</h${depth}>`;
     },
-    link({ href, title: linkTitle, text }) {
+    link({ href, title: linkTitle, text, tokens }) {
       if (!href) return text;
       const [target, fragment] = href.split('#');
       if (target.endsWith('.md')) {
@@ -67,12 +67,20 @@ markdown.use({
         const path = resolved.pathname.replace(/\.md$/, '/');
         href = `${base}${path.replace(/^\//, '')}${fragment ? `#${fragment}` : ''}`;
       }
-      return `<a href="${href}"${linkTitle ? ` title="${linkTitle}"` : ''}>${text}</a>`;
+      const innerText = tokens ? this.parser.parseInline(tokens) : text;
+      return `<a href="${href}"${linkTitle ? ` title="${linkTitle}"` : ''}>${innerText}</a>`;
     },
   },
 });
 
-const rendered = await markdown.parse(body);
+const processedBody = body
+  .replaceAll('$\\rightarrow$', '→')
+  .replaceAll('$\\leftarrow$', '←')
+  .replaceAll('$\\leftrightarrow$', '↔')
+  .replaceAll('\\rightarrow', '→')
+  .replaceAll('\\leftarrow', '←');
+
+const rendered = await markdown.parse(processedBody);
 
 // Vietnamese section names mapping
 function getSectionName(path: string): string {
