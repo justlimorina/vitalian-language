@@ -1,39 +1,854 @@
 ---
-const { title = 'Vitalian language', active = '' } = Astro.props;
+interface Props {
+  title?: string;
+  active?: string;
+}
+
+const { title = 'Tiếng Vitalia (Vitalische)', active = '' } = Astro.props;
 const base = import.meta.env.BASE_URL;
+
 const groups = [
-  { title: 'Standard Vitalian', links: [['Phonology', 'docs/standard/phonology'], ['Grammar', 'docs/standard/grammar'], ['Lexicon', 'docs/standard/lexicon'], ['Swadesh list', 'docs/words_list/standard/swadesh_100']] },
-  { title: 'Historical forms', links: [['Vitalia before the Middle Ages', 'docs/historical_backgrounds/vitalia/01-prior-to-middle-ages'], ['Old Vitalian', 'docs/dialects_and_old_forms/old_vitalian/readme'], ['Silicanian', 'docs/dialects_and_old_forms/silicanian/readme'], ['Limorinian', 'docs/dialects_and_old_forms/limorinian/readme']] },
-  { title: 'More', links: [['Sample texts', 'samples/sample_texts'], ['Old Vitalian word list', 'docs/words_list/old_vitalian/swadesh_100_old_vitalian'], ['Silicanian word list', 'docs/words_list/silicanian/swadesh_100_silicania'], ['Limorinian word list', 'docs/words_list/limorinian/swadesh_100_limorina']] },
+  {
+    title: 'Tiếng Vitalia Chuẩn',
+    links: [
+      { label: 'Ngữ âm & Chính tả', path: 'docs/standard/phonology', icon: 'volume_up' },
+      { label: 'Ngữ pháp', path: 'docs/standard/grammar', icon: 'auto_stories' },
+      { label: 'Từ vựng & Cấu từ', path: 'docs/standard/lexicon', icon: 'menu_book' },
+      { label: 'Bảng 100 từ Swadesh', path: 'docs/words_list/standard/swadesh_100', icon: 'format_list_numbered' },
+    ],
+  },
+  {
+    title: 'Lịch sử & Phương ngữ',
+    links: [
+      { label: 'Vitalia trước Trung Cổ', path: 'docs/historical_backgrounds/vitalia/01-prior-to-middle-ages', icon: 'castle' },
+      { label: 'Tiếng Vitalia Cổ', path: 'docs/dialects_and_old_forms/old_vitalian/readme', icon: 'history' },
+      { label: 'Tiếng Silicania', path: 'docs/dialects_and_old_forms/silicanian/readme', icon: 'explore' },
+      { label: 'Phương ngữ Limorina', path: 'docs/dialects_and_old_forms/limorinian/readme', icon: 'map' },
+    ],
+  },
+  {
+    title: 'Văn bản & Bảng từ',
+    links: [
+      { label: 'Văn bản mẫu', path: 'samples/sample_texts', icon: 'article' },
+      { label: 'Bảng từ Vitalia Cổ', path: 'docs/words_list/old_vitalian/swadesh_100_old_vitalian', icon: 'history_edu' },
+      { label: 'Bảng từ Silicania', path: 'docs/words_list/silicanian/swadesh_100_silicania', icon: 'list_alt' },
+      { label: 'Bảng từ Limorina', path: 'docs/words_list/limorinian/swadesh_100_limorina', icon: 'list_alt' },
+    ],
+  },
 ];
 ---
 <!doctype html>
-<html lang="en">
+<html lang="vi">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="theme-color" content="#f7f5ef" />
-    <meta name="description" content="A field guide to Vitalische: its sounds, grammar, vocabulary, dialects, and history." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#216c3b" />
+    <meta name="description" content="Tài liệu ngôn ngữ học và cẩm nang tiếng Vitalia (Vitalische): ngữ âm, ngữ pháp, từ vựng, phương ngữ và lịch sử." />
     <title>{title} · Vitalische</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Roboto+Mono:wght@400;500;600&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,400,0..1,0&display=swap" rel="stylesheet" />
   </head>
   <body>
-    <header class="topbar">
-      <a class="wordmark" href={`${base}`}><span class="mark">V</span><span>VITALISCHE<small>A LANGUAGE OF VITALIA</small></span></a>
-      <a class="github" href="https://github.com/justlimorina/vitalian-language">View source <span>↗</span></a>
+    <!-- Top App Bar (MD3 Small Top App Bar) -->
+    <header class="md3-top-app-bar">
+      <div class="top-bar-left">
+        <button id="menu-toggle" class="icon-btn mobile-only" aria-label="Mở danh mục điều hướng">
+          <span class="material-symbols-outlined">menu</span>
+        </button>
+        <a class="brand-monogram" href={base} title="Trang chủ Vitalische">
+          <span class="monogram-letter">V</span>
+          <div class="brand-text">
+            <span class="brand-title">VITALISCHE</span>
+            <span class="brand-subtitle">NGÔN NGỮ VITALIA</span>
+          </div>
+        </a>
+      </div>
+      <div class="top-bar-actions">
+        <a class="nav-chip-link" href="https://github.com/justlimorina/vitalian-language" target="_blank" rel="noopener noreferrer">
+          <span class="material-symbols-outlined chip-icon">code</span>
+          <span>Mã nguồn</span>
+          <span class="material-symbols-outlined chip-icon-ext">open_in_new</span>
+        </a>
+      </div>
     </header>
-    <aside class="sidebar">
-      <a class:list={['nav-home', active === 'home' && 'selected']} href={base}>Overview</a>
-      {groups.map((group) => <section class="nav-group"><h2>{group.title}</h2>{group.links.map(([label, path]) => <a class:list={['nav-link', active === path && 'selected']} href={`${base}${path}/`}>{label}</a>)}</section>)}
-      <div class="sidebar-note">An evolving language<br />for an imagined land.</div>
-    </aside>
-    <main><slot /></main>
-    <footer>Vitalische <span>·</span> A living worldbuilding project</footer>
+
+    <div class="layout-container">
+      <!-- Backdrop for mobile drawer -->
+      <div id="nav-backdrop" class="drawer-backdrop"></div>
+
+      <!-- Navigation Drawer (MD3 Standard / Modal Drawer) -->
+      <aside id="nav-drawer" class="md3-nav-drawer">
+        <div class="drawer-header mobile-only">
+          <div class="drawer-brand">
+            <span class="monogram-letter-sm">V</span>
+            <strong>Cẩm nang Vitalische</strong>
+          </div>
+          <button id="close-drawer" class="icon-btn" aria-label="Đóng danh mục">
+            <span class="material-symbols-outlined">close</span>
+          </button>
+        </div>
+
+        <nav class="drawer-nav">
+          <a class:list={['nav-item', active === 'home' && 'active']} href={base}>
+            <span class="material-symbols-outlined nav-item-icon">home</span>
+            <span class="nav-item-label">Tổng quan</span>
+          </a>
+
+          {groups.map((group) => (
+            <div class="nav-group">
+              <div class="nav-group-title">{group.title}</div>
+              {group.links.map((item) => (
+                <a class:list={['nav-item', active === item.path && 'active']} href={`${base}${item.path}/`}>
+                  <span class="material-symbols-outlined nav-item-icon">{item.icon}</span>
+                  <span class="nav-item-label">{item.label}</span>
+                </a>
+              ))}
+            </div>
+          ))}
+        </nav>
+
+        <div class="drawer-footer">
+          <div class="drawer-footer-card">
+            <span class="material-symbols-outlined footer-card-icon">auto_awesome</span>
+            <div class="footer-card-text">
+              <strong>Vitalische Conlang</strong>
+              <span>Dự án xây dựng ngôn ngữ & thế giới giả tưởng</span>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main Content Area -->
+      <main class="main-content">
+        <div class="content-wrapper">
+          <slot />
+        </div>
+        <footer class="md3-footer">
+          <div class="footer-inner">
+            <p>© Vitalische · Ngôn ngữ & Lịch sử Vitalia. Phát triển trên nền tảng Astro & Material Design 3.</p>
+            <div class="footer-links">
+              <a href={base}>Trang chủ</a>
+              <span>·</span>
+              <a href={`${base}docs/standard/phonology/`}>Ngữ âm</a>
+              <span>·</span>
+              <a href={`${base}docs/standard/grammar/`}>Ngữ pháp</a>
+              <span>·</span>
+              <a href="https://github.com/justlimorina/vitalian-language" target="_blank" rel="noopener noreferrer">GitHub</a>
+            </div>
+          </div>
+        </footer>
+      </main>
+    </div>
+
+    <script>
+      import '@material/web/button/filled-button.js';
+      import '@material/web/button/outlined-button.js';
+      import '@material/web/button/text-button.js';
+      import '@material/web/icon/icon.js';
+      import '@material/web/iconbutton/icon-button.js';
+      import '@material/web/divider/divider.js';
+
+      const menuToggle = document.getElementById('menu-toggle');
+      const closeDrawer = document.getElementById('close-drawer');
+      const navDrawer = document.getElementById('nav-drawer');
+      const navBackdrop = document.getElementById('nav-backdrop');
+
+      function openMenu() {
+        navDrawer?.classList.add('open');
+        navBackdrop?.classList.add('open');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeMenu() {
+        navDrawer?.classList.remove('open');
+        navBackdrop?.classList.remove('open');
+        document.body.style.overflow = '';
+      }
+
+      menuToggle?.addEventListener('click', openMenu);
+      closeDrawer?.addEventListener('click', closeMenu);
+      navBackdrop?.addEventListener('click', closeMenu);
+    </script>
   </body>
 </html>
+
 <style is:global>
-  @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
-  :root{font-family:'DM Sans',sans-serif;color:#252a24;background:#f7f5ef;font-synthesis:none;text-rendering:optimizeLegibility;--green:#405a43;--muted:#7b8077;--line:#e7e4db;--serif:'Newsreader',Georgia,serif;--mono:'DM Mono',monospace}
-  *{box-sizing:border-box}body{margin:0;min-height:100vh}.topbar{height:76px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 6vw;background:#faf9f5}.wordmark{display:flex;align-items:center;gap:12px;text-decoration:none;color:#273329;font-size:13px;font-weight:700;letter-spacing:.13em}.wordmark small{display:block;font:9px var(--mono);color:#878b7f;letter-spacing:.12em;margin-top:4px}.mark{display:grid;place-items:center;width:35px;height:35px;background:var(--green);color:#f8f4e9;border-radius:50%;font:italic 22px var(--serif)}.github{font-size:12px;color:#646a60;text-decoration:none}.github span{color:var(--green);margin-left:5px}.sidebar{position:fixed;top:76px;bottom:0;left:0;width:270px;padding:30px 25px 25px 6vw;border-right:1px solid var(--line);overflow:auto}.nav-home,.nav-link{display:block;text-decoration:none;color:#626960;font-size:12px;line-height:1.45;padding:7px 10px;border-radius:5px}.nav-home{font-weight:600;margin-bottom:26px;color:#3b483b}.nav-group{margin-bottom:25px}.nav-group h2{font:9px var(--mono);text-transform:uppercase;letter-spacing:.12em;color:#99998e;padding:0 10px;margin:0 0 8px}.nav-link.selected,.nav-home.selected{background:#eaece4;color:#314c35;font-weight:600}.nav-link:hover,.nav-home:hover{color:var(--green)}.sidebar-note{position:absolute;bottom:27px;color:#a0a095;font:10px/1.7 var(--mono)}main{margin-left:270px;max-width:1050px;padding:64px clamp(34px,7vw,110px) 110px}footer{margin-left:270px;padding:22px clamp(34px,7vw,110px);border-top:1px solid var(--line);color:#95958a;font:10px var(--mono)}footer span{padding:0 8px;color:#c1bcae}.eyebrow{font:10px var(--mono);text-transform:uppercase;letter-spacing:.15em;color:#8a8c7d}.prose{max-width:740px}.prose h1{font:500 clamp(38px,5vw,58px)/1.05 var(--serif);letter-spacing:-.035em;margin:16px 0 24px;color:#263428}.prose h2{font:500 29px/1.2 var(--serif);letter-spacing:-.02em;margin:48px 0 17px;color:#304332}.prose h3{font:600 17px var(--sans, sans-serif);margin:32px 0 12px}.prose p,.prose li{font-size:15px;line-height:1.85;color:#535a50}.prose a{color:#49684d;text-decoration-color:#b7c0b0;text-underline-offset:3px}.prose strong{color:#303a30}.prose ul,.prose ol{padding-left:22px}.prose blockquote{border-left:2px solid #9aaa91;margin:25px 0;padding:2px 0 2px 20px;color:#777d71}.prose table{width:100%;border-collapse:collapse;font-size:13px;display:block;overflow:auto;margin:24px 0}.prose th{text-align:left;font:10px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:#838779;background:#efeee7}.prose td,.prose th{padding:10px 13px;border:1px solid #e5e3da}.prose code{font: .85em var(--mono);background:#eeede6;padding:2px 5px;border-radius:3px}.prose pre{overflow:auto;padding:18px;background:#eeede6;border-radius:7px}.prose pre code{padding:0;background:none}.prose hr{border:0;border-top:1px solid var(--line);margin:38px 0}.hero{padding:52px 0 58px;border-bottom:1px solid var(--line);margin-bottom:44px}.hero .eyebrow{color:#71826c}.hero h1{font:500 clamp(48px,7vw,82px)/.98 var(--serif);letter-spacing:-.055em;max-width:700px;margin:19px 0}.hero h1 em{color:var(--green);font-weight:400}.hero p{max-width:580px;color:#73786e;font-size:16px;line-height:1.8}.hero-links{display:flex;gap:11px;margin-top:28px}.button{padding:11px 15px;border:1px solid #dcded3;border-radius:4px;color:#455c45;text-decoration:none;font-size:12px}.button.primary{background:var(--green);border-color:var(--green);color:white}.section-label{font:10px var(--mono);text-transform:uppercase;letter-spacing:.13em;color:#919184;margin-bottom:20px}.card-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.card{padding:19px 20px;border:1px solid var(--line);border-radius:6px;background:#faf9f5;text-decoration:none;transition:transform .15s,border-color .15s}.card:hover{transform:translateY(-2px);border-color:#aebba7}.card small{font:9px var(--mono);text-transform:uppercase;letter-spacing:.1em;color:#8b907f}.card strong{display:block;font:500 21px var(--serif);color:#344837;margin:8px 0 5px}.card span{font-size:12px;line-height:1.6;color:#7b8077}.document-head{padding-bottom:25px;border-bottom:1px solid var(--line);margin-bottom:34px}.document-head .eyebrow{margin-bottom:12px}.document-head h1{font:500 clamp(37px,5vw,54px)/1.08 var(--serif);letter-spacing:-.035em;margin:0;color:#29382a}.document-head p{color:#777d72;font-size:13px;margin:14px 0 0}
-  @media(max-width:850px){.sidebar{width:220px;padding-left:22px}.sidebar-note{display:none}main{margin-left:220px;padding:50px 34px 80px}footer{margin-left:220px;padding-left:34px}.topbar{padding:0 24px}}
-  @media(max-width:620px){.topbar{height:64px}.sidebar{position:static;width:auto;height:auto;padding:12px 15px;border-right:0;border-bottom:1px solid var(--line);display:flex;gap:6px;overflow:auto;white-space:nowrap}.nav-home,.nav-group{margin:0}.nav-home,.nav-link{padding:8px 10px}.nav-group h2,.sidebar-note{display:none}.nav-group{display:flex}main{margin:0;padding:36px 22px 70px}footer{margin:0;padding:20px 22px}.card-grid{grid-template-columns:1fr}.hero{padding-top:30px}.github{font-size:0}.github span{font-size:16px}}
+  /* ==========================================================================
+     Material Design 3 (MD3) Design Tokens & System Styles
+     Theme: Forest Vitalia (Earthy Green & Warm Surface)
+     ========================================================================== */
+  :root {
+    /* Primary */
+    --md-sys-color-primary: #1b6d39;
+    --md-sys-color-on-primary: #ffffff;
+    --md-sys-color-primary-container: #a4f5b4;
+    --md-sys-color-on-primary-container: #00210b;
+
+    /* Secondary */
+    --md-sys-color-secondary: #516351;
+    --md-sys-color-on-secondary: #ffffff;
+    --md-sys-color-secondary-container: #d4e8d2;
+    --md-sys-color-on-secondary-container: #0f1f11;
+
+    /* Tertiary */
+    --md-sys-color-tertiary: #39656e;
+    --md-sys-color-on-tertiary: #ffffff;
+    --md-sys-color-tertiary-container: #bcebf5;
+    --md-sys-color-on-tertiary-container: #001f25;
+
+    /* Surface & Containers */
+    --md-sys-color-surface: #f8faf4;
+    --md-sys-color-on-surface: #181c18;
+    --md-sys-color-surface-variant: #dee4da;
+    --md-sys-color-on-surface-variant: #424941;
+    --md-sys-color-surface-container-lowest: #ffffff;
+    --md-sys-color-surface-container-low: #f2f5ee;
+    --md-sys-color-surface-container: #ecefe8;
+    --md-sys-color-surface-container-high: #e6eae3;
+    --md-sys-color-surface-container-highest: #e0e4dd;
+
+    /* Outline */
+    --md-sys-color-outline: #727970;
+    --md-sys-color-outline-variant: #c2c9be;
+
+    /* Elevation Shadows */
+    --md-sys-elevation-1: 0 1px 3px 1px rgba(0, 0, 0, 0.08), 0 1px 2px 0 rgba(0, 0, 0, 0.12);
+    --md-sys-elevation-2: 0 2px 6px 2px rgba(0, 0, 0, 0.08), 0 1px 2px 0 rgba(0, 0, 0, 0.12);
+    --md-sys-elevation-3: 0 4px 10px 3px rgba(0, 0, 0, 0.08), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+
+    /* Shape */
+    --md-sys-shape-corner-xs: 4px;
+    --md-sys-shape-corner-sm: 8px;
+    --md-sys-shape-corner-md: 12px;
+    --md-sys-shape-corner-lg: 16px;
+    --md-sys-shape-corner-xl: 24px;
+    --md-sys-shape-corner-full: 9999px;
+
+    /* Typography */
+    --md-sys-typescale-font: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --md-sys-typescale-mono: 'Roboto Mono', 'SF Mono', Consolas, monospace;
+  }
+
+  /* Reset & Base */
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--md-sys-color-surface);
+    color: var(--md-sys-color-on-surface);
+    font-family: var(--md-sys-typescale-font);
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+  }
+
+  /* Material Symbols helper */
+  .material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ==========================================================================
+     Top App Bar (MD3)
+     ========================================================================== */
+  .md3-top-app-bar {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    background: var(--md-sys-color-surface);
+    border-bottom: 1px solid var(--md-sys-color-surface-container-highest);
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .top-bar-left {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .brand-monogram {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    color: var(--md-sys-color-on-surface);
+  }
+
+  .monogram-letter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border-radius: var(--md-sys-shape-corner-md);
+    background: var(--md-sys-color-primary-container);
+    color: var(--md-sys-color-on-primary-container);
+    font-weight: 700;
+    font-size: 20px;
+    box-shadow: var(--md-sys-elevation-1);
+    transition: transform 0.2s ease;
+  }
+
+  .brand-monogram:hover .monogram-letter {
+    transform: scale(1.05);
+  }
+
+  .brand-text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .brand-title {
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--md-sys-color-primary);
+    line-height: 1.2;
+  }
+
+  .brand-subtitle {
+    font-family: var(--md-sys-typescale-mono);
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  .nav-chip-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    border-radius: var(--md-sys-shape-corner-full);
+    border: 1px solid var(--md-sys-color-outline-variant);
+    background: var(--md-sys-color-surface-container-low);
+    color: var(--md-sys-color-on-surface-variant);
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+
+  .nav-chip-link:hover {
+    background: var(--md-sys-color-surface-container-high);
+    border-color: var(--md-sys-color-outline);
+    color: var(--md-sys-color-on-surface);
+  }
+
+  .chip-icon {
+    font-size: 16px;
+    color: var(--md-sys-color-primary);
+  }
+
+  .chip-icon-ext {
+    font-size: 14px;
+    opacity: 0.7;
+  }
+
+  .icon-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: transparent;
+    border-radius: var(--md-sys-shape-corner-full);
+    color: var(--md-sys-color-on-surface-variant);
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+
+  .icon-btn:hover {
+    background: var(--md-sys-color-surface-container-high);
+    color: var(--md-sys-color-on-surface);
+  }
+
+  /* ==========================================================================
+     Layout Container & Navigation Drawer (MD3)
+     ========================================================================== */
+  .layout-container {
+    display: flex;
+    min-height: calc(100vh - 64px);
+  }
+
+  .md3-nav-drawer {
+    width: 290px;
+    flex-shrink: 0;
+    background: var(--md-sys-color-surface);
+    border-right: 1px solid var(--md-sys-color-surface-container-highest);
+    padding: 16px 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: calc(100vh - 64px);
+    position: sticky;
+    top: 64px;
+    overflow-y: auto;
+  }
+
+  .drawer-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .nav-group {
+    margin-top: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .nav-group-title {
+    padding: 8px 16px 4px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  /* MD3 Navigation Drawer Item (Pill style) */
+  .nav-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    height: 44px;
+    padding: 0 16px;
+    border-radius: var(--md-sys-shape-corner-full);
+    text-decoration: none;
+    color: var(--md-sys-color-on-surface-variant);
+    font-size: 14px;
+    font-weight: 500;
+    transition: background-color 0.15s ease, color 0.15s ease;
+  }
+
+  .nav-item-icon {
+    font-size: 20px;
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  .nav-item:hover {
+    background: var(--md-sys-color-surface-container-high);
+    color: var(--md-sys-color-on-surface);
+  }
+
+  .nav-item:hover .nav-item-icon {
+    color: var(--md-sys-color-on-surface);
+  }
+
+  /* MD3 Active Item state */
+  .nav-item.active {
+    background: var(--md-sys-color-secondary-container);
+    color: var(--md-sys-color-on-secondary-container);
+    font-weight: 600;
+  }
+
+  .nav-item.active .nav-item-icon {
+    color: var(--md-sys-color-on-secondary-container);
+  }
+
+  .drawer-footer {
+    margin-top: 24px;
+    padding-top: 12px;
+    border-top: 1px solid var(--md-sys-color-surface-container-highest);
+  }
+
+  .drawer-footer-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 14px;
+    border-radius: var(--md-sys-shape-corner-md);
+    background: var(--md-sys-color-surface-container-low);
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  .footer-card-icon {
+    font-size: 18px;
+    color: var(--md-sys-color-primary);
+    margin-top: 2px;
+  }
+
+  .footer-card-text strong {
+    display: block;
+    font-size: 12px;
+    color: var(--md-sys-color-on-surface);
+  }
+
+  .footer-card-text span {
+    display: block;
+    font-size: 11px;
+    line-height: 1.4;
+  }
+
+  /* ==========================================================================
+     Main Content & Prose
+     ========================================================================== */
+  .main-content {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .content-wrapper {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 48px 36px 80px;
+  }
+
+  /* Article header */
+  .document-head {
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--md-sys-color-surface-container-highest);
+  }
+
+  .document-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 12px;
+    border-radius: var(--md-sys-shape-corner-full);
+    background: var(--md-sys-color-primary-container);
+    color: var(--md-sys-color-on-primary-container);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    margin-bottom: 16px;
+  }
+
+  .document-head h1 {
+    font-size: clamp(28px, 4vw, 40px);
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--md-sys-color-on-surface);
+    margin: 0 0 12px;
+  }
+
+  .document-subhead {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  .document-subhead a {
+    color: var(--md-sys-color-primary);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .document-subhead a:hover {
+    text-decoration: underline;
+  }
+
+  /* ==========================================================================
+     Prose Typography (Markdown Content)
+     ========================================================================== */
+  .prose {
+    font-size: 16px;
+    line-height: 1.75;
+    color: var(--md-sys-color-on-surface);
+  }
+
+  .prose h1, .prose h2, .prose h3, .prose h4 {
+    color: var(--md-sys-color-on-surface);
+    font-weight: 700;
+    scroll-margin-top: 80px;
+  }
+
+  .prose h1 {
+    display: none; /* Already rendered in document-head */
+  }
+
+  .prose h2 {
+    font-size: 24px;
+    margin: 40px 0 16px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--md-sys-color-surface-container-highest);
+  }
+
+  .prose h3 {
+    font-size: 19px;
+    margin: 28px 0 12px;
+    color: var(--md-sys-color-primary);
+  }
+
+  .prose p, .prose ul, .prose ol {
+    margin: 0 0 18px;
+  }
+
+  .prose ul, .prose ol {
+    padding-left: 24px;
+  }
+
+  .prose li {
+    margin-bottom: 8px;
+  }
+
+  .prose a {
+    color: var(--md-sys-color-primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-weight: 500;
+    transition: color 0.15s ease;
+  }
+
+  .prose a:hover {
+    color: #114c26;
+  }
+
+  .prose strong {
+    font-weight: 600;
+    color: var(--md-sys-color-on-surface);
+  }
+
+  /* MD3 Blockquote */
+  .prose blockquote {
+    margin: 24px 0;
+    padding: 16px 20px;
+    background: var(--md-sys-color-surface-container-low);
+    border-left: 4px solid var(--md-sys-color-primary);
+    border-radius: 0 var(--md-sys-shape-corner-md) var(--md-sys-shape-corner-md) 0;
+    color: var(--md-sys-color-on-surface-variant);
+    font-style: italic;
+  }
+
+  /* MD3 Table */
+  .prose table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 28px 0;
+    border: 1px solid var(--md-sys-color-outline-variant);
+    border-radius: var(--md-sys-shape-corner-lg);
+    overflow: hidden;
+    background: var(--md-sys-color-surface-container-lowest);
+    box-shadow: var(--md-sys-elevation-1);
+    font-size: 14.5px;
+  }
+
+  .prose thead {
+    background: var(--md-sys-color-surface-container-high);
+  }
+
+  .prose th {
+    padding: 14px 16px;
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--md-sys-color-on-surface);
+    border-bottom: 1px solid var(--md-sys-color-outline-variant);
+    text-align: left;
+  }
+
+  .prose td {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--md-sys-color-surface-container);
+    color: var(--md-sys-color-on-surface);
+  }
+
+  .prose tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .prose tbody tr:hover {
+    background: var(--md-sys-color-surface-container-low);
+  }
+
+  /* MD3 Inline Code & Code Block */
+  .prose code {
+    font-family: var(--md-sys-typescale-mono);
+    font-size: 0.88em;
+    padding: 2px 6px;
+    border-radius: var(--md-sys-shape-corner-xs);
+    background: var(--md-sys-color-surface-container-high);
+    color: var(--md-sys-color-primary);
+    font-weight: 500;
+  }
+
+  .prose pre {
+    margin: 24px 0;
+    padding: 20px;
+    border-radius: var(--md-sys-shape-corner-lg);
+    background: var(--md-sys-color-surface-container-highest);
+    border: 1px solid var(--md-sys-color-outline-variant);
+    overflow-x: auto;
+  }
+
+  .prose pre code {
+    background: transparent;
+    padding: 0;
+    color: var(--md-sys-color-on-surface);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .prose hr {
+    border: none;
+    border-top: 1px solid var(--md-sys-color-surface-container-highest);
+    margin: 36px 0;
+  }
+
+  /* ==========================================================================
+     Footer (MD3)
+     ========================================================================== */
+  .md3-footer {
+    border-top: 1px solid var(--md-sys-color-surface-container-highest);
+    background: var(--md-sys-color-surface-container-low);
+    padding: 28px 36px;
+  }
+
+  .footer-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    font-size: 13px;
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  .footer-inner p {
+    margin: 0;
+  }
+
+  .footer-links {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .footer-links a {
+    color: var(--md-sys-color-primary);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
+
+  /* Mobile utility */
+  .mobile-only {
+    display: none;
+  }
+
+  .drawer-backdrop {
+    display: none;
+  }
+
+  /* ==========================================================================
+     Responsive Design (Tablets & Mobile)
+     ========================================================================== */
+  @media (max-width: 920px) {
+    .mobile-only {
+      display: flex;
+    }
+
+    .drawer-backdrop {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.4);
+      z-index: 90;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.25s ease;
+    }
+
+    .drawer-backdrop.open {
+      display: block;
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .md3-nav-drawer {
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      height: 100vh;
+      z-index: 100;
+      width: 310px;
+      transform: translateX(-100%);
+      transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: var(--md-sys-elevation-3);
+      padding: 20px 16px;
+    }
+
+    .md3-nav-drawer.open {
+      transform: translateX(0);
+    }
+
+    .drawer-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 8px 16px;
+      border-bottom: 1px solid var(--md-sys-color-surface-container-highest);
+      margin-bottom: 12px;
+    }
+
+    .drawer-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--md-sys-color-primary);
+    }
+
+    .monogram-letter-sm {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      border-radius: var(--md-sys-shape-corner-sm);
+      background: var(--md-sys-color-primary-container);
+      color: var(--md-sys-color-on-primary-container);
+      font-weight: 700;
+      font-size: 16px;
+    }
+
+    .content-wrapper {
+      padding: 28px 20px 60px;
+    }
+
+    .footer-inner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
 </style>

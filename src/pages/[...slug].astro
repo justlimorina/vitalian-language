@@ -14,7 +14,7 @@ export function getStaticPaths() {
 
   return entries.map(({ slug, body, file }) => {
     const match = body.match(/^#\s+(.+)$/m);
-    const title = match?.[1]?.replace(/[*_`]/g, '') ?? slug.split('/').at(-1)?.replaceAll('_', ' ') ?? 'Document';
+    const title = match?.[1]?.replace(/[*_`]/g, '') ?? slug.split('/').at(-1)?.replaceAll('_', ' ') ?? 'Tài liệu';
     return { params: { slug }, props: { body, title, file, slug } };
   });
 }
@@ -23,6 +23,7 @@ const { body, title, file, slug } = Astro.props;
 const cleanFile = file.replace(/^(\.\.\/)+/, '');
 const base = import.meta.env.BASE_URL;
 const active = slug.replace(/\.md$/, '');
+
 const markdown = new Marked({ gfm: true, breaks: false });
 markdown.use({
   renderer: {
@@ -38,12 +39,84 @@ markdown.use({
     },
   },
 });
+
 const rendered = await markdown.parse(body);
-const section = cleanFile.startsWith('samples/') ? 'Sample texts' : cleanFile.split('/')[1]?.replaceAll('_', ' ') ?? 'Vitalische field guide';
+
+// Vietnamese section names mapping
+function getSectionName(path: string): string {
+  if (path.startsWith('samples/')) return 'Văn bản mẫu';
+  if (path.includes('/standard/')) return 'Tiếng Vitalia Chuẩn';
+  if (path.includes('/historical_backgrounds/')) return 'Bối cảnh Lịch sử';
+  if (path.includes('/dialects_and_old_forms/')) return 'Dạng Cổ & Phương ngữ';
+  if (path.includes('/words_list/')) return 'Bảng từ vựng Swadesh';
+  return 'Cẩm nang Vitalische';
+}
+
+const sectionName = getSectionName(cleanFile);
 ---
+
 <SiteLayout title={title} active={active}>
-  <article>
-    <header class="document-head"><div class="eyebrow">{section}</div><h1>{title}</h1><p>Vitalische field guide <span>·</span> <a href={`${base}`}>All topics</a></p></header>
+  <article class="doc-container">
+    <header class="document-head">
+      <div class="document-badge">
+        <span class="material-symbols-outlined" style="font-size: 15px">folder_open</span>
+        <span>{sectionName}</span>
+      </div>
+      <h1>{title}</h1>
+      <div class="document-subhead">
+        <a href={base}>
+          <span class="material-symbols-outlined" style="font-size: 16px">home</span>
+          <span>Tổng quan</span>
+        </a>
+        <span>·</span>
+        <span>{sectionName}</span>
+        <span>·</span>
+        <a href="https://github.com/justlimorina/vitalian-language" target="_blank" rel="noopener noreferrer">
+          <span>Xem tài liệu gốc</span>
+          <span class="material-symbols-outlined" style="font-size: 14px">open_in_new</span>
+        </a>
+      </div>
+    </header>
+
     <div class="prose" set:html={rendered} />
+
+    <footer class="doc-bottom-nav">
+      <a class="nav-chip-link" href={base}>
+        <span class="material-symbols-outlined">arrow_back</span>
+        <span>Về trang tổng quan</span>
+      </a>
+      <a class="nav-chip-link" href="#top" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
+        <span class="material-symbols-outlined">vertical_align_top</span>
+        <span>Lên đầu trang</span>
+      </a>
+    </footer>
   </article>
 </SiteLayout>
+
+<style>
+  .doc-container {
+    animation: fadeIn 0.25s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .doc-bottom-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid var(--md-sys-color-surface-container-highest);
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+</style>
