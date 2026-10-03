@@ -257,7 +257,7 @@ Sau khi James I băng hà, con trai trưởng là **Godwin I** (*Godwin se Wæra
 
 ## Thời kỳ Trung kỳ Trung cổ: Kỷ nguyên Hoàng Kim của Vương triều Morrazalina (453 – 879 AD)
 
-Kỷ nguyên Hoàng Kim (453 – 879 AD) kéo dài 426 năm qua hơn mười thế hệ quân vương, là giai đoạn phát triển rực rỡ nhất về lãnh thổ, sức mạnh quân sự, mậu dịch hàng hải và văn minh của Vương triều Morrazalina. Từ một vương quốc lục địa nằm quanh châu thổ sông Kintazion, Vitalia đã vươn mình trở thành một đại đế quốc liên hợp hàng hải – lục địa hùng mạnh bậc nhất thế giới đương thời. Sự kiện lịch sử mang tính thời đại của giai đoạn này là sự sáp nhập của ba vương quốc cổ phía Đông—**Cereaint** [văn hóa Wales / Celtic Brittonic], **Riralia** [sắc dân bản địa lục địa] và **Pheof** [văn hóa Ireland / Celtic Goidelic]—chính thức khai sinh **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*).
+Kỷ nguyên Hoàng Kim (453 – 879 AD) kéo dài 426 năm qua mười hai thế hệ quân vương, là giai đoạn phát triển rực rỡ nhất về lãnh thổ, sức mạnh quân sự, mậu dịch hàng hải và văn minh của Vương triều Morrazalina. Từ một vương quốc lục địa nằm quanh châu thổ sông Kintazion, Vitalia đã vươn mình trở thành một đại đế quốc liên hợp hàng hải – lục địa hùng mạnh bậc nhất thế giới đương thời. Sự kiện lịch sử mang tính thời đại của giai đoạn này là sự sáp nhập của các thực thể chính trị phía Đông—gồm khối văn hóa Cereaint [Cambrian/Wales cổ] (với **Nhà nước Cambria** và **Vương quốc Penmawr**), tiểu quốc duyên hải **Arys**, đại vương quốc **Riralia** cùng **Quần đảo Pheof** [văn hóa Ireland / Celtic Goidelic] ngoài khơi—chính thức khai sinh **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*).
 
 Tiến trình hơn bốn thế kỷ hoàng kim này được chia thành ba giai đoạn phát triển liên tục:
 
@@ -265,30 +265,45 @@ Tiến trình hơn bốn thế kỷ hoàng kim này được chia thành ba giai
 
 ### 1. Đại nghiệp Hợp nhất và Khai sinh Vương quốc Liên hiệp (453 – 540 AD)
 
+#### Bối cảnh địa chính trị phía Bắc lục địa Riralia trước năm 453 AD
+
+Trước khi đại nghiệp thống nhất của vua James II bắt đầu, bản đồ phía Đông của Vương quốc Vitalia là một bức tranh phân liệt phức tạp gồm nhiều thực thể chính trị độc lập:
+* **Khối văn hóa Cereaint [Cambrian/Wales cổ]**:
+  * **Nhà nước Cambria (*Cambrian State*)**: Nằm trên bán đảo nhô ra biển Bắc, án ngữ các đô thị thành lũy kiên cố như *Kilwynverdon* và hải cảng *Alexandra*.
+  * **Vương quốc Penmawr (*Kingdom of Penmawr*)**: Đại cường quốc duyên hải của người Celtic nằm sát phía Đông Cambrian, nắm giữ quân cảng chiến lược *Inmouth*, kinh thành cổ *Abercaethen* và pháo đài *Pontypridd*.
+  * **Pháo đài yết hầu Invergeall**: Nằm chính xác tại ngã ba biên giới tiếp giáp giữa Vitalia, Cambria và Penmawr, đóng vai trò là "chiếc chìa khóa" sinh tử kiểm soát toàn bộ cửa ngõ ra vào vùng Đông Bắc.
+* **Tiểu quốc Arys**: Vùng đệm đồi núi và đầm lầy duyên hải kẹp giữa Penmawr và Riralia, kiểm soát hai thị trấn yết hầu *Blowelgel* và *Intillainve*.
+* **Vương quốc Riralia (*Kingdom of Riralia*)**: Cường quốc đồng bằng trù phú của sắc tộc Riralia bản địa ở phía Đông, với kinh đô hoa lệ *Riralo* cùng các hải cảng, pháo đài *Maberden, Hesvikland, Hartpole (Hartontef)*.
+* **Quần đảo Pheof**: Chuỗi đảo ngoài khơi biển Bắc đối diện bờ biển Arys và Riralia, nơi định cư của các bộ tộc hàng hải văn hóa Goidelic [Ireland cổ].
+* **Mặt sườn phía Nam**: **Công quốc Berton** và **Thần quyền quốc Leton** (*Letonish Theocracy*) án ngữ sườn Đông Nam của Vitalia.
+
 #### Triều James II Đại Đế (453 – 488 AD)
 
-Sau khi vua cha Godwin I băng hà vào tháng 12 năm 452 AD, Thái tử James đăng cơ tại Đại Giáo đường Limorina, lấy vương hiệu là **James II**. Là một bậc quân vương mang thiên tài quân sự xuất chúng, nhãn quan địa chính trị sắc bén và hoài bão mở cõi vĩ đại, James II đã biến toàn bộ tiềm lực tài chính và cấm quân thiết huyết tích lũy từ thời Tái thiết thành một cuộc đại bành trướng định hình lịch sử:
+Sau khi vua cha Godwin I băng hà vào tháng 12 năm 452 AD, Thái tử James đăng cơ tại Đại Giáo đường Limorina, lấy vương hiệu là **James II**. Sở hữu thiên tài quân sự xuất chúng và nhãn quan địa chính trị sắc bén, James II đã biến toàn bộ tiềm lực tích lũy từ thời Tái thiết thành một cuộc đại bành trướng định hình lịch sử qua *Chiến dịch Đông Phạt* kéo dài hơn hai thập kỷ:
 
-Ngay sau khi lên ngôi, cơ hội lịch sử đã mở ra trước mắt nhà vua: tại **Vương quốc Cereaint**—vùng đất đồi núi hiểm trở nơi sinh sống của người Cambrian cổ ở mạn Đông Bắc—cuộc nội chiến tranh giành ngai vàng giữa các tiểu vương bùng nổ dữ dội, đồng thời hải tặc từ các đảo Pheof liên tục đổ bộ cướp phá vùng duyên hải phía Đông. Trước lời cầu viện của một phe phái quý tộc Cereaint, mùa xuân năm 455 AD, James II thân chinh thống lĩnh đạo quân Thiết Kỵ Hiệp Sĩ kết hợp cùng đại hạm đội Cảng Brampton xuất quân mở *Chiến dịch Đông Phạt*.
+1. **Khống chế yết hầu Invergeall và bình định Cambria (455 – 458 AD)**:
+   Để rảnh tay xuất quân về phía Đông mà không lo bị tập kích bên sườn, James II ký hòa ước bất tương xâm và ưu đãi thuế quan với **Công quốc Berton** ở phía Nam. Mùa xuân năm 455 AD, nhà vua đích thân thống lĩnh 4 vạn Thiết Kỵ Hiệp Sĩ cùng đại hạm đội Cảng Brampton xuất chinh. Đạo quân hoàng gia đánh chiếm pháo đài yết hầu then chốt **Invergeall**, mở toang cánh cửa tiến vào bán đảo phía Bắc. Tại đây, lợi dụng cuộc nội loạn tranh ngôi của các tiểu vương Cambrian, James II nhanh chóng thu phục hai đô thị *Kilwynverdon* và *Alexandra*, sáp nhập **Nhà nước Cambria** vào quyền bảo hộ của triều đình.
+2. **Khuất phục Vương quốc Penmawr (458 – 465 AD)**:
+   Sau khi làm chủ bán đảo Cambria, quân đội Vitalia đối đầu trực diện với lực lượng thiện chiến của **Vương quốc Penmawr**. Trận quyết chiến lịch sử nổ ra tại vùng đồi **Abercaethen** (460 AD): Thiết Kỵ giáp nặng Vitalia phá vỡ hoàn toàn hàng ngũ kỵ binh chiến xa của Penmawr, thừa thắng chiếm đóng quân cảng huyết mạch **Inmouth** và pháo đài **Pontypridd**. Với tầm nhìn của một đại đế vương, James II không tàn phá xứ sở mà thi hành chính sách liên hiệp khoan dung: ngài phong cho cựu vương Penmawr tước vị Đại Công tước xứ Cambria-Penmawr, ban quy chế tự trị luật tục cho người Celtic, đồng thời cử hành đại lễ thành hôn với **Vương nữ Gwenllian xứ Penmawr**, gắn kết vĩnh viễn dòng máu Morrazalina với thần dân khối Cereaint.
+3. **Vượt ngả Arys và quy phục Quần đảo Pheof (466 – 472 AD)**:
+   Nhận thấy uy thế tuyệt đối của triều đình Limorina, Lãnh chúa **tiểu quốc Arys** dâng biểu xin quy phục, mở toang hai thị trấn yết hầu *Blowelgel* và *Intillainve*. Từ căn cứ bàn đạp quân cảng Inmouth và duyên hải Arys, hạm đội liên hiệp Vitalia – Penmawr vượt biển Bắc, đánh dẹp các sào huyệt cướp biển và ký hiệp ước liên minh bảo hộ với các tù trưởng **Quần đảo Pheof**.
+4. **Hợp nhất Đại vương quốc Riralia & Đại lễ Khai sinh Liên hiệp (472 – 476 AD)**:
+   Đứng trước vòng vây địa chính trị từ cả trên bộ lẫn ngoài biển, triều đình **Vương quốc Riralia** tại đô thành **Riralo** nhận thức rõ sự tất yếu của lịch sử. Sau nhiều vòng đàm phán ngoại giao, năm 475 AD, Quốc vương Riralia ký Hiệp ước Hợp nhất hòa bình, chấp nhận sáp nhập vương quốc vào khối liên hiệp để đổi lấy đặc quyền kinh tế và ghế lãnh đạo trong triều đình trung ương.
 
-Trải qua ba năm hành quân bách chiến bách thắng, đỉnh điểm là trận đại thắng quyết định tại thung lũng **Invergeall** (458 AD), quân đội hoàng gia Vitalia đập tan hoàn toàn liên minh quân sự của các lãnh chúa bảo thủ Cereaint, kiểm soát toàn bộ yết hầu phòng tuyến bán đảo Cambrian. Tuy nhiên, thay vì áp đặt chế độ cai trị hà khắc bằng gươm giáo, James II đã thi hành một chính sách hòa giải và liên hiệp vĩ đại: ngài tuyên bố đại xá cho các quý tộc chiến bại, cho phép họ giữ lại điền trang và tập quán pháp địa phương, phong cho thủ lĩnh cựu hoàng tộc Cereaint tước vị Đại Công tước xứ Cambrian, đồng thời chính thức cử hành hôn lễ lịch sử với **Vương nữ Gwenllian xứ Cereaint**. Cuộc hôn nhân liên quốc này đã gắn kết vĩnh viễn dòng máu hoàng gia Morrazalina với thần dân xứ Cambrian.
-
-Thừa thắng xông lên, năm 468 AD, trước sức ép ngoại giao kết hợp viện trợ kinh tế to lớn từ Limorina, triều đình **Vương quốc Riralia** trên bộ chính thức ký kết hòa ước sáp nhập hòa bình. Đến năm 475 AD, hạm đội hải quân Vitalia tiếp tục tiến ra biển Đông, đánh dẹp các sào huyệt hải tặc và ký hiệp ước bảo hộ liên minh với các tộc trưởng quần đảo **Pheof**.
-
-Vào ngày lễ Thánh Michael năm 476 AD, tại kinh thành Limorina, James II long trọng tuyên bố bản chiếu chỉ lịch sử: hợp nhất bốn vùng đất Vitalia, Cereaint, Riralia và Pheof thành một thực thể chính trị thống nhất mang tên **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*). Ngài ban hành *Hiến chương Liên hiệp* (*Geānnes Bōc*), tái cấu trúc Viện Nguyên Lão Hoàng gia thành **Viện Nguyên Lão Liên Hiệp** với sự hiện diện bình đẳng của đại biểu quý tộc và giáo sĩ từ cả bốn xứ, đồng thời giữ vững quy chế đô thành tối cao tại Limorina. Với công nghiệp hợp nhất vĩ đại chưa từng có trong lịch sử lục địa, ngài được thần dân đời đời tôn xưng là **James Đại Đế (*James se Micela*)**. Ngài băng hà năm 488 AD ở tuổi 63 sau 35 năm trị vì hiển hách.
+Vào ngày lễ Thánh Michael năm 476 AD, tại kinh thành Limorina, James II long trọng tuyên bố bản chiếu chỉ lịch sử: hợp nhất toàn bộ bờ cõi từ viễn Tây Wantarii, qua dải đất Cereaint (Cambria và Penmawr), Arys, quần đảo Pheof cho tới đại đô thành Riralo thành một đế chế thống nhất mang tên **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*). Ngài ban hành *Hiến chương Liên hiệp* (*Geānnes Bōc*), tái cấu trúc Viện Nguyên Lão thành **Viện Nguyên Lão Liên Hiệp** với sự hiện diện bình đẳng của đại biểu quý tộc và giáo sĩ từ cả bốn xứ. Với công nghiệp vĩ đại chưa từng có, ngài được thần dân đời đời tôn kính xưng tụng là **James Đại Đế (*James se Micela*)**. Ngài băng hà năm 488 AD ở tuổi 63 sau 35 năm trị vì hiển hách.
 
 #### Triều Edward V Hiệp Sĩ Vương (488 – 515 AD)
 
-Con trưởng của James II và Vương hậu Gwenllian là **Edward V** (*Edward V se Cniht*) kế vị ở tuổi 28:
-* **Bảo vệ toàn vẹn liên bang**: Ngài dành thập niên đầu để tuần thú khắp bốn xứ, dẹp tan các nhóm quý tộc miền núi Cereaint manh nha ly khai, củng cố hệ thống thành lũy biên cương phía Đông.
-* **Sáng lập Hội Hiệp Sĩ Bàn Tròn Liên Hiệp (*Thegnes of the Rounde Table*)**: Tại lâu đài Dunshead, nhà vua sáng lập hội hiệp sĩ quy tụ các dũng tướng xuất sắc nhất từ cả bốn dân tộc Vitalia, Cereaint, Riralia và Pheof. Nghi thức hiệp sĩ và tinh thần thượng võ này đã trở thành chất keo văn hóa gắn kết chặt chẽ tầng lớp quý tộc trẻ tuổi trong toàn liên hiệp.
+Con trưởng của James II và Vương hậu Gwenllian xứ Penmawr là **Edward V** (*Edward V se Cniht*) kế vị ở tuổi 28:
+* **Hội Hiệp Sĩ Bàn Tròn Liên Hiệp (*Thegnes of the Rounde Table*)**: Tại pháo đài ngã ba biên giới **Invergeall**, nhà vua sáng lập hội hiệp sĩ quy tụ các dũng tướng xuất chúng nhất từ Vitalia, Cambrian, Penmawr, Pheof và Riralia. Nghi thức danh dự và tinh thần thượng võ hiệp sĩ đã trở thành sợi dây liên kết văn hóa vững chắc giữa các tầng lớp quý tộc trẻ tuổi trong toàn liên hiệp.
+* **Bảo an biên cương**: Dập tắt các cuộc bạo loạn cục bộ của tàn dư quý tộc miền núi quanh Pontypridd và rặng đồi Arys, củng cố tuyến phòng thủ dọc biên giới phía Nam giáp Berton.
 * **Hạn chế**: Quá say mê các cuộc chinh phạt mở rộng đường biên trên biển, ngân sách cấm quân tiêu tốn đáng kể.
 
 #### Triều Murad II Hòa Giải Vương (515 – 540 AD)
 
 Kế vị Edward V là người con trai mang tên thảo nguyên truyền thống của hoàng tộc: **Murad II** (*Murad II se Friðwīsa*):
-* **Hòa hợp văn hóa & Tôn giáo**: Nhận thấy sự dị biệt sâu sắc về ngôn ngữ và tín ngưỡng giữa người Betarii (Vitalia) và các dân tộc Celtic (Cereaint và Pheof), Murad II ban hành *Chiếu chỉ Khoan dung Tôn giáo*, công nhận quyền tự do thờ phụng của các giáo hội địa phương. Ngài cho thành lập **Đại học viện Liên hiệp tại Limorina** (*Limorina Hēahleornungstōw*), khuyến khích việc dịch thuật văn học, thi ca Celtic sang tiếng Vitalia Cổ và ngược lại.
-* **Phát triển nông nghiệp miền Đông**: Cấp phát nông cụ và kỹ thuật canh tác châu thổ cho vùng đồi núi Cereaint, giúp nông sản toàn cõi liên hiệp dồi dào, dân số tăng trưởng mạnh mẽ.
+* **Hòa hợp văn hóa & Tôn giáo**: Nhận thấy sự dị biệt sâu sắc về ngôn ngữ và tín ngưỡng giữa người Betarii (Vitalia) và các dân tộc Celtic (Cambrian, Penmawr, Pheof), Murad II ban hành *Chiếu chỉ Khoan dung Tôn giáo*, công nhận quyền tự do thờ phụng của các giáo hội địa phương. Ngài cho thành lập **Đại học viện Liên hiệp tại Limorina** (*Limorina Hēahleornungstōw*), tài trợ việc dịch thuật thi ca, huyền thoại Celtic xứ Penmawr sang tiếng Vitalia Cổ và ngược lại.
+* **Khai khẩn kinh tế miền Đông**: Đầu tư kỹ thuật thủy lợi dọc theo các phụ lưu sông quanh kinh thành Riralo và thung lũng Kilwynverdon, đưa sản lượng lúa mì và len dạ của toàn liên hiệp tăng trưởng vượt bậc.
 
 ---
 
@@ -297,31 +312,31 @@ Kế vị Edward V là người con trai mang tên thảo nguyên truyền thố
 #### Triều Kenneth I Hải Vương (540 – 572 AD)
 
 Sau khi Murad II qua đời không có con trai nối dõi, Hội đồng Vương quyền suy tôn vương đệ là **Kenneth I** (*Kenneth I se Sǣ-Cyning*)—vị vua mang dòng máu quý tộc mẫu hệ đảo Pheof:
-* **Làm chủ đại dương**: Kenneth I tái cấu trúc toàn diện lực lượng hải quân, cho đóng hàng trăm chiến hạm mũi rồng ba tầng chèo mang tên *Drakkar-cneow*. Hải quân Hoàng gia Vitalia quét sạch mọi mối đe dọa trên các vùng biển phía Bắc và Đông, bảo hộ tuyệt đối các đoàn thương thuyền.
-* **Mậu dịch hàng hải bùng nổ**: Cảng Brampton và Cảng Inmouth trở thành hai hải cảng sầm uất bậc nhất lục địa, xuất khẩu len dạ, thiếc và lúa mì sang các đế quốc phương xa, thu về bạc, lụa và hương liệu quý hiếm.
+* **Làm chủ đại dương**: Kenneth I biến quân cảng **Inmouth** (Penmawr cũ) và cảng **Brampton** thành hai đại căn cứ hải quân tối tân, đóng hàng trăm chiến hạm mũi rồng ba tầng chèo mang tên *Drakkar-cneow*. Hạm đội Hoàng gia Liên hiệp hoàn toàn làm chủ các tuyến hải trình biển Bắc, bảo hộ các đoàn thương thuyền từ Inmouth tỏa đi khắp các lục địa.
+* **Mậu dịch hàng hải bùng nổ**: Các thương cảng duyên hải như Alexandra, Inmouth, Maberden và Hesvikland trở thành những trung tâm xuất nhập khẩu nhộn nhịp, thu về nguồn thuế quan khổng lồ.
 
 #### Triều James III Hiền Vương (572 – 605 AD)
 
 Con trai Kenneth I là **James III** (*James III se Rǣdfæsta*) kế vị, mở ra ba thập kỷ thịnh trị phồn vinh tột bậc:
-* **Mở rộng kinh đô Limorina**: Nhờ ngân khố đầy ắp, nhà vua cho quy hoạch lại đô thành Limorina gấp ba lần diện tích cũ, xây dựng hệ thống cống ngầm thoát nước kiên cố, lát đá toàn bộ các trục lộ chính và xây dựng cây cầu đá vòm **Bridge of the Union** nối liền hai bờ sông Kintazion.
-* **Đồng tiền vàng Gold-Gylden**: Lần đầu tiên trong lịch sử, triều đình phát hành đồng tiền vàng nguyên chất mang tên **Gold-Gylden**, trở thành thước đo giá trị và đồng tiền thanh toán quốc tế được chấp nhận khắp lục địa Riralia.
+* **Mở rộng kinh đô Limorina**: Nhờ quốc khố sung túc, nhà vua cho quy hoạch lại đô thành Limorina gấp ba lần diện tích cũ, xây dựng hệ thống cống ngầm thoát nước kiên cố, lát đá toàn bộ các trục lộ nối liền với đại lộ phía Đông dẫn sang Invergeall và Riralo, đồng thời xây dựng cây cầu đá vòm **Bridge of the Union** bắc qua sông Kintazion.
+* **Đồng tiền vàng Gold-Gylden**: Triều đình phát hành đồng tiền vàng nguyên chất mang tên **Gold-Gylden**, trở thành thước đo giá trị và đồng tiền thanh toán quốc tế được chấp nhận khắp lục địa Riralia.
 
 #### Triều Henry I Lập Pháp Vương (605 – 638 AD)
 
 Kế vị vua cha là **Henry I** (*Henry I se Lāhbora*), một nhà kỹ trị và luật gia vĩ đại của thời phong kiến trung kỳ:
-* **Ban hành Đại Điển Lệ Toàn Thư (*Corpus Vitalisc*)**: Công trình luật pháp vĩ đại nhất của thời Trung cổ Vitalia, bao gồm 12 tập sách chuẩn hóa toàn bộ luật dân sự, hình sự, hàng hải, thuế khóa và quân sự trên toàn cõi Vương quốc Liên hiệp. Bộ luật xóa bỏ các tập quán pháp man dã, quy định chế độ xét xử công khai bằng bồi thẩm đoàn (*Twelf-manna Dōm*).
-* **Chuẩn hóa cân đo**: Thống nhất tuyệt đối hệ thống cân, đo, đong, đếm từ viễn Tây Wantarii đến tận cực Đông bán đảo Cambrian.
+* **Ban hành Đại Điển Lệ Toàn Thư (*Corpus Vitalisc*)**: Công trình luật pháp vĩ đại nhất của thời Trung cổ Vitalia, bao gồm 12 tập sách chuẩn hóa toàn bộ luật dân sự, hình sự, hàng hải, thuế khóa và quân sự trên toàn cõi Vương quốc Liên hiệp. Bộ luật xóa bỏ các tập quán pháp man dã, quy định chế độ xét xử công khai bằng bồi thẩm đoàn 12 người (*Twelf-manna Dōm*).
+* **Chuẩn hóa đo lường toàn quốc**: Thống nhất tuyệt đối hệ thống cân, đo, đong, đếm từ viễn Tây Wantarii qua Invergeall đến tận cực Đông Riralo.
 
 #### Triều Adolf III Hùng Vương (638 – 675 AD)
 
-Năm 638 AD, con trai Henry I là **Adolf III** (*Adolf III se Mihtiga*) lên ngôi. Năm 641 AD, một liên minh các Hãn quốc kỵ binh du mục từ viễn đông thảo nguyên Maperia bất ngờ vượt biên giới phía Nam mở cuộc đại xâm lược vào vùng Güneydere và Helenica.
+Năm 638 AD, con trai Henry I là **Adolf III** (*Adolf III se Mihtiga*) lên ngôi. Năm 641 AD, một liên minh các Hãn quốc kỵ binh du mục từ viễn đông thảo nguyên Maperia bất ngờ vượt biên giới phía Nam mở cuộc đại xâm lược vào vùng Güneydere và Helenica:
 * **Trận huyết chiến Karagöl (642 AD)**: Adolf III thân chinh chỉ huy 3 vạn Thiết Kỵ cấm quân và bộ binh giáp nặng liên hiệp nghênh chiến. Tại bờ hồ Karagöl, nhà vua dùng chiến thuật dụ địch vào trận địa mai phục đầm lầy, tiêu diệt hoàn toàn quân tiên phong của quân Maperia, chém chết Khả hãn đối phương, giữ vững biên thùy phương Nam trong suốt nửa thế kỷ sau đó.
 * **Hạn chế**: Chi phí tái thiết hậu chiến và nuôi dưỡng đạo quân thường trực khổng lồ bắt đầu tạo áp lực lên nguồn thu của triều đình.
 
 #### Triều Oswald II Minh Vương (675 – 710 AD)
 
 Dưới triều **Oswald II** (*Oswald II se Glēawa*), đất nước trở lại cảnh thanh bình, đánh dấu thời kỳ hoàng kim của học thuật và nghệ thuật:
-* **Đỉnh cao thư tịch cổ**: Các đại tu viện ở Brampton, Limorina và Aberllidy trở thành trung tâm sao chép kinh thư khổng lồ, cho ra đời những bản thảo chép tay bằng tiếng Vitalia Cổ nạm vàng và phẩm màu khoáng sản vô giá. Thi ca và âm nhạc cung đình đạt tới độ tinh tế bậc thầy.
+* **Đỉnh cao thư tịch cổ**: Các đại tu viện ở Brampton, Limorina, Abercaethen và Riralo trở thành trung tâm sao chép kinh thư khổng lồ, cho ra đời những bản thảo chép tay bằng tiếng Vitalia Cổ nạm vàng và phẩm màu khoáng sản vô giá. Thi ca cung đình và âm nhạc hiệp sĩ đạt tới độ tinh tế bậc thầy.
 
 ---
 
@@ -329,17 +344,17 @@ Dưới triều **Oswald II** (*Oswald II se Glēawa*), đất nước trở l�
 
 #### Các triều vua thịnh vượng hậu kỳ (710 – 819 AD)
 
-* **Triều Roger I Thắng Trận Vương (710 – 745 AD)**: Cháu nội Oswald II. Ngài mở rộng tầm ảnh hưởng hàng hải lên các đảo băng giá phía Bắc, ký kết các hiệp ước thuế quan bảo hộ thương nhân liên hiệp, dẹp yên các cuộc xung đột biên giới nhỏ lẻ.
+* **Triều Roger I Thắng Trận Vương (710 – 745 AD)**: Cháu nội Oswald II. Ngài mở rộng tầm ảnh hưởng hàng hải lên các đảo băng giá phía Bắc, ký kết các hiệp ước thuế quan bảo hộ thương nhân liên hiệp, dẹp yên các cuộc xung đột biên giới nhỏ lẻ với các tiểu quốc lân bang phía Nam.
 * **Triều Edward VI Phúc Đức Vương (745 – 782 AD)**: Con trai Roger I. Trị vì thanh bình suốt 37 năm, thời tiết thuận hòa, mùa màng bội thu liên tiếp. Dân số toàn Vương quốc Liên hiệp đạt mốc đỉnh cao lịch sử thời tiền cận đại (ước tính đạt gần 8 triệu dân).
-* **Triều Philip I Hòa Hiếu Vương (782 – 819 AD)**: Duy trì chính sách ngoại giao hòa hiếu với tất cả các quốc gia lân bang. Ngài cho xây dựng **Đại Thư viện Hoàng gia tại Limorina**, lưu trữ hơn 2 vạn cuộn giấy da chép tay về triết học, lịch sử và y học.
+* **Triều Philip I Hòa Hiếu Vương (782 – 819 AD)**: Duy trì chính sách ngoại giao hòa hiếu với tất cả các cường quốc lục địa. Ngài cho xây dựng **Đại Thư viện Hoàng gia tại Limorina**, lưu trữ hơn 2 vạn cuộn giấy da chép tay về triết học, lịch sử, bản đồ hàng hải và y học.
 
 #### Những mầm mống khủng hoảng và sự khép lại thời kỳ Hoàng kim (819 – 879 AD)
 
 * **Triều Murad III Bách Triều Vương (819 – 851 AD)**: Sang thế kỷ thứ IX, sau gần bốn thế kỷ thái bình, những mầm mống khủng hoảng cơ cấu bắt đầu xuất hiện:
-  * Sự tích tụ ruộng đất không ngừng của các dòng họ đại quý tộc tại Cereaint và miền Nam khiến tầng lớp nông dân tự do (*carlas*) giảm sút nghiêm trọng.
-  * Tầng lớp đại thương gia hàng hải tại Cảng Brampton ngày càng thao túng nền kinh tế, đối đầu quyền lực với giới quý tộc điền trang truyền thống trong Viện Nguyên Lão Liên Hiệp.
-  * Xuất hiện các cuộc tranh chấp quyền tài phán tôn giáo giữa Tòa Tổng Giám mục Limorina và các giáo khu bảo thủ miền Đông Cereaint.
-* **Triều James IV Trì Thế Vương (851 – 879 AD)**: Là vị quân vương thứ 12 và cũng là người cuối cùng của Kỷ nguyên Hoàng Kim. Ý thức được nguy cơ suy thoái, James IV (*James IV se Langsum*) ban hành *Sắc lệnh Hạn điền* nhằm hạn chế việc kiêm tính đất đai của quý tộc, đồng thời nỗ lực điều đình mâu thuẫn sắc tộc giữa người Vitalia và người Cereaint. Ngài giữ vững sự ổn định và thống nhất của đế quốc cho đến ngày trút hơi thở cuối cùng vào mùa đông năm 879 AD ở tuổi 68.
+  * Sự tích tụ ruộng đất không ngừng của các dòng họ đại quý tộc tại Penmawr, Riralia và miền Nam khiến tầng lớp nông dân tự do (*carlas*) giảm sút nghiêm trọng.
+  * Tầng lớp đại thương gia hàng hải tại Cảng Brampton và Inmouth ngày càng thao túng nền kinh tế, đối đầu quyền lực với giới quý tộc điền trang truyền thống trong Viện Nguyên Lão Liên Hiệp.
+  * Xuất hiện các cuộc tranh chấp quyền tài phán tôn giáo giữa Tòa Tổng Giám mục Limorina và các giáo khu bảo thủ miền Đông tại Abercaethen và Riralo.
+* **Triều James IV Trì Thế Vương (851 – 879 AD)**: Là vị quân vương thứ 12 và cũng là người cuối cùng của Kỷ nguyên Hoàng Kim. Ý thức được nguy cơ suy thoái, James IV (*James IV se Langsum*) ban hành *Sắc lệnh Hạn điền* nhằm hạn chế việc kiêm tính đất đai của quý tộc, đồng thời nỗ lực điều đình mâu thuẫn sắc tộc giữa người Vitalia, người Cambria, Penmawr và Riralia. Ngài giữ vững sự ổn định và thống nhất của đế quốc cho đến ngày trút hơi thở cuối cùng vào mùa đông năm 879 AD ở tuổi 68.
 
 Cái chết của vua James IV vào tháng 12 năm 879 AD chính thức khép lại **426 năm Kỷ nguyên Hoàng Kim rực rỡ** của Vương triều Morrazalina. Sau năm 880 AD, Vitalia bước vào **Giai đoạn Hậu kỳ (880 – 968 AD)**—thời kỳ chứng kiến những biến động cung đình phức tạp, nổi bật với sự trị vì kiệt xuất của Nữ vương **Aglaea II**, tổ tiên của những người sau này sẽ đặt nền móng cho nền Cộng hòa Vitalia hiện đại.
 
@@ -349,24 +364,24 @@ Cái chết của vua James IV vào tháng 12 năm 879 AD chính thức khép l�
 
 | STT | Quân vương | Niên đại | Trị vì | Tước hiệu / Miếu hiệu | Thành tựu & Di sản vĩ đại | Ý nghĩa lịch sử |
 | :---: | :--- | :---: | :---: | :--- | :--- | :--- |
-| **1** | **James II** (*James II*) | 425 – 488 AD | 453 – 488 AD | James Đại Đế (*se Micela*) | Chinh phục Cereaint; sáp nhập Riralia và Pheof; khai sinh Vương quốc Liên hiệp; ban *Hiến chương Liên hiệp*. | Mở ra Kỷ nguyên Hoàng Kim và định hình lãnh thổ đế quốc. |
-| **2** | **Edward V** (*Edward V*) | 460 – 515 AD | 488 – 515 AD | Hiệp Sĩ Vương (*se Cniht*) | Sáng lập Hội Hiệp Sĩ Bàn Tròn Liên Hiệp; bảo vệ biên thùy phía Đông; dẹp yên ly khai Cambrian. | Thắt chặt khối đại đoàn kết quý tộc bốn dân tộc. |
-| **3** | **Murad II** (*Murad II*) | 487 – 540 AD | 515 – 540 AD | Hòa Giải Vương (*se Friðwīsa*) | Ban *Chiếu chỉ Khoan dung Tôn giáo*; lập Đại học viện Liên hiệp Limorina; đẩy mạnh dịch thuật văn học. | Đặt nền móng hòa hợp văn hóa, giáo dục và tín ngưỡng. |
-| **4** | **Kenneth I** (*Kenneth I*) | 512 – 572 AD | 540 – 572 AD | Hải Vương (*se Sǣ-Cyning*) | Xây dựng Đại hạm đội rồng biển; làm chủ toàn bộ hải phận phía Bắc; đưa ngoại thương đạt đỉnh cao. | Chuyển mình Vitalia thành đế quốc hàng hải phồn vinh. |
-| **5** | **James III** (*James III*) | 545 – 605 AD | 572 – 605 AD | Hiền Vương (*se Rǣdfæsta*) | Mở rộng kinh đô Limorina gấp ba; xây cầu vòm đá Union; phát hành đồng tiền vàng *Gold-Gylden*. | Đỉnh cao phú cường kinh tế và kiến trúc đô thị. |
-| **6** | **Henry I** (*Henry I*) | 578 – 638 AD | 605 – 638 AD | Lập Pháp Vương (*se Lāhbora*) | Ban hành *Đại Điển Lệ Toàn Thư (Corpus Vitalisc)*; thiết lập chế độ bồi thẩm đoàn; chuẩn hóa đo lường. | Hoàn thiện thể chế pháp quyền phong kiến đỉnh cao. |
-| **7** | **Adolf III** (*Adolf III*) | 610 – 675 AD | 638 – 675 AD | Hùng Vương (*se Mihtiga*) | Đại thắng trận Karagöl (642 AD), đập tan liên minh xâm lược Maperia; bảo vệ bờ cõi phương Nam. | Bảo toàn vững chắc cương thổ đế quốc trước ngoại xâm. |
-| **8** | **Oswald II** (*Oswald II*) | 648 – 710 AD | 675 – 710 AD | Minh Vương (*se Glēawa*) | Bảo trợ thư tịch cổ; thời kỳ vàng son của chép sử và thi ca cung đình; tôn vinh văn hóa bác ái. | Đưa nền văn minh nghệ thuật Vitalia đạt đỉnh cao tinh hoa. |
+| **1** | **James II** (*James II*) | 425 – 488 AD | 453 – 488 AD | James Đại Đế (*se Micela*) | Bình định Cambria, Penmawr, Arys, Pheof; hợp nhất Riralia; khai sinh Vương quốc Liên hiệp; ban *Hiến chương Liên hiệp*. | Mở ra Kỷ nguyên Hoàng Kim và định hình cương thổ đại đế quốc. |
+| **2** | **Edward V** (*Edward V*) | 460 – 515 AD | 488 – 515 AD | Hiệp Sĩ Vương (*se Cniht*) | Sáng lập Hội Hiệp Sĩ Bàn Tròn tại Invergeall; bảo vệ biên thùy phía Đông; dẹp yên ly khai vùng núi Pontypridd. | Thắt chặt khối đại đoàn kết quý tộc các dân tộc liên hiệp. |
+| **3** | **Murad II** (*Murad II*) | 487 – 540 AD | 515 – 540 AD | Hòa Giải Vương (*se Friðwīsa*) | Ban *Chiếu chỉ Khoan dung Tôn giáo*; lập Đại học viện Liên hiệp Limorina; đẩy mạnh dịch thuật văn học Penmawr. | Đặt nền móng hòa hợp văn hóa, giáo dục và tín ngưỡng. |
+| **4** | **Kenneth I** (*Kenneth I*) | 512 – 572 AD | 540 – 572 AD | Hải Vương (*se Sǣ-Cyning*) | Xây dựng Đại hạm đội rồng biển; biến Inmouth và Brampton thành quân cảng tối tân; làm chủ biển Bắc. | Chuyển mình Vitalia thành đế quốc hàng hải phồn vinh. |
+| **5** | **James III** (*James III*) | 545 – 605 AD | 572 – 605 AD | Hiền Vương (*se Rǣdfæsta*) | Mở rộng kinh đô Limorina gấp ba; xây cầu vòm đá Union; phát hành đồng tiền vàng quốc tế *Gold-Gylden*. | Đỉnh cao phú cường kinh tế và kiến trúc đô thị. |
+| **6** | **Henry I** (*Henry I*) | 578 – 638 AD | 605 – 638 AD | Lập Pháp Vương (*se Lāhbora*) | Ban hành *Đại Điển Lệ Toàn Thư (Corpus Vitalisc)*; thiết lập chế độ bồi thẩm đoàn; chuẩn hóa đo lường toàn quốc. | Hoàn thiện thể chế pháp quyền phong kiến đỉnh cao. |
+| **7** | **Adolf III** (*Adolf III*) | 610 – 675 AD | 638 – 675 AD | Hùng Vương (*se Mihtiga*) | Đại thắng trận Karagöl (642 AD), đập tan liên quân xâm lược thảo nguyên Maperia; bảo vệ bờ cõi phương Nam. | Bảo toàn vững chắc cương thổ đế quốc trước ngoại xâm. |
+| **8** | **Oswald II** (*Oswald II*) | 648 – 710 AD | 675 – 710 AD | Minh Vương (*se Glēawa*) | Bảo trợ thư tịch cổ tại Abercaethen và Riralo; thời kỳ vàng son của chép sử và thi ca cung đình; tôn vinh văn hóa bác ái. | Đưa nền văn minh nghệ thuật Vitalia đạt đỉnh cao tinh hoa. |
 | **9** | **Edward VI** (*Edward VI*) | 715 – 782 AD | 745 – 782 AD | Phúc Đức Vương (*se Eadiga*) | Trị vì thái bình 37 năm; dân số đạt đỉnh cao kỷ lục (gần 8 triệu dân); nông nghiệp và len dạ cực thịnh. | Biểu tượng của nền thái bình thịnh trị dài lâu. |
-| **10** | **James IV** (*James IV*) | 811 – 879 AD | 851 – 879 AD | Trì Thế Vương (*se Langsum*) | Ban hành Sắc lệnh Hạn điền; điều hòa mâu thuẫn sắc tộc và môn phiệt; giữ yên nền thái bình cuối thời kỳ. | Khép lại trọn vẹn 426 năm Kỷ nguyên Hoàng Kim. |
+| **10** | **James IV** (*James IV*) | 811 – 879 AD | 851 – 879 AD | Trì Thế Vương (*se Langsum*) | Ban hành Sắc lệnh Hạn điền; điều hòa mâu thuẫn môn phiệt Limorina – Penmawr – Riralia; giữ yên nền thái bình cuối thời kỳ. | Khép lại trọn vẹn 426 năm Kỷ nguyên Hoàng Kim. |
 
 ---
 
 #### Dấu ấn ngôn ngữ và văn hóa của kỷ nguyên hoàng kim
 
 Kỷ nguyên Hoàng Kim (453 – 879 AD) là cái nôi tôi luyện và định hình nên diện mạo hoàn chỉnh nhất của ngôn ngữ và văn hóa Vitalia trước thời kỳ cận đại:
-1. **Tiếng Vitalia Cổ (*Eald-Vitalisc*) trở thành ngôn ngữ chung (Lingua Franca)**: Nhờ sự thống nhất của Vương quốc Liên hiệp, tiếng Vitalia Cổ được xác lập làm ngôn ngữ chuẩn mực tối cao trong ngoại giao, pháp đình, hành chính và trước tác văn học từ viễn Tây Wantarii đến tận cực Đông Cereaint và các đảo Pheof.
-2. **Sự du nhập của lớp từ vựng và địa danh Celtic phong phú**:
-   * Hàng loạt từ tố địa lý của người Cereaint [Wales cổ] và Pheof [Ireland cổ] đã thâm nhập sâu rộng vào kho địa danh Vitalia: các tiền tố/hậu tố *-combe* (thung lũng hẹp), *-caer* (pháo đài đá), *-inver* (cửa sông hợp lưu, như *Invergeall*), *-aber* (cửa biển, như *Aberllidy*), và *-tor* (đỉnh núi đá).
-   * Lớp từ ngữ chỉ cảnh quan thiên nhiên hiểm trở, biển cả, nghề dệt len dạ và các truyền thuyết dân gian Celtic được hấp thu hoàn toàn vào văn học Vitalia Cổ.
-3. **Tiền đề cho sự quá độ sang Tiếng Vitalia Trung đại (*Middle Vitalian*)**: Đến cuối thế kỷ VIII và thế kỷ IX, dưới sự giao lưu buôn bán dày đặc và nhịp sống đô thị nhộn nhịp tại Limorina và Cảng Brampton, hệ thống 4 biến cách phức tạp của tầng Cổ bắt đầu xuất hiện xu hướng giản lược trong khẩu ngữ thường nhật của tầng lớp thị dân. Đây chính là mầm mống lịch sử chuẩn bị cho bước chuyển mình vĩ đại sang **tiếng Vitalia tiêu chuẩn (Middle Vitalian)** với trật tự SVO cố định trong các thế kỷ tiếp theo.
+1. **Tiếng Vitalia Cổ (*Eald-Vitalisc*) trở thành ngôn ngữ chung (Lingua Franca)**: Nhờ sự thống nhất của Vương quốc Liên hiệp, tiếng Vitalia Cổ được xác lập làm ngôn ngữ chuẩn mực tối cao trong ngoại giao, pháp đình, hành chính và trước tác văn học từ viễn Tây Wantarii qua pháo đài Invergeall đến tận kinh thành Riralo và các đảo Pheof.
+2. **Sự dung nạp của lớp từ vựng và địa danh Celtic (Penmawr & Cambria)**:
+   * Hàng loạt từ tố địa lý của người Celtic xứ Cambria và Penmawr đã thâm nhập sâu rộng vào kho địa danh Vitalia: các tiền tố/hậu tố *-combe* (thung lũng hẹp), *-caer* (pháo đài đá), *-inver* (cửa sông hợp lưu, tiêu biểu như pháo đài yết hầu *Invergeall*), *-aber* (cửa biển/cửa sông, như thành phố cổ *Abercaethen*), *-in* (cảng biển, như quân cảng *Inmouth*), và *-pen* (mũi đất đồi cao, như *Penmawr*).
+   * Lớp từ ngữ chỉ cảnh quan thiên nhiên duyên hải, kỹ nghệ đóng tàu biển, nghề dệt len dạ và các huyền thoại hiệp sĩ Celtic được hấp thu hoàn toàn vào kho tàng văn học Vitalia Cổ.
+3. **Tiền đề cho sự quá độ sang Tiếng Vitalia Trung đại (*Middle Vitalian*)**: Đến cuối thế kỷ VIII và thế kỷ IX, dưới sự giao lưu buôn bán dày đặc và nhịp sống đô thị nhộn nhịp tại Limorina, Cảng Brampton và Inmouth, hệ thống 4 biến cách phức tạp của tầng Cổ bắt đầu xuất hiện xu hướng giản lược trong khẩu ngữ thường nhật của tầng lớp thị dân. Đây chính là mầm mống lịch sử chuẩn bị cho bước chuyển mình vĩ đại sang **tiếng Vitalia tiêu chuẩn (Middle Vitalian)** với trật tự SVO cố định trong các thế kỷ tiếp theo.
