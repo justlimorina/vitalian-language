@@ -24,9 +24,41 @@ const cleanFile = file.replace(/^(\.\.\/)+/, '');
 const base = import.meta.env.BASE_URL;
 const active = slug.replace(/\.md$/, '');
 
+interface HeadingItem {
+  depth: number;
+  text: string;
+  id: string;
+}
+
+const headings: HeadingItem[] = [];
+
+function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/đ/g, 'd')
+    .replace(/[^a-z0-9\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-');
+}
+
 const markdown = new Marked({ gfm: true, breaks: false });
 markdown.use({
   renderer: {
+    heading({ depth, text }) {
+      const clean = text.replace(/<[^>]*>/g, '').replace(/[*_`]/g, '');
+      const rawId = slugify(clean) || `muc-${headings.length + 1}`;
+      let id = rawId;
+      let counter = 1;
+      while (headings.some((h) => h.id === id)) {
+        id = `${rawId}-${counter++}`;
+      }
+      if (depth === 2 || depth === 3) {
+        headings.push({ depth, text: clean, id });
+      }
+      return `<h${depth} id="${id}">${text}</h${depth}>`;
+    },
     link({ href, title: linkTitle, text }) {
       if (!href) return text;
       const [target, fragment] = href.split('#');
@@ -53,48 +85,157 @@ function getSectionName(path: string): string {
 }
 
 const sectionName = getSectionName(cleanFile);
+const hasToc = headings.length >= 2;
 ---
 
-<SiteLayout title={title} active={active}>
-  <article class="doc-container">
-    <header class="document-head">
-      <div class="document-badge">
-        <span class="material-symbols-outlined" style="font-size: 15px">folder_open</span>
-        <span>{sectionName}</span>
-      </div>
-      <h1>{title}</h1>
-      <div class="document-subhead">
-        <a href={base}>
-          <span class="material-symbols-outlined" style="font-size: 16px">home</span>
-          <span>Tổng quan</span>
-        </a>
-        <span>·</span>
-        <span>{sectionName}</span>
-        <span>·</span>
-        <a href="https://github.com/justlimorina/vitalian-language" target="_blank" rel="noopener noreferrer">
-          <span>Xem tài liệu gốc</span>
-          <span class="material-symbols-outlined" style="font-size: 14px">open_in_new</span>
-        </a>
-      </div>
-    </header>
+<SiteLayout title={title} active={active} wide={hasToc}>
+  <div class:list={['doc-layout', hasToc && 'has-toc']}>
+    <article class="doc-main">
+      <header class="document-head">
+        <div class="document-badge">
+          <span class="material-symbols-outlined" style="font-size: 15px">folder_open</span>
+          <span>{sectionName}</span>
+        </div>
+        <h1>{title}</h1>
+        <div class="document-subhead">
+          <a href={base}>
+            <span class="material-symbols-outlined" style="font-size: 16px">home</span>
+            <span>Tổng quan</span>
+          </a>
+          <span>·</span>
+          <span>{sectionName}</span>
+          <span>·</span>
+          <a href="https://github.com/justlimorina/vitalian-language" target="_blank" rel="noopener noreferrer">
+            <span>Xem tài liệu gốc</span>
+            <span class="material-symbols-outlined" style="font-size: 14px">open_in_new</span>
+          </a>
+        </div>
+      </header>
 
-    <div class="prose" set:html={rendered} />
+      {hasToc && (
+        <nav class="mobile-toc-accordion" aria-label="Mục lục bài viết">
+          <details>
+            <summary class="mobile-toc-summary">
+              <div class="summary-left">
+                <span class="material-symbols-outlined summary-icon">format_list_bulleted</span>
+                <span>Mục lục nội dung ({headings.length} phần)</span>
+              </div>
+              <span class="material-symbols-outlined arrow-icon">expand_more</span>
+            </summary>
+            <div class="mobile-toc-list">
+              {headings.map((h) => (
+                <a class:list={['mobile-toc-link', h.depth === 3 && 'sub-level']} href={`#${h.id}`}>
+                  {h.text}
+                </a>
+              ))}
+            </div>
+          </details>
+        </nav>
+      )}
 
-    <footer class="doc-bottom-nav">
-      <a class="nav-chip-link" href={base}>
-        <span class="material-symbols-outlined">arrow_back</span>
-        <span>Về trang tổng quan</span>
-      </a>
-      <a class="nav-chip-link" href="#top" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
-        <span class="material-symbols-outlined">vertical_align_top</span>
-        <span>Lên đầu trang</span>
-      </a>
-    </footer>
-  </article>
+      <div class="prose" set:html={rendered} />
+
+      <footer class="doc-bottom-nav">
+        <a class="nav-chip-link" href={base}>
+          <span class="material-symbols-outlined">arrow_back</span>
+          <span>Về trang tổng quan</span>
+        </a>
+        <a class="nav-chip-link" href="#top" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
+          <span class="material-symbols-outlined">vertical_align_top</span>
+          <span>Lên đầu trang</span>
+        </a>
+      </footer>
+    </article>
+
+    {hasToc && (
+      <aside class="toc-sidebar" aria-label="Mục lục nội dung trang">
+        <div class="toc-container">
+          <div class="toc-header">
+            <span class="material-symbols-outlined toc-icon">format_list_bulleted</span>
+            <span>MỤC LỤC TRANG</span>
+          </div>
+          <nav class="toc-nav" id="toc-nav">
+            {headings.map((h) => (
+              <a
+                class:list={['toc-item', h.depth === 3 && 'toc-sub-item']}
+                href={`#${h.id}`}
+                data-target={h.id}
+                title={h.text}
+              >
+                <span class="toc-indicator"></span>
+                <span class="toc-label">{h.text}</span>
+              </a>
+            ))}
+          </nav>
+        </div>
+      </aside>
+    )}
+  </div>
 </SiteLayout>
 
+<script>
+  // Scrollspy to highlight active TOC link based on visible headings
+  function setupScrollspy() {
+    const headings = Array.from(document.querySelectorAll('.prose h2, .prose h3'));
+    const tocLinks = Array.from(document.querySelectorAll('.toc-item'));
+
+    if (!headings.length || !tocLinks.length) return;
+
+    let activeTarget = '';
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            activeTarget = entry.target.id;
+            updateActiveLink();
+          }
+        });
+      },
+      {
+        rootMargin: '-80px 0px -70% 0px',
+        threshold: 0,
+      }
+    );
+
+    headings.forEach((heading) => observer.observe(heading));
+
+    function updateActiveLink() {
+      if (!activeTarget) return;
+      tocLinks.forEach((link) => {
+        if (link.getAttribute('data-target') === activeTarget) {
+          link.classList.add('active');
+          // Auto-scroll TOC container if link is out of view
+          link.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        } else {
+          link.classList.remove('active');
+        }
+      });
+    }
+
+    // Default first item active on page load
+    if (headings[0]?.id && !activeTarget) {
+      activeTarget = headings[0].id;
+      updateActiveLink();
+    }
+  }
+
+  // Setup on initial load
+  setupScrollspy();
+
+  // Re-setup on view transitions if any
+  document.addEventListener('astro:page-load', setupScrollspy);
+</script>
+
 <style>
-  .doc-container {
+  /* ==========================================================================
+     Document Layout & TOC Styles
+     ========================================================================== */
+  .doc-layout {
+    display: flex;
+    align-items: flex-start;
+    gap: 48px;
+    width: 100%;
     animation: fadeIn 0.25s ease-out;
   }
 
@@ -109,6 +250,194 @@ const sectionName = getSectionName(cleanFile);
     }
   }
 
+  .doc-main {
+    flex: 1;
+    min-width: 0;
+  }
+
+  /* ==========================================================================
+     Right Sidebar: Table of Contents (MD3)
+     ========================================================================== */
+  .toc-sidebar {
+    width: 260px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 84px;
+    max-height: calc(100vh - 104px);
+    overflow-y: auto;
+    padding-left: 12px;
+  }
+
+  /* Custom subtle scrollbar for TOC */
+  .toc-sidebar::-webkit-scrollbar {
+    width: 4px;
+  }
+  .toc-sidebar::-webkit-scrollbar-thumb {
+    background: var(--md-sys-color-surface-container-highest);
+    border-radius: var(--md-sys-shape-corner-full);
+  }
+
+  .toc-container {
+    background: var(--md-sys-color-surface-container-lowest);
+    border: 1px solid var(--md-sys-color-surface-container-highest);
+    border-radius: var(--md-sys-shape-corner-lg);
+    padding: 16px 14px;
+    box-shadow: var(--md-sys-elevation-1);
+  }
+
+  .toc-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: var(--md-sys-color-primary);
+    padding: 4px 8px 12px;
+    border-bottom: 1px solid var(--md-sys-color-surface-container-highest);
+    margin-bottom: 10px;
+  }
+
+  .toc-icon {
+    font-size: 17px;
+  }
+
+  .toc-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .toc-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 10px;
+    font-size: 13px;
+    line-height: 1.45;
+    color: var(--md-sys-color-on-surface-variant);
+    text-decoration: none;
+    border-radius: var(--md-sys-shape-corner-sm);
+    transition: all 0.15s ease;
+    position: relative;
+  }
+
+  .toc-indicator {
+    width: 3px;
+    height: 14px;
+    border-radius: var(--md-sys-shape-corner-full);
+    background: transparent;
+    transition: background-color 0.2s ease, height 0.2s ease;
+    flex-shrink: 0;
+  }
+
+  .toc-label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .toc-sub-item {
+    padding-left: 20px;
+    font-size: 12px;
+    color: var(--md-sys-color-outline);
+  }
+
+  .toc-item:hover {
+    background: var(--md-sys-color-surface-container-high);
+    color: var(--md-sys-color-on-surface);
+  }
+
+  .toc-item.active {
+    background: var(--md-sys-color-primary-container);
+    color: var(--md-sys-color-on-primary-container);
+    font-weight: 600;
+  }
+
+  .toc-item.active .toc-indicator {
+    background: var(--md-sys-color-primary);
+    height: 18px;
+  }
+
+  .toc-item.active .toc-label {
+    color: var(--md-sys-color-on-primary-container);
+  }
+
+  /* ==========================================================================
+     Mobile Collapsible TOC (Accordion)
+     ========================================================================== */
+  .mobile-toc-accordion {
+    display: none;
+    margin-bottom: 28px;
+    border: 1px solid var(--md-sys-color-surface-container-highest);
+    background: var(--md-sys-color-surface-container-low);
+    border-radius: var(--md-sys-shape-corner-md);
+    overflow: hidden;
+  }
+
+  .mobile-toc-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--md-sys-color-on-surface);
+    cursor: pointer;
+    user-select: none;
+    list-style: none;
+  }
+
+  .mobile-toc-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .summary-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .summary-icon {
+    font-size: 18px;
+    color: var(--md-sys-color-primary);
+  }
+
+  .arrow-icon {
+    font-size: 20px;
+    transition: transform 0.2s ease;
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  details[open] .arrow-icon {
+    transform: rotate(180deg);
+  }
+
+  .mobile-toc-list {
+    padding: 8px 16px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border-top: 1px solid var(--md-sys-color-surface-container-highest);
+  }
+
+  .mobile-toc-link {
+    font-size: 13.5px;
+    color: var(--md-sys-color-primary);
+    text-decoration: none;
+    padding: 5px 0;
+  }
+
+  .mobile-toc-link.sub-level {
+    padding-left: 16px;
+    font-size: 12.5px;
+    color: var(--md-sys-color-on-surface-variant);
+  }
+
+  .mobile-toc-link:hover {
+    text-decoration: underline;
+  }
+
   .doc-bottom-nav {
     display: flex;
     justify-content: space-between;
@@ -118,5 +447,22 @@ const sectionName = getSectionName(cleanFile);
     border-top: 1px solid var(--md-sys-color-surface-container-highest);
     flex-wrap: wrap;
     gap: 12px;
+  }
+
+  /* ==========================================================================
+     Responsive Breakpoints
+     ========================================================================== */
+  @media (max-width: 1100px) {
+    .toc-sidebar {
+      display: none;
+    }
+
+    .mobile-toc-accordion {
+      display: block;
+    }
+
+    .doc-layout {
+      gap: 0;
+    }
   }
 </style>
