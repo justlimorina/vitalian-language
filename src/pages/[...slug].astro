@@ -2,16 +2,16 @@
 import { Marked } from 'marked';
 import SiteLayout from '../layouts/SiteLayout.astro';
 
-const documents = import.meta.glob('../../docs/**/*.md', { query: '?raw', import: 'default', eager: true });
-const samples = import.meta.glob('../../samples/**/*.md', { query: '?raw', import: 'default', eager: true });
-const all = { ...documents, ...samples };
-const entries = Object.entries(all).map(([file, body]) => ({
-  file,
-  body: body as string,
-  slug: file.replace(/^(\.\.\/)+/, '').replace(/\.md$/, ''),
-}));
-
 export function getStaticPaths() {
+  const documents = import.meta.glob('../../docs/**/*.md', { query: '?raw', import: 'default', eager: true });
+  const samples = import.meta.glob('../../samples/**/*.md', { query: '?raw', import: 'default', eager: true });
+  const all = { ...documents, ...samples };
+  const entries = Object.entries(all).map(([file, body]) => ({
+    file,
+    body: body as string,
+    slug: file.replace(/^(\.\.\/)+/, '').replace(/\.md$/, ''),
+  }));
+
   return entries.map(({ slug, body, file }) => {
     const match = body.match(/^#\s+(.+)$/m);
     const title = match?.[1]?.replace(/[*_`]/g, '') ?? slug.split('/').at(-1)?.replaceAll('_', ' ') ?? 'Document';
@@ -21,11 +21,10 @@ export function getStaticPaths() {
 
 const { body, title, file, slug } = Astro.props;
 const cleanFile = file.replace(/^(\.\.\/)+/, '');
-const markdown = new Marked({ gfm: true, breaks: false });
 const base = import.meta.env.BASE_URL;
 const active = slug.replace(/\.md$/, '');
-const rendered = await markdown.parse(body, {
-  async: false,
+const markdown = new Marked({ gfm: true, breaks: false });
+markdown.use({
   renderer: {
     link({ href, title: linkTitle, text }) {
       if (!href) return text;
@@ -39,6 +38,7 @@ const rendered = await markdown.parse(body, {
     },
   },
 });
+const rendered = await markdown.parse(body);
 const section = cleanFile.startsWith('samples/') ? 'Sample texts' : cleanFile.split('/')[1]?.replaceAll('_', ' ') ?? 'Vitalische field guide';
 ---
 <SiteLayout title={title} active={active}>
