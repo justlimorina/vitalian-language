@@ -244,14 +244,6 @@ Ngay sau chiến thắng, một cuộc tranh luận nảy lửa nổ ra giữa T
 
 ---
 
-### 4.5. Vĩ Thanh: Cái Giá Của Sự Bất Tử
-
-Vài năm sau ngày độc lập, đất nước dần hồi sinh từ tro tàn đổ nát. Đứng trên ban công Phủ Thủ tướng nhìn xuống dòng sông Kintazion êm đềm, Emilia nhìn thấy Gerald đang mỉm cười dạy học cho những đứa trẻ mồ côi sau cuộc chiến. Những người đồng đội năm xưa tóc đã bắt đầu điểm bạc, trong khi gương mặt cô vẫn trẻ trung vẹn nguyên như tuổi đôi mươi.
-
-Gerald bước đến bên cô, khẽ nắm lấy bàn tay nhỏ nhắn. Anh là người duy nhất không bao giờ nhìn cô như một vị thánh bất tử xa vời, mà chỉ đơn giản là Emilia—người phụ nữ anh yêu trọn cả cuộc đời. Đám cưới giản dị của họ được tổ chức ấm cúng giữa những người bạn chí cốt, không kèn trống xa hoa. Đó không phải là một cái kết cổ tích khép lại, mà là sự khởi đầu của một hành trình vĩ đại và nhân văn: *hành trình học cách giữ trọn trái tim con người của một linh hồn bất tử*.
-
----
-
 ## 5. Bảng Niên Biểu Kỷ Nguyên Đại Phục Quốc (1580 – 1622 AD)
 
 | Niên đại | Sự kiện then chốt | Nhân vật lịch sử | Ý nghĩa & Kết quả |
