@@ -27,9 +27,9 @@ Người Toghman [với nền văn hóa độc đáo kết hợp giữa truyền
 
 ### Cấu trúc Liên minh Thị tộc Tối cao và Chính quyền Thuộc địa
 
-Đế quốc Toghmanistan không vận hành như một nền quân chủ quan liêu tập quyền thuần túy, mà là một **Liên minh Thị tộc Kỵ binh Tối cao (*Supreme Clan Coalition*)**. Quyền lực tối cao thuộc về **Đại Vương Tối Cao (*High Sultan / Ard-Rí*)** đóng đô tại đại thành trì duyên hải *Castiluce* bên bờ sông Dori ở khu vực Tây Nam lục địa.
+Đế quốc Toghmanistan không vận hành như một nền quân chủ quan liêu tập quyền thuần túy, mà là một **Liên minh Thị tộc Kỵ binh Tối cao (*Supreme Clan Coalition*)**. Quyền lực tối cao thuộc về **Đại Vương Tối Cao / Đại Hãn (*High Sultan / Ard-Rí / Khagan*)** đóng đô tại đại thành trì duyên hải *Castiluce* bên bờ sông Dori ở khu vực Tây Nam lục địa.
 
-Sau cuộc viễn chinh năm 1029 AD, vùng đất Vitalia bị sáp nhập và tổ chức lại thành các đơn vị hành chính cấp tỉnh hải ngoại như sau:
+Sau cuộc viễn chinh năm 1029 AD, vùng đất Vitalia bị sáp nhập và tổ chức lại thành các trấn phủ hải ngoại như sau:
 * **Trấn phủ Limorina và Vivilonia (*Wilayah Al-Limurina wa Al-Fifilunya*)**, bao gồm các vùng đất trước thời kỳ Đông phạt của James II. Thủ phủ tại Limorina.
 * **Trấn phủ Riralia** (*Wilayah Al-Riralya*) chính là các vương quốc Cereaint, Riralia và Pheof cũ. Người Toghman đóng đô tại Riralia (Riralo trước đây).
 * Một số vùng đất bị sáp nhập vào các lãnh địa của Toghmanistan liền kề, như Brivaberia bị nhập vào lãnh địa Omintius, vùng Hesvikland trao cho Đế quốc Hinch (chư hầu lớn của Toghmanistan).
@@ -38,7 +38,7 @@ Sau cuộc viễn chinh năm 1029 AD, vùng đất Vitalia bị sáp nhập và 
 
 Về tổ chức lãnh thổ cấp dưới, Đế quốc Toghmanistan bảo lưu nhiều sắp xếp đơn vị hành chính từ thời Thịnh vượng chung tại những vùng do mình kiểm soát. Ở mỗi trấn phủ, triều đình Toghmanistan thiết lập các cơ chế quan lại như sau:
 
-1. **Đại Tổng trấn (*Wali al-Shamal*)**: Là vị tướng lĩnh kỵ binh hoàng tộc do triều đình Castiluce trực tiếp bổ nhiệm, nắm quyền tổng chỉ huy quân đồn trú, an ninh biên cương và duy trì trật tự pháp luật. Tổng trấn ngự tại Dinh thự Thống đốc mới được xây cất trên nền thành lũy hoàng gia Morrazalina cũ tại Limorina và Riralia.
+1. **Đại Tổng trấn (*Wali al-Shamal*)**: Là vị tướng lĩnh kỵ binh hoàng tộc do triều đình Castiluce trực tiếp bổ nhiệm, nắm quyền tổng chỉ huy quân đồn trú, an ninh biên cương và duy trì trật tự pháp luật. Tổng trấn ngự tại Dinh Tổng trấn mới được xây cất trên nền thành lũy hoàng gia Morrazalina cũ tại Limorina và Riralia.
 2. **Cơ quan Tài chính & Thuế vụ (*Diwan*)**: Vận hành bởi các quan chức thư lại chuyên nghiệp, chịu trách nhiệm đo đạc ruộng đất, lập sổ bộ hộ khẩu và thu nộp cống phú gửi về kho bạc trung ương Castiluce.
 3. **Quân đoàn Đồn trú Thiết kỵ (*Jund*)**: Được bố trí tại các vị trí yết hầu chiến lược: Ngã ba sông Kintazion, Cảng Brampton, cửa ngõ hẻm núi Güneydere và các pháo đài tiền tiêu khống chế tuyến đường thông thương sang Riralia và ngược lại.
 
@@ -99,9 +99,9 @@ Trải qua ba đời Tổng trấn kế tiếp, Vitalia bước vào giai đoạ
 
 Vào năm 1120 AD—gần một thế kỷ sau cuộc chinh phục—Cơ quan Thuế vụ & Điền địa (*Diwan*) tại Limorina đã hoàn tất cuộc **Đại Tổng điều tra Hộ tịch và Địa chính Toàn xứ Vitalia** [tương đương với *Domesday Book* năm 1086 của Anh sau cuộc chinh phạt của người Norman]. Mục đích chính của sổ bạ là ấn định mức thuế đinh bảo hộ (*Baddal*) và kiểm kê năng lực sản xuất nông nghiệp phục vụ việc thu thuế địa tô (*Kharaj*).
 
-![Bản đồ 4: Phân chia 15 Châu hạt và Mạng lưới Đô thị Xứ Vitalia theo Sổ bạ Diwan năm 1120 AD](/images/Map_1120.png)
+![Bản đồ 4: Phân chia 15 Địa hạt và Mạng lưới Đô thị Xứ Vitalia theo Sổ bạ Diwan năm 1120 AD](/images/Map_1120.png)
 
-Toàn bộ xứ sở được chia thành 15 đơn vị châu hạt (*Counties*). Số liệu thống kê năm 1120 AD đã phác họa nên một bức tranh nhân khẩu học và địa chính trị Trung Cổ vô cùng sống động:
+Toàn bộ xứ sở được chia thành 15 đơn vị địa hạt (*Counties*). Số liệu thống kê năm 1120 AD đã phác họa nên một bức tranh nhân khẩu học và địa chính trị Trung Cổ vô cùng sống động:
 
 | STT | Tên địa hạt (*County*) | Danh xưng Toghman / Ả Rập (*Wilāyah / Iqlīm*) | Thủ phủ hành chính | Diện tích | Tổng dân số | Dân số nông thôn | Dân số thành thị (*Tỷ lệ*) | Đơn vị thành thị (*Burgs*) |
 | :---: | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -132,12 +132,12 @@ Toàn bộ xứ sở được chia thành 15 đơn vị châu hạt (*Counties*)
    * Tuy nhiên, trên thực tế, các đoàn kiểm tra điền bạ của Toghman chỉ có thể tiếp cận các bản làng thưa thớt ở vùng bìa rừng thảo nguyên. Vùng lõi thung lũng với thị trấn cổ **Armada** hoàn toàn "biến mất" khỏi tầm mắt của các quan trắc viên nhờ đại kết giới sương mù của Vương nữ Elaina.
 3. **Mạng lưới Đơn vị Thành thị (*Burgs*)**:
    * Toàn lục địa có **81 đơn vị thành thị (*Burgs*)**—đây là các thị trấn có tường thành kiên cố, chợ trung tâm (*Souk*) và đồn trú quân sự.
-   * Hạt **Grorres** sở hữu nhiều thành thị nhất (10 Burgs) nhưng tỷ lệ dân đô thị lại thấp nhất (22,2%), phản ánh mô hình mạng lưới thị tứ nông nghiệp phân tán, đóng vai trò là "kho thóc" dự trữ cho toàn miền Trung.
+   * Địa hạt **Grorres** sở hữu nhiều thành thị nhất (10 Burgs) nhưng tỷ lệ dân đô thị lại thấp nhất (22,2%), phản ánh mô hình mạng lưới thị tứ nông nghiệp phân tán, đóng vai trò là "kho thóc" dự trữ cho toàn miền Trung.
 
 ### Mầm mống Phân rã Đầu tiên (1130 – 1180 AD)
 
 * **Sự "Bản địa hóa" của giới tinh hoa Toghman**: Bước sang thế hệ thứ ba và thứ tư, các sĩ quan kỵ binh và quan chức Toghman sinh ra và lớn lên trên đất Vitalia bắt đầu nói tiếng Vitalia lưu loát, cưới vợ bản địa và dần xem thung lũng Kintazion là quê hương thay vì sa mạc Castiluce xa xôi.
-* **Rạn nứt với Triều đình Trung ương**: Khi triều đình Đại Hãn tại Castiluce rơi vào các cuộc tranh giành ngôi vị đẫm máu giữa các thị tộc phương Nam, chính quyền Tổng trấn tại Limorina bắt đầu giữ lại phần lớn thuế thu được để chi dùng cho quân đội bản hạt, chỉ gửi cống nạp tượng trưng về phương Nam, báo hiệu thời kỳ phân liệt cát cứ sắp mở ra.
+* **Rạn nứt với Triều đình Trung ương**: Khi triều đình Đại Hãn tại Castiluce rơi vào các cuộc tranh giành ngôi vị đẫm máu giữa các thị tộc phương Nam, chính quyền Tổng trấn tại Limorina bắt đầu giữ lại phần lớn thuế thu được để chi dùng cho quân đội tại địa hạt, chỉ gửi cống nạp tượng trưng về phương Nam, báo hiệu thời kỳ phân liệt cát cứ sắp mở ra.
 
 ---
 
@@ -215,7 +215,7 @@ Dưới lòng đất và trong các hang động hiểm trở, một tổ chức
 Bước sang thế kỷ XVI, Đế quốc Toghmanistan bắt đầu bước vào giai đoạn thoái trào không thể đảo ngược:
 * **Kiệt quệ Tài chính**: Việc duy trì một đạo quân chiếm đóng khổng lồ ở vùng đất xa xôi suốt hàng trăm năm trong bối cảnh các mỏ khoáng sản cạn kiệt đã biến Vitalia thành một "gánh nặng chiến lược" của Castiluce.
 * **Đại dịch Cơn Sốt Đen Thảo Nguyên (1542 – 1546 AD)**: Trận dịch bệnh truyền nhiễm từ phương Nam bùng phát dữ dội trong các trại lính đồn trú đông đúc của Toghman, cướp đi sinh mạng của gần một nửa lực lượng kỵ binh tinh nhuệ.
-* **Chiến lược Co cụm Phòng ngự**: Bất lực trước phong trào du kích bủa vây khắp nơi, các tướng lĩnh Toghman buộc phải rút bỏ toàn bộ các châu hạt hẻo lánh miền Bắc và miền Tây (Thornor, Silaltia, Feland, Wantarii), co cụm toàn bộ lực lượng còn lại về bảo vệ tam giác yết hầu: **Limorina – Lưu vực sông Kintazion – Cửa ngõ Güneydere (Almaka)**.
+* **Chiến lược Co cụm Phòng ngự**: Bất lực trước phong trào du kích bủa vây khắp nơi, các tướng lĩnh Toghman buộc phải rút bỏ toàn bộ các địa hạt hẻo lánh miền Bắc và miền Tây (Thornor, Silaltia, Feland, Wantarii), co cụm toàn bộ lực lượng còn lại về bảo vệ tam giác yết hầu: **Limorina – Lưu vực sông Kintazion – Cửa ngõ Güneydere (Almaka)**.
 
 ---
 
