@@ -1,6 +1,9 @@
 # Lịch sử Vitalia: Kỷ nguyên Đại Phục Quốc và Nền Cộng hòa Vitalia (1580 – 1622 AD)
 
-Sau hơn nửa thiên niên kỷ quằn quại dưới ách đô hộ của Đế quốc Toghmanistan, bốn mươi hai năm từ năm 1580 đến 1622 AD là khúc khải hoàn vĩ đại nhất trong biên niên sử Vitalia. Đây là thời kỳ bùng nổ của các làn sóng khởi nghĩa vũ trang liên tiếp, sự liên kết mang tính thời đại giữa ba mặt trận kháng chiến lớn, sự xuất hiện của nữ anh hùng mang dòng máu bất tử **Emilia Alexandrina Morrazalina** (*Emilia Schneider*), và kết thúc bằng sự sụp đổ hoàn toàn của quân thực dân phương Nam, khai sinh ra **Nước Cộng hòa Vitalia** vào ngày 28 tháng 5 năm 1622.
+> **Chuỗi tài liệu Bối cảnh Lịch sử Vitalia**:
+> [Phần I: Cổ đại & Sơ kỳ Trung Cổ](./01-prior-to-middle-ages.md) · [Phần II: Hậu kỳ Morrazalina & Thịnh vượng chung (880 – 1029 AD)](./02-late-morrazalina-and-commonwealth.md) · [Phần III: Thời kỳ Đô hộ Toghmanistan (1029 – 1580 AD)](./03-toghmanist-rule-and-resistance.md) · **Phần IV: Đại Phục Quốc & Nền Cộng hòa (1580 – 1622 AD)**
+
+Sau nhiều thế kỷ Toghman kiểm soát phần lớn Vitalia, giai đoạn 1580–1622 AD chứng kiến các làn sóng khởi nghĩa, sự liên kết giữa ba mặt trận kháng chiến và sự xuất hiện của nữ anh hùng mang dòng máu bất tử **Emilia Alexandrina Morrazalina** (*Emilia Schneider*). Giai đoạn này kết thúc bằng việc đánh bật chính quyền Toghman khỏi Vitalia và khai sinh **Nước Cộng hòa Vitalia** vào ngày 28 tháng 5 năm 1622.
 
 ---
 
@@ -36,18 +39,18 @@ Trước khi cuộc tổng khởi nghĩa của ba mặt trận bùng nổ vào t
 ## 2. Ngọn Lửa Bùng Cháy: Sự Xuất Hiện của Emilia Schneider (1613 – 1618 AD)
 
 ### Biến cố Học viện Phép thuật Limorina (Năm 1613 AD)
-* **Emilia Alexandrina Morrazalina**: Năm 1613 AD, cô gái 16 tuổi Emilia là một tài năng ma pháp hiếm có theo học tại Học viện Phép thuật Đế quốc đặt tại trung tâm thành phố Limorina. Bề ngoài là một học viên gương mẫu, nhưng bên trong cô bí mật tham gia nhóm nghiên cứu văn hóa Vitalia cổ, nung nấu khát vọng giải phóng dân tộc.
+* **Emilia Alexandrina Morrazalina**: Sinh ra năm 1597 tại Helenica, được Elaina Morrazalina nhận nuôi. Năm 1613 AD, cô gái 16 tuổi Emilia là một tài năng ma pháp hiếm có theo học tại Học viện Phép thuật Đế quốc đặt tại trung tâm thành phố Limorina. Bề ngoài là một học viên gương mẫu, nhưng bên trong cô bí mật tham gia nhóm nghiên cứu văn hóa Vitalia cổ, nung nấu khát vọng giải phóng dân tộc.
 * **Gerald Robinson**: Người bạn đồng môn thân thiết, sở hữu tư duy chiến thuật sắc sảo và lòng trung thành kiên định, trở thành điểm tựa tinh thần vững chắc cho Emilia suốt cuộc đời.
 * **Cuộc đàn áp đẫm máu**: Mùa thu năm 1613 AD, khi chính quyền Đế quốc ban hành "Sắc lệnh Thuế Ngoại đạo" bóp nghẹt các gia đình thị dân bản địa, Emilia đã dẫn đầu cuộc biểu tình ôn hòa của học viên. Chính quyền Toghman gài bẫy khiêu khích và điều cấm quân đàn áp dã man. Để cứu bạn bè khỏi mũi gươm đồ sát, Emilia bộc phát sử dụng **Huyết thuật (*Blood Magic*)**—thứ ma thuật cổ bị Đế quốc cấm ngặt. Cô bị trục xuất khỏi học viện và trở thành tội phạm truy nã gắt gao nhất của Đế quốc.
 
 ### Dưới ngọn cờ Hinderland và Sự Rạn nứt Lý tưởng (1614 – 1615 AD)
-* Trốn thoát khỏi kinh thành, Emilia cùng Gerald gia nhập quân đoàn lưu vong của Hector Hinderland tại vùng núi Wantarii. Khả năng ma pháp chiến đấu vượt trội của cô lập tức được trọng dụng.
+* Trốn thoát khỏi kinh thành, Emilia gia nhập quân đoàn lưu vong của Hector Hinderland tại vùng núi Wantarii. Khả năng ma pháp chiến đấu vượt trội của cô lập tức được trọng dụng.
 * **Bước ngoặt lương tri (1615 AD)**: Hector lên kế hoạch phục kích một đoàn xe chở vàng lớn của Đế quốc bằng cách tung tin giả để quân Toghman tràn vào tàn sát một ngôi làng nông dân vô tội gần đó làm mồi nhử.
 * Emilia kịch liệt phản đối: *"Mạng người không phải là những con tốt trên bàn cờ của ngài, thưa điện hạ!"*. Cô chống lệnh, một mình dẫn nhóm nhỏ bí mật sơ tán toàn bộ dân làng trước khi quân địch ập tới. Dân làng được cứu sống nhưng kế hoạch phục kích của Hector bị bại lộ. Trong cơn thịnh nộ, Hector trục xuất Emilia khỏi hàng ngũ.
 
 ### Trở về Armada & Thức Tỉnh Ma thuật Sự Sống (1616 – 1618 AD)
 * **Thung lũng Maperia / Thành Armada (Châu hạt Helenica)**: Emilia trở về thị trấn cổ Armada trong tình trạng kiệt quệ và dằn vặt. Tại đây, cô được **Vương nữ bất tử Elaina Morrazalina** đón nhận với tình mẫu tử bao dung.
-* **Di sản của Nữ vương Illumia (Aglaea II)**: Elaina truyền dạy cho cô loại **Ma thuật Sự Sống cổ xưa của Maperia**—thứ phép thuật gắn liền với linh mạch đất đai, chữa lành và tái sinh thiên nhiên, đối lập hoàn toàn với ma thuật hủy diệt cứng nhắc của Đế quốc. Elaina cũng hé lộ về di sản của mẫu thân mình—Nữ vương **Aglaea II** (tên khai sinh là **Illumia Morrazalina Dervisch**)—người từng sở hữu "Con Mắt Thần" nhìn thấy trước toàn bộ bi kịch 600 năm đô hộ và đã cất giấu thánh vật cùng lời sấm truyền về một hậu duệ mang "Dấu ấn Ánh Trăng" sẽ xuất hiện để giải phóng quê hương.
+* **Di sản của Nữ vương Illumia (Aglaea II)**: Elaina truyền dạy cho cô loại **Ma thuật Sự Sống cổ xưa của Maperia**—thứ phép thuật gắn liền với linh mạch đất đai, chữa lành và tái sinh thiên nhiên, đối lập hoàn toàn với ma thuật hủy diệt cứng nhắc của Đế quốc. Elaina cũng hé lộ về di sản của mẫu thân mình—Nữ vương **Aglaea II** (tên khai sinh là **Illumia Morrazalina Dervisch**)—người từng sở hữu "Con Mắt Thần", nhìn thấy trước nhiều thế kỷ cai trị và xung đột với Toghman, đồng thời cất giấu thánh vật cùng lời sấm truyền về một hậu duệ mang "Dấu ấn Ánh Trăng" sẽ xuất hiện để giải phóng quê hương.
 * **Trận huyết chiến bảo vệ Armada (1618 AD)**:
   * Viên quan tướng thực dân tàn bạo **Dimitri Saladin** (người cha đã ruồng bỏ Emilia trong quá khứ để theo đuổi danh vọng Đế quốc) thống lĩnh đạo quân viễn chinh tấn công pháo đài Armada.
   * Trong trận kịch chiến trước cửa ải Armada, Emilia lần đầu tiên vận dụng ma thuật sự sống đánh bại hoàn toàn ma thuật hủy diệt của Dimitri. Những binh lính Vitalia thuộc cấp quá ghê tởm tội ác của Dimitri đã bắt giữ và xử trảm hắn ngay tại quảng trường.
@@ -81,11 +84,11 @@ flowchart TD
 3. **SILA (Lyra Corvus - "Nữ chăn cừu")**: Xuất thân từ tầng lớp dân nghèo chăn cừu vùng đồng cỏ Silicania, Lyra sở hữu tài năng hiệu triệu quần chúng phi thường. SILA sử dụng chiến thuật du kích thoắt ẩn thoắt hiện trong các khu rừng già Vivilonia, tiêu hao sinh lực địch.
 
 ### Âm mưu của Zafir và Lời nguyền Tà thần Hakkidah (1620 AD)
-* Đứng trước nguy cơ thất thủ, Đại Pháp sư Đế quốc **Zafir**—một kẻ mang lòng căm thù mù quáng với Vitalia—quyết định kích hoạt tà thuật cổ nhằm đánh thức thực thể hỗn mang mang tên **Hakkidah** để biến toàn bộ sinh linh Vitalia thành tro bụi.
+* Đứng trước nguy cơ thất thủ, Đại Pháp sư Đế quốc **Zafir al-Mansur**—một kẻ mang lòng căm thù mù quáng với Vitalia—quyết định kích hoạt tà thuật cổ nhằm đánh thức thực thể hỗn mang mang tên **Hakkidah** để biến toàn bộ sinh linh Vitalia thành tro bụi.
 * **Trận chiến Hẻm núi Güneydere (1620 AD)**:
   * Trong một chiến dịch quy mô lớn của VNA nhằm đánh chiếm cửa ngõ yết hầu Güneydere (châu hạt Almaka) để chặn đứng đường tiếp viện từ phương Nam, Zafir tung ra lời nguyền hủy diệt diện rộng.
-  * Người mẹ nuôi/người chị hiền lành của Emilia là **Angelina Semyonovskaya** đã dũng cảm lao ra, bộc phát toàn bộ sinh lực để tạo vùng không gian bảo hộ vô hiệu hóa lời nguyền, và hy sinh anh dũng.
-  * **Cái giá của sự Bất tử**: Nỗi đau tột cùng kích hoạt **Dấu ấn Ánh Trăng (*The Moon Mark*)** trong huyết quản Emilia. Cô thừa hưởng dòng máu bất tử tối thượng của tổ tiên Morrazalina. Thể xác cô ngừng lão hóa, không còn biết đói hay mỏi mệt, nhưng phải đối mặt với nỗi sợ hãi tột cùng rằng sự bất tử sẽ làm tâm hồn cô dần trở nên băng giá, xa cách với nhân loại. Nhờ tình yêu ấm áp của Gerald Robinson, Emilia đã giữ vững được trái tim con người của mình.
+  * Người chị gái (cũng là mẹ ruột) của Emilia, **Angelina Semyonovskaya**, đã dũng cảm lao ra, bộc phát toàn bộ sinh lực để tạo vùng không gian bảo hộ vô hiệu hóa lời nguyền, rồi hy sinh.
+  * **Cái giá của sự Bất tử**: Nỗi đau tột cùng kích hoạt **Dấu ấn Ánh Trăng (*The Moon Mark*)** trong huyết quản Emilia. Thể xác cô ngừng lão hóa, không còn biết đói hay mỏi mệt, nhưng phải đối mặt với nỗi sợ hãi tột cùng rằng sự bất tử sẽ làm tâm hồn cô dần trở nên băng giá, xa cách với nhân loại. Nhờ tình yêu ấm áp của Elaina và những người khác, Emilia đã giữ vững được trái tim con người của mình.
 
 ### Sự Sụp đổ của Hinderland & Hội nghị Thống nhất Vivilonia (1621 AD)
 * Đầu năm 1621 AD, do sự kiêu ngạo và liều lĩnh, đội quân của Hector Hinderland bị rơi vào bẫy phục kích của quân Toghman và bị xóa sổ hoàn toàn; bản thân Hector tử trận. Tàn quân Hinderland tỉnh ngộ, tìm về gia nhập VNA.
@@ -154,7 +157,7 @@ Ngày **28 tháng 5 năm 1622**, trước sự chứng kiến của hơn hai mư
 | **1618 – 1620 AD** | Cục diện "Ba Mặt Trận, Một Kẻ Thù" (VNA – SRF – SILA). | Emilia, Tướng Vance, Lyra Corvus | Phối hợp tác chiến toàn diện; VNA đẩy mạnh phục hưng giáo dục và văn hóa bản địa. |
 | **1620 AD** | Trận Hẻm núi Güneydere (Almaka); Angelina hy sinh; Dấu ấn Ánh Trăng thức tỉnh. | Angelina Semyonovskaya, Emilia | Emilia gánh nhận định mệnh bất tử; vượt qua khủng hoảng tâm hồn nhờ tình yêu của Gerald. |
 | **1621 AD** | Quân Hinderland bị tiêu diệt; Hội nghị Thống nhất Tu viện Vivilonia. | Emilia, Vance, Lyra, Kael Vordis | Thành lập Hội đồng Liên hiệp Kháng chiến; thống nhất ý chí toàn dân tộc. |
-| **Cuối 1621 – 5/1622** | Đại vây hãm Limorina; đánh bại Đại Pháp sư Zafir, cảm hóa Hakkidah. | Emilia, Zafir, liên quân kháng chiến | Giải phóng hoàn toàn thủ đô Limorina; đập tan 593 năm ách đô hộ của Toghmanistan. |
+| **Cuối 1621 – 5/1622** | Đại vây hãm Limorina; đánh bại Đại Pháp sư Zafir, cảm hóa Hakkidah. | Emilia, Zafir, liên quân kháng chiến | Giải phóng thủ đô Limorina, kết thúc quyền cai trị Toghman tại Vitalia sau 593 năm kể từ cuộc chinh phục năm 1029. |
 | **28/5/1622 AD** | Tuyên ngôn Độc lập; Khai sinh Nước Cộng hòa Vitalia. | Emilia, Lyra Corvus, Alistair Vance | Chấm dứt kỷ nguyên đô hộ; mở ra thời kỳ hiện đại tự do, dân chủ và thịnh vượng. |
 
 ---
@@ -170,7 +173,11 @@ Ngày 28 tháng 5 năm 1622 không chỉ là ngày tái sinh về mặt chính t
    * Lấy **tầng văn học cổ Limorina** làm chuẩn mực ngữ pháp: cố định trật tự câu SVO, quy chuẩn hệ thống động từ yếu với hậu tố quá khứ `-ede` (*lookede, makede*) và phân từ `ge- / geh-` (*gehaven, gewesen*).
    * Bảo lưu nguyên vẹn hệ thống nguyên âm German/Trung đại không trải qua biến chuyển nguyên âm (giữ nguyên *hous, mous, tiet*).
 3. **Thanh lọc và Dung hòa Từ vựng**:
-   * Triệt để loại bỏ các từ mượn quân quản áp bức của thực dân Toghman, phục dựng lại các từ gốc Vitalia Cổ do thị trấn Armada lưu giữ suốt 600 năm.
+   * Loại bỏ nhiều từ mượn gắn với chính quyền quân quản Toghman, đồng thời phục dựng các từ gốc Vitalia Cổ được bảo tồn tại Armada qua nhiều thế kỷ.
    * Đồng thời, chấp nhận giữ lại các từ ngữ tiến bộ về kỹ nghệ thủy lợi (*noria*), thiên văn và thương mại hàng hải đã trở thành một phần tài sản văn hóa của nhân dân.
 
 Tiếng Vitalia chính thức bước vào kỷ nguyên hiện đại rực rỡ, trở thành tiếng nói tự hào của một dân tộc kiên cường đã chiến thắng đêm dài nô lệ.
+
+---
+
+> ⏮️ **Tài liệu trước**: [**Phần III: Lịch sử Vitalia: Thời kỳ Đô hộ của Đế quốc Toghmanistan (1029 – 1580 AD)**](./03-toghmanist-rule-and-resistance.md) · 📖 **Tìm hiểu Ngôn ngữ**: [**Hệ thống Ngữ âm Tiếng Vitalia Chuẩn**](../../standard/phonology.md) · 🏠 **Trang chủ**: [**Cẩm nang Vitalische**](../../../)

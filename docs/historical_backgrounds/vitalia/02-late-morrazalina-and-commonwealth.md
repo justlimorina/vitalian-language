@@ -1,5 +1,8 @@
 # Lịch sử Vitalia: Hậu kỳ Morrazalina và Chế độ Thịnh vượng chung (880 – 1029 AD)
 
+> **Chuỗi tài liệu Bối cảnh Lịch sử Vitalia**:
+> [Phần I: Cổ đại & Sơ kỳ Trung Cổ](./01-prior-to-middle-ages.md) · **Phần II: Hậu kỳ Morrazalina & Thịnh vượng chung (880 – 1029 AD)** · [Phần III: Thời kỳ Đô hộ Toghmanistan (1029 – 1580 AD)](./03-toghmanist-rule-and-resistance.md) · [Phần IV: Đại Phục Quốc & Nền Cộng hòa (1580 – 1622 AD)](./04-great-restoration-and-republic.md)
+
 Sau cái chết của vua James IV vào mùa đông năm 879 AD, Kỷ nguyên Hoàng Kim rực rỡ của Vương quốc Liên hiệp Vitalia và Riralia chính thức khép lại. Giai đoạn 149 năm tiếp theo (880 – 1029 AD) là một trong những khúc quanh bi tráng và biến động sâu sắc nhất trong toàn bộ lịch sử lục địa Riralia. Thời kỳ này chứng kiến đỉnh cao quyền năng của Nữ vương **Aglaea II**, sự đào thoát của Vương nữ mang dòng máu bất tử **Elaina**, cuộc khủng hoảng thoái trào dẫn đến cái chết trên đoạn đầu đài của vị vua cuối cùng **Michael I**, sự thành lập của **Thịnh vượng chung Vitalia và Riralia** dưới quyền quý tộc **Hector Hinderland**, và kết thúc bằng cuộc đại xâm lăng thôn tính của **Đế quốc Toghmanistan** trỗi dậy từ phương Nam.
 
 ---
@@ -150,3 +153,7 @@ Giai đoạn 880 – 1029 AD là giai đoạn bản lề chứng kiến sự bi�
 1. **Sự đứt gãy của Tiếng Vitalia Cổ (*Eald-Vitalisc*) chuẩn mực**: Sau khi triều đình Morrazalina sụp đổ và các trường tu viện tại Limorina bị tàn phá trong chiến loạn, hệ thống 4 biến cách phức tạp và các quy tắc ngữ âm cổ điển dần mất đi vị thế độc tôn trong hành chính.
 2. **Sự xâm nhập của lớp từ ngữ kỵ binh Sinowia / Toghmanistan**: Trong quá trình tiếp xúc và bị thôn tính, hàng loạt thuật ngữ quân sự, phẩm hàm kỵ binh và từ vựng đời sống có nguồn gốc thảo nguyên phương Nam [Ả Rập (nền chính) lai Celtic] đã du nhập ồ ạt vào khẩu ngữ thường nhật của người Vitalia.
 3. **Sự hình thành Tiếng Vitalia Trung đại (*Middle Vitalian*)**: Cấu trúc câu chuyển hẳn sang trật tự **SVO (Chủ – Động – Vị)** cố định, việc sử dụng giới từ thay thế dần cho các đuôi biến cách danh từ. Đây là bước quá độ hoàn tất để định hình nên tiếng Vitalia thời Trung đại trước khi bước vào các phong trào phục quốc sau này.
+
+---
+
+> ⏮️ **Tài liệu trước**: [**Phần I: Lịch sử Vitalia: Thời Kỳ Cổ Đại và Sơ Kỳ Trung Cổ**](./01-prior-to-middle-ages.md) · ⏭️ **Tài liệu tiếp theo**: [**Phần III: Lịch sử Vitalia: Thời kỳ Đô hộ của Đế quốc Toghmanistan (1029 – 1580 AD)**](./03-toghmanist-rule-and-resistance.md)

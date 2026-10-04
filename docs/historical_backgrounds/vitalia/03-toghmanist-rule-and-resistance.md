@@ -1,12 +1,15 @@
 # Lịch sử Vitalia: Thời kỳ Đô hộ của Đế quốc Toghmanistan (1029 – 1580 AD)
 
-Sau sự sụp đổ của Thịnh vượng chung Vitalia và Riralia cùng cái chết của Bảo Hộ Công Hector Hinderland tại thung lũng Trehovil vào mùa xuân năm 1029 AD, toàn bộ vùng đồng bằng châu thổ Kintazion và các thành thị trung tâm của Vitalia chính thức rơi vào ách thống trị của **Đế quốc Toghmanistan** (*Toghman Empire*). 
+> **Chuỗi tài liệu Bối cảnh Lịch sử Vitalia**:
+> [Phần I: Cổ đại & Sơ kỳ Trung Cổ](./01-prior-to-middle-ages.md) · [Phần II: Hậu kỳ Morrazalina & Thịnh vượng chung (880 – 1029 AD)](./02-late-morrazalina-and-commonwealth.md) · **Phần III: Thời kỳ Đô hộ Toghmanistan (1029 – 1580 AD)** · [Phần IV: Đại Phục Quốc & Nền Cộng hòa (1580 – 1622 AD)](./04-great-restoration-and-republic.md)
 
-Kéo dài hơn năm thế kỷ (1029 – 1580 AD), thời kỳ "Toghman-thuộc" trong tài liệu này bao quát ba giai đoạn lịch sử đầy biến động trước khi bước vào cuộc Đại Phục quốc:
+Sau sự sụp đổ của Thịnh vượng chung Vitalia và Riralia cùng cái chết của Bảo Hộ Công Hector Hinderland tại thung lũng Trehovil vào mùa xuân năm 1029 AD, vùng đồng bằng châu thổ Kintazion và các thành thị trung tâm của Vitalia rơi vào ách thống trị của **Đế quốc Toghmanistan** (*Toghman Empire*). Helenica, đặc biệt là thung lũng Armada, duy trì quyền tự chủ trên thực tế.
+
+Giai đoạn cai trị trực tiếp và phân liệt dưới quyền Toghman kéo dài từ năm 1029 đến năm 1580 AD. Sau đó, cuộc Đại Phục quốc diễn ra trong giai đoạn 1580–1622 AD; một số vùng, nhất là Helenica, không nằm dưới quyền kiểm soát ổn định của đế quốc:
 1. **Giai đoạn I (1029 – 1180 AD)**: Thiết lập Trấn phủ Phương Bắc & Kỷ nguyên Thịnh vượng Toghman.
 2. **Giai đoạn II (1180 – 1380 AD)**: Thời kỳ Phân liệt Cát cứ (*Cục diện Taifa*) & Các Phong trào Kháng chiến Sơ kỳ.
 3. **Giai đoạn III (1380 – 1580 AD)**: Làn sóng Thiết huyết Tái chiếm & Đỉnh điểm Xung đột Sắc tộc.
-*(Riêng **Giai đoạn IV: Kỷ nguyên Đại Phục Quốc Toàn diện [1580 – 1622 AD]** được biên soạn riêng thành một chuyên khảo độc lập tại Tài liệu 04).*
+*(Giai đoạn Đại Phục quốc [1580–1622 AD] được biên soạn riêng tại Tài liệu 04.)*
 
 Người Toghman [với nền văn hóa độc đáo kết hợp giữa truyền thống sa mạc Ả Rập và tinh thần thị tộc Celtic] không tiến hành đồng hóa cưỡng bức hay tận diệt bản địa, mà thiết lập một cơ chế cai trị thực dụng dựa trên tô thuế, tự trị đô thị và dung dưỡng văn hóa. Thời kỳ này đã làm thay đổi vĩnh viễn diện mạo kiến trúc, nông nghiệp, trật tự xã hội và đặc biệt là bước chuyển dịch mang tính cấu trúc của ngôn ngữ Vitalia từ Cổ đại sang Trung đại.
 
@@ -33,7 +36,7 @@ Sau cuộc viễn chinh năm 1029 AD, vùng đất Vitalia bị sáp nhập và 
 
 ![Bản đồ 4: Bản đồ Trấn phủ Limorina và Vivilonia năm 1120 AD](/images/Map_1120.png)
 
-Về tổ chức lãnh thổ cấp dưới, Đế quốc Toghmanistan bảo lưu mọi sắp xếp đơn vị hành chính từ thời Thịnh vượng chung, duy trì cho đến khi Vitalia độc lập. Ở mỗi trấn phủ, triều đình Toghmanistan thiết lập các cơ chế quan lại như sau:
+Về tổ chức lãnh thổ cấp dưới, Đế quốc Toghmanistan bảo lưu nhiều sắp xếp đơn vị hành chính từ thời Thịnh vượng chung tại những vùng do mình kiểm soát. Ở mỗi trấn phủ, triều đình Toghmanistan thiết lập các cơ chế quan lại như sau:
 
 1. **Đại Tổng trấn (*Wali al-Shamal*)**: Là vị tướng lĩnh kỵ binh hoàng tộc do triều đình Castiluce trực tiếp bổ nhiệm, nắm quyền tổng chỉ huy quân đồn trú, an ninh biên cương và duy trì trật tự pháp luật. Tổng trấn ngự tại Dinh thự Thống đốc mới được xây cất trên nền thành lũy hoàng gia Morrazalina cũ tại Limorina và Riralia.
 2. **Cơ quan Tài chính & Thuế vụ (*Diwan*)**: Vận hành bởi các quan chức thư lại chuyên nghiệp, chịu trách nhiệm đo đạc ruộng đất, lập sổ bộ hộ khẩu và thu nộp cống phú gửi về kho bạc trung ương Castiluce.
@@ -182,7 +185,7 @@ Bước sang cuối thế kỷ XIV, cục diện phân liệt kéo dài hơn hai
 
 ### Cuộc Viễn chinh của Kỵ binh Thiết huyết Shaddad (*The Shaddadid Conquest*, 1380 – 1420 AD)
 
-Vào thập niên 1370 AD, tại chính quốc Toghmanistan phương Nam, một dòng tộc kỵ binh sa mạc có tư tưởng quân sự cực đoan mang tên **Banū Shaddād** (Thị tộc Shaddad) đã lật đổ ngai vàng cũ tại Castiluce. Tự xưng là những người thanh lọc trật tự, lãnh tụ tối cao **Mansur al-Shaddad** nhìn về phương Bắc với sự khinh miệt sâu sắc: ông ta coi các tiểu chúa Taifa tại Vitalia là những kẻ "thoái hóa, nhu nhược và đã bị người bản địa tha hóa".
+Vào thập niên 1370 AD, tại chính quốc Toghmanistan phương Nam, một dòng tộc kỵ binh sa mạc có tư tưởng quân sự cực đoan mang tên **Banū Shaddād** (Thị tộc Shaddad) đã lật đổ ngai vàng cũ tại Castiluce. Tự xưng là những người thanh lọc trật tự, lãnh tụ tối cao **Mansur al-Shaddad** và Đại Pháp sư Tối cao **Zafir al-Mansur** nhìn về phương Bắc với sự khinh miệt sâu sắc: họ coi các tiểu chúa Taifa tại Vitalia là những kẻ "thoái hóa, nhu nhược và đã bị người bản địa tha hóa".
 
 * **Cuộc hành quân thần tốc (1380 – 1385 AD)**: Mười vạn kỵ binh thiết giáp tinh nhuệ Shaddad vượt qua hẻm núi Güneydere, lần lượt đánh tan các đội quân ô hợp của các tiểu quốc Taifa.
 * **Xóa bỏ các tiểu quốc cát cứ**:
@@ -218,7 +221,7 @@ Bước sang thế kỷ XVI, Đế quốc Toghmanistan bắt đầu bước vào
 
 ## 6. "Asturias của Vitalia": Vùng đất Tự do Helenica và Pháo đài Armada
 
-Trong suốt hai giai đoạn thống trị và phân liệt của người Toghman (1029 – 1380 AD), thung lũng thảo nguyên **Helenica** vẫn sừng sững như một ốc đảo độc lập bất khả xâm phạm:
+Trong giai đoạn thống trị và phân liệt của người Toghman (1029–1380 AD), thung lũng thảo nguyên **Helenica** vẫn duy trì quyền tự chủ trên thực tế:
 
 * **Địa thế hiểm trở và Khắc tinh của Kỵ binh**: Địa hình núi đá vôi dốc đứng, sương mù dày đặc quanh năm và rừng gai rậm rạp của Helenica hoàn toàn vô hiệu hóa ưu thế tốc độ và đội hình xung kích của thiết kỵ thảo nguyên Toghman.
 * **Đại kết giới của Vương nữ Elaina**: Dưới chân thung lũng, thị trấn cổ **Armada** được bao bọc bởi đại kết giới do chính **Vương nữ bất tử Elaina** (*Ealdor-Maga*) duy trì bằng linh mạch tự nhiên. Bất kỳ toán trinh sát hay pháp sư chiêm tinh nào của Toghman cố gắng thăm dò đều bị ma trận ảo giác bẻ cong phương hướng, lạc bước trong hẻm núi hoặc bị đánh bật trở lại.
@@ -267,5 +270,9 @@ Giai đoạn phân liệt Taifa (1180 – 1380 AD) đã để lại những dấ
 4. **Phong trào Thanh lọc Ngôn ngữ & Tiền đề cho Tiếng Vitalia Trung đại Muộn (Thế kỷ XV – XVI)**:
    * Trước sự đàn áp tàn bạo của chính quyền quân quản Shaddad, một phản ứng tự vệ văn hóa mạnh mẽ đã bùng nổ: các tầng lớp thị dân và học giả ngầm bắt đầu **tẩy chay các thuật ngữ quan lại Toghman**, thay thế bằng việc khôi phục các từ gốc Vitalia do mật sứ Armada bí mật phổ biến qua các bài thơ ca kháng chiến.
    * Đây là bước chuẩn bị then chốt để định hình **Tiếng Vitalia Trung đại Muộn (*Late Middle Vitalian*)**—ngôn ngữ sẽ đóng vai trò là vũ khí tư tưởng giải phóng dân tộc trong Kỷ nguyên Đại Phục Quốc.
+
+---
+
+> ⏮️ **Tài liệu trước**: [**Phần II: Lịch sử Vitalia: Hậu kỳ Morrazalina và Chế độ Thịnh vượng chung (880 – 1029 AD)**](./02-late-morrazalina-and-commonwealth.md) · ⏭️ **Tài liệu tiếp theo**: [**Phần IV: Lịch sử Vitalia: Kỷ nguyên Đại Phục Quốc và Nền Cộng hòa Vitalia (1580 – 1622 AD)**](./04-great-restoration-and-republic.md)
 
 

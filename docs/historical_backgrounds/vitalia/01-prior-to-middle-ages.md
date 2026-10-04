@@ -1,5 +1,8 @@
 # Lịch sử Vitalia: Thời Kỳ Cổ Đại và Sơ Kỳ Trung Cổ
 
+> **Chuỗi tài liệu Bối cảnh Lịch sử Vitalia**:
+> **Phần I: Cổ đại & Sơ kỳ Trung Cổ** · [Phần II: Hậu kỳ Morrazalina & Thịnh vượng chung (880 – 1029 AD)](./02-late-morrazalina-and-commonwealth.md) · [Phần III: Thời kỳ Đô hộ Toghmanistan (1029 – 1580 AD)](./03-toghmanist-rule-and-resistance.md) · [Phần IV: Đại Phục Quốc & Nền Cộng hòa (1580 – 1622 AD)](./04-great-restoration-and-republic.md)
+
 Vitalia là một quốc gia có bề dày lịch sử lâu đời, tọa lạc tại miền bắc của lục địa Riralia. Quá trình biến thiên lịch sử, các cuộc dịch chuyển sắc tộc, xung đột phong kiến và giao thoa văn hóa của quốc gia này đóng vai trò quyết định đối với sự hình thành tiếng Vitalia (*Vitalische*) cùng chuỗi ngôn ngữ – phương ngữ liên quan như Limorina, Aratilia và Sedanza trong các thế kỷ sau.
 
 ---
@@ -360,7 +363,7 @@ Dưới triều **Oswald II** (*Oswald se Glēawa*), đất nước trở lại 
   * Xuất hiện các cuộc tranh chấp quyền tài phán tôn giáo giữa Tòa Tổng Giám mục Limorina và các giáo khu bảo thủ miền Đông tại Abercaethen và Riralo.
 * **Triều James IV Trì Thế Vương (851 – 879 AD)**: Là vị quân vương thứ 12 và cũng là người cuối cùng của Kỷ nguyên Hoàng Kim, mang tôn hiệu **James IV** (*Iacob IV se Langsum*). Ý thức được nguy cơ suy thoái, nhà vua ban hành *Sắc lệnh Hạn điền* nhằm hạn chế việc kiêm tính đất đai của quý tộc, đồng thời nỗ lực điều đình mâu thuẫn sắc tộc giữa người Vitalia, người Cambria, Penmawr và Riralia. Ngài giữ vững sự ổn định và thống nhất của đế quốc cho đến ngày trút hơi thở cuối cùng vào mùa đông năm 879 AD ở tuổi 68.
 
-Cái chết của vua James IV vào tháng 12 năm 879 AD chính thức khép lại **426 năm Kỷ nguyên Hoàng Kim rực rỡ** của Vương triều Morrazalina. Toàn bộ tiến trình biến động tiếp theo—từ triều đại của Nữ vương **Aglaea II**, sự đào thoát của Vương nữ **Elaina**, sự suy tàn và sụp đổ của vương triều dưới tay quý tộc **Hector Hinderland** (1015 AD), cho đến thời kỳ Thịnh vượng chung và cuộc thôn tính của Đế quốc **Toghmanistan** (1029 AD)—được trình bày chi tiết trong tài liệu tiếp theo: [**Lịch sử Vitalia: Hậu kỳ Morrazalina và Chế độ Thịnh vượng chung (880 – 1029 AD)**](/vitalian-language/docs/historical_backgrounds/vitalia/02-late-morrazalina-and-commonwealth/).
+Cái chết của vua James IV vào tháng 12 năm 879 AD chính thức khép lại **426 năm Kỷ nguyên Hoàng Kim rực rỡ** của Vương triều Morrazalina. Toàn bộ tiến trình biến động tiếp theo—từ triều đại của Nữ vương **Aglaea II**, sự đào thoát của Vương nữ **Elaina**, sự suy tàn và sụp đổ của vương triều dưới tay quý tộc **Hector Hinderland** (1015 AD), cho đến thời kỳ Thịnh vượng chung và cuộc thôn tính của Đế quốc **Toghmanistan** (1029 AD)—được trình bày chi tiết trong tài liệu tiếp theo: [**Lịch sử Vitalia: Hậu kỳ Morrazalina và Chế độ Thịnh vượng chung (880 – 1029 AD)**](./02-late-morrazalina-and-commonwealth.md).
 
 ---
 
@@ -389,3 +392,7 @@ Kỷ nguyên Hoàng Kim (453 – 879 AD) là cái nôi tôi luyện và định 
    * Hàng loạt từ tố địa lý của người Celtic xứ Cambria và Penmawr đã thâm nhập sâu rộng vào kho địa danh Vitalia: các tiền tố/hậu tố *-combe* (thung lũng hẹp), *-caer* (pháo đài đá), *-inver* (cửa sông hợp lưu, tiêu biểu như pháo đài yết hầu *Invergeall*), *-aber* (cửa biển/cửa sông, như thành phố cổ *Abercaethen*), *-in* (cảng biển, như quân cảng *Inmouth*), và *-pen* (mũi đất đồi cao, như *Penmawr*).
    * Lớp từ ngữ chỉ cảnh quan thiên nhiên duyên hải, kỹ nghệ đóng tàu biển, nghề dệt len dạ và các huyền thoại hiệp sĩ Celtic được hấp thu hoàn toàn vào kho tàng văn học Vitalia Cổ.
 3. **Tiền đề cho sự quá độ sang Tiếng Vitalia Trung đại (*Middle Vitalian*)**: Đến cuối thế kỷ VIII và thế kỷ IX, dưới sự giao lưu buôn bán dày đặc và nhịp sống đô thị nhộn nhịp tại Limorina, Cảng Brampton và Inmouth, hệ thống 4 biến cách phức tạp của tầng Cổ bắt đầu xuất hiện xu hướng giản lược trong khẩu ngữ thường nhật của tầng lớp thị dân. Đây chính là mầm mống lịch sử chuẩn bị cho bước chuyển mình vĩ đại sang **tiếng Vitalia tiêu chuẩn (Middle Vitalian)** với trật tự SVO cố định trong các thế kỷ tiếp theo.
+
+---
+
+> ⏭️ **Tài liệu tiếp theo**: [**Phần II: Lịch sử Vitalia: Hậu kỳ Morrazalina và Chế độ Thịnh vượng chung (880 – 1029 AD)**](./02-late-morrazalina-and-commonwealth.md)
