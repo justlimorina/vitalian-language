@@ -70,6 +70,12 @@ markdown.use({
       const innerText = tokens ? this.parser.parseInline(tokens) : text;
       return `<a href="${href}"${linkTitle ? ` title="${linkTitle}"` : ''}>${innerText}</a>`;
     },
+    code({ text, lang }) {
+      if (lang === 'mermaid') {
+        return `<div class="mermaid-container"><pre class="mermaid">${text}</pre></div>`;
+      }
+      return `<pre><code class="language-${lang || 'text'}">${text}</code></pre>`;
+    },
     image({ href, title: imgTitle, text }) {
       if (!href) return '';
       let src = href;
@@ -113,6 +119,7 @@ function getSectionName(path: string): string {
 
 const sectionName = getSectionName(cleanFile);
 const hasToc = headings.length >= 2;
+const hasMermaid = body.includes('```mermaid');
 ---
 
 <SiteLayout title={title} active={active} wide={hasToc}>
@@ -161,6 +168,37 @@ const hasToc = headings.length >= 2;
       )}
 
       <div class="prose" set:html={rendered} />
+
+      {hasMermaid && (
+        <script is:inline type="module">
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+          mermaid.initialize({
+            startOnLoad: false,
+            theme: 'base',
+            themeVariables: {
+              primaryColor: '#216c3b',
+              primaryTextColor: '#ffffff',
+              primaryBorderColor: '#1b5e20',
+              lineColor: '#216c3b',
+              secondaryColor: '#e8f5e9',
+              tertiaryColor: '#f1f8e9',
+              noteBkgColor: '#fef7e0',
+              noteTextColor: '#202124',
+              actorBkg: '#e8f5e9',
+              actorBorder: '#216c3b',
+              actorTextColor: '#1b5e20',
+              signalColor: '#216c3b',
+              signalTextColor: '#1b5e20',
+              fontFamily: 'Plus Jakarta Sans, sans-serif',
+              fontSize: '14px'
+            },
+            securityLevel: 'loose'
+          });
+          await mermaid.run({
+            querySelector: '.mermaid'
+          });
+        </script>
+      )}
 
       <footer class="doc-bottom-nav">
         <a class="nav-chip-link" href={base}>
@@ -542,6 +580,46 @@ const hasToc = headings.length >= 2;
     color: var(--md-sys-color-on-surface-variant);
     font-style: italic;
     padding: 0 16px;
+  }
+
+  /* ==========================================================================
+     Mermaid Diagrams
+     ========================================================================== */
+  :global(.mermaid-container) {
+    margin: 32px 0;
+    padding: 24px;
+    background: var(--md-sys-color-surface-container-low);
+    border: 1px solid var(--md-sys-color-outline-variant);
+    border-radius: var(--md-sys-shape-corner-lg);
+    box-shadow: var(--md-sys-elevation-1);
+    overflow-x: auto;
+    display: flex;
+    justify-content: center;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  :global(.mermaid-container:hover) {
+    border-color: var(--md-sys-color-primary);
+    box-shadow: var(--md-sys-elevation-2);
+  }
+
+  :global(.mermaid-container .mermaid) {
+    background: transparent !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: inherit !important;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    min-width: min-content;
+  }
+
+  :global(.mermaid-container svg) {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
   }
 
   /* ==========================================================================
