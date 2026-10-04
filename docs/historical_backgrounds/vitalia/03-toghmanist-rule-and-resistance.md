@@ -1,12 +1,12 @@
-# Lịch sử Vitalia: Thời kỳ Đô hộ của Đế quốc Toghmanistan (1029 – 1622 AD)
+# Lịch sử Vitalia: Thời kỳ Đô hộ của Đế quốc Toghmanistan (1029 – 1580 AD)
 
 Sau sự sụp đổ của Thịnh vượng chung Vitalia và Riralia cùng cái chết của Bảo Hộ Công Hector Hinderland tại thung lũng Trehovil vào mùa xuân năm 1029 AD, toàn bộ vùng đồng bằng châu thổ Kintazion và các thành thị trung tâm của Vitalia chính thức rơi vào ách thống trị của **Đế quốc Toghmanistan** (*Toghman Empire*). 
 
-Kéo dài gần sáu thế kỷ (1029 – 1622 AD), thời kỳ "Toghman-thuộc" là giai đoạn dài nhất và biến động phức tạp nhất trong lịch sử Vitalia. Tương tự như thời kỳ Bắc thuộc trong lịch sử Á Đông hay thời kỳ Al-Andalus trên Bán đảo Iberia ngoài đời thực, thời kỳ này được chia thành bốn giai đoạn lịch sử rõ rệt:
+Kéo dài hơn năm thế kỷ (1029 – 1580 AD), thời kỳ "Toghman-thuộc" trong tài liệu này bao quát ba giai đoạn lịch sử đầy biến động trước khi bước vào cuộc Đại Phục quốc:
 1. **Giai đoạn I (1029 – 1180 AD)**: Thiết lập Trấn phủ Phương Bắc & Kỷ nguyên Thịnh vượng Toghman.
 2. **Giai đoạn II (1180 – 1380 AD)**: Thời kỳ Phân liệt Cát cứ (*Cục diện Taifa*) & Các Phong trào Kháng chiến Sơ kỳ.
 3. **Giai đoạn III (1380 – 1580 AD)**: Làn sóng Thiết huyết Tái chiếm & Đỉnh điểm Xung đột Sắc tộc.
-4. **Giai đoạn IV (1580 – 1622 AD)**: Kỷ nguyên Đại Phục Quốc Toàn diện.
+*(Riêng **Giai đoạn IV: Kỷ nguyên Đại Phục Quốc Toàn diện [1580 – 1622 AD]** được biên soạn riêng thành một chuyên khảo độc lập tại Tài liệu 04).*
 
 Người Toghman [với nền văn hóa độc đáo kết hợp giữa truyền thống sa mạc Ả Rập và tinh thần thị tộc Celtic] không tiến hành đồng hóa cưỡng bức hay tận diệt bản địa, mà thiết lập một cơ chế cai trị thực dụng dựa trên tô thuế, tự trị đô thị và dung dưỡng văn hóa. Thời kỳ này đã làm thay đổi vĩnh viễn diện mạo kiến trúc, nông nghiệp, trật tự xã hội và đặc biệt là bước chuyển dịch mang tính cấu trúc của ngôn ngữ Vitalia từ Cổ đại sang Trung đại.
 
@@ -176,7 +176,47 @@ Sau sự thất thủ của Brampton, phong trào kháng chiến chuyển hướ
 
 ---
 
-## 5. "Asturias của Vitalia": Vùng đất Tự do Helenica và Pháo đài Armada
+## 5. Giai đoạn III: Làn sóng Thiết huyết Tái chiếm & Đỉnh điểm Xung đột Sắc tộc (1380 – 1580 AD)
+
+Bước sang cuối thế kỷ XIV, cục diện phân liệt kéo dài hơn hai trăm năm của các tiểu quốc Taifa đột ngột chấm dứt trước một làn sóng can thiệp vũ lực tàn bạo từ phương Nam [tương tự như các cuộc xâm lăng của người Almoravid và Almohad vào Bán đảo Iberia]. Thời kỳ này biến Vitalia thành một chiến trường đẫm máu giữa chủ nghĩa quân phiệt ngoại bang khắc kỷ với ý thức phục quốc sục sôi của toàn thể dân tộc:
+
+### Cuộc Viễn chinh của Kỵ binh Thiết huyết Shaddad (*The Shaddadid Conquest*, 1380 – 1420 AD)
+
+Vào thập niên 1370 AD, tại chính quốc Toghmanistan phương Nam, một dòng tộc kỵ binh sa mạc có tư tưởng quân sự cực đoan mang tên **Banū Shaddād** (Thị tộc Shaddad) đã lật đổ ngai vàng cũ tại Castiluce. Tự xưng là những người thanh lọc trật tự, lãnh tụ tối cao **Mansur al-Shaddad** nhìn về phương Bắc với sự khinh miệt sâu sắc: ông ta coi các tiểu chúa Taifa tại Vitalia là những kẻ "thoái hóa, nhu nhược và đã bị người bản địa tha hóa".
+
+* **Cuộc hành quân thần tốc (1380 – 1385 AD)**: Mười vạn kỵ binh thiết giáp tinh nhuệ Shaddad vượt qua hẻm núi Güneydere, lần lượt đánh tan các đội quân ô hợp của các tiểu quốc Taifa.
+* **Xóa bỏ các tiểu quốc cát cứ**:
+  * Tiểu quốc Limorina bị bao vây và thất thủ; các hậu duệ cựu Tổng trấn bản địa hóa bị xử trảm hoặc trục xuất vào sa mạc.
+  * Pháo đài duyên hải Brampton bị công phá; các thương đoàn kỵ binh lai bị tước đoạt toàn bộ chiến thuyền và kho báu.
+  * Toàn bộ xứ sở Vitalia một lần nữa bị quy về một mối dưới quyền **Chính quyền Quân quản Thiết huyết (*Al-Hukm al-Askari*)**.
+
+### Bạo chính Sắt đá và Sự Thức tỉnh Ý thức Dân tộc Toàn diện (1420 – 1500 AD)
+
+Không giống như chính sách cai trị thực dụng, dung dưỡng văn hóa thời kỳ đầu của Tariq ibn Kaelan (1029 AD), nhà cầm quyền Shaddad áp đặt một chế độ áp bức sắc tộc vô cùng tàn khốc:
+
+1. **Bãi bỏ hoàn toàn Tự trị Đô thị**: Giải tán các Hội đồng bô lão (*Majlis al-Balad*), phế truất toàn bộ các chức *Muqaddam* của quý tộc bản địa, thay thế bằng các sĩ quan quân quản Toghman mù quáng.
+2. **Thuế khóa cưỡng bách và Khổ sai**: Tăng vọt thuế đinh *Baddal* lên mức không tưởng nhằm bòn rút tài nguyên gửi về Castiluce; bắt hàng chục vạn thanh niên Vitalia đi phu đắp đại chiến lũy và khai quật các mỏ sắt Wantarii.
+3. **Bức hại Tầng lớp Mozarab Vitalia**: Những thị dân và thương nhân từng tiếp thu lối sống Toghman (*Vitalisc-Musta'rib*) trước đây nay bị xem là "kẻ phản trắc nguy hiểm", bị tịch thu gia sản và cấm cư trú trong các khu nội thành kiên cố.
+4. **Tác động Lịch sử then chốt**: Chính sự tàn bạo cùng cực này đã **xóa bỏ hoàn toàn mọi ranh giới chia rẽ** trong lòng xã hội Vitalia. Quý tộc cũ, thương nhân Mozarab, thợ thủ công thành thị và bần nông thôn dã—những tầng lớp từng mâu thuẫn suốt hàng thế kỷ—giờ đây nhận ra họ chỉ có một kẻ thù chung duy nhất. Ý thức dân tộc Vitalia bùng cháy mạnh mẽ hơn bao giờ hết.
+
+### Mạng lưới Kháng chiến Ngầm: "Liên minh Bí mật Ba Vùng" (*The Tri-Regional Secret League*, ~1480 – 1520 AD)
+
+Dưới lòng đất và trong các hang động hiểm trở, một tổ chức phục quốc toàn diện được khai sinh:
+* **Sự liên kết 3 trụ cột**:
+  * *Hải đội bí mật Brampton*: Các thợ đóng tàu và thủy thủ bản địa bí mật vũ trang hàng trăm thuyền buồm đáy bằng nhẹ.
+  * *Nghĩa binh Sơn cước Wantarii*: Các kỵ sĩ và tiễn thủ vùng đồi núi chuyên tập kích tiêu diệt các đoàn áp tải lương thảo của quân chiếm đóng.
+  * *Mạng lưới Trí thức Ngầm Limorina*: Các cựu học giả Đại Học viện bí mật in ấn và lưu truyền các bản dịch tuyên ngôn độc lập, kêu gọi khởi nghĩa.
+
+### Khủng hoảng Suy tàn, Dịch bệnh và Sự Co cụm của Ngoại bang (1520 – 1580 AD)
+
+Bước sang thế kỷ XVI, Đế quốc Toghmanistan bắt đầu bước vào giai đoạn thoái trào không thể đảo ngược:
+* **Kiệt quệ Tài chính**: Việc duy trì một đạo quân chiếm đóng khổng lồ ở vùng đất xa xôi suốt hàng trăm năm trong bối cảnh các mỏ khoáng sản cạn kiệt đã biến Vitalia thành một "gánh nặng chiến lược" của Castiluce.
+* **Đại dịch Cơn Sốt Đen Thảo Nguyên (1542 – 1546 AD)**: Trận dịch bệnh truyền nhiễm từ phương Nam bùng phát dữ dội trong các trại lính đồn trú đông đúc của Toghman, cướp đi sinh mạng của gần một nửa lực lượng kỵ binh tinh nhuệ.
+* **Chiến lược Co cụm Phòng ngự**: Bất lực trước phong trào du kích bủa vây khắp nơi, các tướng lĩnh Toghman buộc phải rút bỏ toàn bộ các châu hạt hẻo lánh miền Bắc và miền Tây (Thornor, Silaltia, Feland, Wantarii), co cụm toàn bộ lực lượng còn lại về bảo vệ tam giác yết hầu: **Limorina – Lưu vực sông Kintazion – Cửa ngõ Güneydere (Almaka)**.
+
+---
+
+## 6. "Asturias của Vitalia": Vùng đất Tự do Helenica và Pháo đài Armada
 
 Trong suốt hai giai đoạn thống trị và phân liệt của người Toghman (1029 – 1380 AD), thung lũng thảo nguyên **Helenica** vẫn sừng sững như một ốc đảo độc lập bất khả xâm phạm:
 
@@ -188,7 +228,7 @@ Trong suốt hai giai đoạn thống trị và phân liệt của người Togh
 
 ---
 
-## 6. Bảng niên biểu Giai đoạn I & II (1029 – 1380 AD)
+## 7. Bảng niên biểu Toàn thời kỳ Đô hộ (1029 – 1580 AD)
 
 | Niên đại | Sự kiện / Cột mốc lịch sử | Nhân vật then chốt | Ý nghĩa & Tác động lịch sử |
 | :---: | :--- | :--- | :--- |
@@ -201,10 +241,15 @@ Trong suốt hai giai đoạn thống trị và phân liệt của người Togh
 | **1265 AD** | Hiệp sĩ Alden khởi nghĩa tại Brampton; quét sạch quân đồn trú; khai sinh Lãnh địa Tự do Kintazion. | Hiệp sĩ Alden (*Ealdwine of Brampton*) | Mở ra 20 năm tự chủ oanh liệt; bãi bỏ thuế đinh *Baddal*; đúc tiền riêng. |
 | **1285 AD** | Liên minh 3 tiểu quốc Toghman vây hãm Brampton; Alden tử trận sau 7 tháng giữ thành. | Hiệp sĩ Alden, liên minh tướng lĩnh Toghman | Chính quyền tự chủ sụp đổ; phong trào kháng chiến chuyển vào rừng núi. |
 | **1285 – 1380 AD** | Hoạt động du kích của hội kín "Những Đứa Con Của Sương Mù"; tập kích các đoàn xe thuế. | Nghĩa quân du kích, Vương nữ Elaina bí mật tiếp tế | Duy trì ngọn lửa kháng chiến âm ỉ; chuẩn bị lực lượng cho các thế kỷ sau. |
+| **1380 – 1385 AD** | Quân Thiết huyết Banū Shaddād vượt hẻm Güneydere; tiêu diệt 4 tiểu quốc Taifa, lập Chính quyền Quân quản. | Lãnh tụ Mansur al-Shaddad | Chấm dứt thời kỳ cát cứ; áp đặt nền thống trị quân phiệt hà khắc và bạo chính sắc tộc. |
+| **1420 – 1480 AD** | Bãi bỏ tự trị đô thị; đàn áp tầng lớp Mozarab; toàn thể dân tộc Vitalia kết thành khối đại đoàn kết. | Bộ máy quân quản Toghman, thị dân & nông dân Vitalia | Xóa nhòa mọi chia rẽ nội bộ; thúc đẩy ý thức dân tộc phục quốc bùng nổ toàn diện. |
+| **1485 AD** | Thành lập "Liên minh Bí mật Ba Vùng" (Brampton – Wantarii – Limorina); chuẩn bị vũ trang ngầm. | Các thủ lĩnh bang hội, kỵ sĩ Wantarii, trí thức ngầm | Đặt nền móng tổ chức chính quy cho phong trào phục quốc quy mô lục địa. |
+| **1542 – 1546 AD** | Đại dịch Cơn Sốt Đen Thảo Nguyên bùng phát tàn phá các đồn binh; quân Toghman tổn thất nặng nề. | Quân đồn trú Toghman | Bẻ gãy ưu thế kỵ binh ngoại bang; tạo thời cơ vàng cho các vùng tự do nổi dậy. |
+| **1550 – 1580 AD** | Quân Toghman rút bỏ miền Bắc & miền Tây, co cụm về trục Limorina – Almaka; Armada hoàn tất chuẩn bị. | Quân đồn trú Toghman, Vương nữ Elaina & các thủ lĩnh | Tiền đề trực tiếp dẫn tới Kỷ nguyên Đại Phục Quốc (1580 – 1622 AD). |
 
 ---
 
-## 7. Dấu ấn Ngôn ngữ: Sự Phân hóa Phương ngữ và Tiếp xúc Ngôn ngữ Thời kỳ Cát cứ
+## 8. Dấu ấn Ngôn ngữ: Sự Phân hóa Phương ngữ và Bước chuyển sang Tiếng Vitalia Trung đại Muộn
 
 Giai đoạn phân liệt Taifa (1180 – 1380 AD) đã để lại những dấu ấn ngôn ngữ học sâu sắc:
 
@@ -219,4 +264,8 @@ Giai đoạn phân liệt Taifa (1180 – 1380 AD) đã để lại những dấ
 3. **Hoàn tất Quá trình Cố định Ngữ pháp Tiếng Vitalia Trung đại**:
    * Sự biến mất hoàn toàn của việc phân biệt giống ngữ pháp đối với phần lớn danh từ cụ thể.
    * Động từ hoàn toàn chuyển sang sử dụng trợ động từ (*to have / to be*) để tạo thì hoàn thành thay cho biến đổi nguyên âm nội tại (*Ablaut*) cổ đại.
+4. **Phong trào Thanh lọc Ngôn ngữ & Tiền đề cho Tiếng Vitalia Trung đại Muộn (Thế kỷ XV – XVI)**:
+   * Trước sự đàn áp tàn bạo của chính quyền quân quản Shaddad, một phản ứng tự vệ văn hóa mạnh mẽ đã bùng nổ: các tầng lớp thị dân và học giả ngầm bắt đầu **tẩy chay các thuật ngữ quan lại Toghman**, thay thế bằng việc khôi phục các từ gốc Vitalia do mật sứ Armada bí mật phổ biến qua các bài thơ ca kháng chiến.
+   * Đây là bước chuẩn bị then chốt để định hình **Tiếng Vitalia Trung đại Muộn (*Late Middle Vitalian*)**—ngôn ngữ sẽ đóng vai trò là vũ khí tư tưởng giải phóng dân tộc trong Kỷ nguyên Đại Phục Quốc.
+
 
