@@ -225,7 +225,7 @@ Bị dồn vào chân tường trong tuyệt vọng, Đại Pháp sư Zafir al-M
 * *Lòng quả cảm phi thường của người lính vô danh lấy thân mình che chắn làn mưa tên cho đồng đội;*
 * *Ánh mắt trìu mến và hơi ấm bàn tay của Gerald Robinson giữa đêm đông lạnh giá.*
 
-Đứng trước sức mạnh sống động, mãnh liệt và thiêng liêng của tình người, thực thể Hakkidah—vốn chỉ quen với sự tĩnh lặng băng giá của cái chết—lần đầu tiên bị chấn động tận gốc rễ trước "trật tự sống động" của sự sống. Nhận ra thời đại của bóng tối đã khép lại, thực thể tà thần tự tiêu biến vào cõi hư vô, trả lại bầu trời trong xanh ngập tràn ánh nắng cho Limorina. Zafir gục ngã trong nỗi tuyệt vọng và bị bắt giữ; toàn bộ quân đồn trú Toghman buông gươm đầu hàng vô điều kiện. Năm trăm chín mươi ba năm đô hộ chính thức chấm dứt!
+Đứng trước sức mạnh sống động, mãnh liệt và thiêng liêng của tình người, thực thể Hakkidah—vốn chỉ quen với sự tĩnh lặng băng giá của cái chết—lần đầu tiên bị chấn động tận gốc rễ trước "trật tự sống động" của sự sống. Nhận ra thời đại của bóng tối đã khép lại, thực thể tà thần tự tiêu biến vào cõi hư vô, trả lại bầu trời trong xanh ngập tràn ánh nắng cho Limorina. Zafir gục ngã trong nỗi tuyệt vọng và bị bắt giữ; toàn bộ quân đồn trú Toghman buông gươm đầu hàng vô điều kiện. Năm trăm chín mươi ba năm đô hộ chính thức chấm dứt.
 
 ---
 
