@@ -100,32 +100,32 @@ Vào năm 1120 AD—gần một thế kỷ sau cuộc chinh phục—Cơ quan Th
 
 Toàn bộ xứ sở được chia thành 15 đơn vị châu hạt (*Counties*). Số liệu thống kê năm 1120 AD đã phác họa nên một bức tranh nhân khẩu học và địa chính trị Trung Cổ vô cùng sống động:
 
-| STT | Châu hạt (*County*) | Thủ phủ hành chính | Diện tích | Tổng dân số | Dân số nông thôn | Dân số thành thị (*Tỷ lệ*) | Đơn vị thành thị (*Burgs*) |
-| :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1 | **Amelia and Limorina** | Limorina | 1.290.825 km² | 450.147 | 219.254 | 230.894 (51,3%) | 6 |
-| 2 | **Loutheton** | Loutheton | 679.500 km² | 339.655 | 178.220 | 161.434 (47,5%) | 6 |
-| 3 | **Helenica** | Helenica | 948.150 km² | 326.869 | 193.071 | 133.798 (40,9%) | 5 |
-| 4 | **Chamliova** | Çamliova | 787.500 km² | 296.636 | 193.798 | 102.838 (34,7%) | 6 |
-| 5 | **Thornor** | Thornor | 1.115.325 km² | 289.989 | 204.447 | 85.542 (29,5%) | 8 |
-| 6 | **Silaltia** | Karelia | 1.040.400 km² | 289.111 | 171.788 | 117.322 (40,6%) | 5 |
-| 7 | **Hatre** | Axbriden | 1.083.825 km² | 270.999 | 213.792 | 57.208 (21,1%) | 4 |
-| 8 | **Vivilonia** | Vivilonia | 793.125 km² | 255.087 | 106.573 | 148.514 (58,2%) | 4 |
-| 9 | **Almaka** | Güneydere | 852.525 km² | 229.250 | 63.980 | 165.271 (72,1%) | 8 |
-| 10 | **Feland** | Caltondal | 883.575 km² | 227.930 | 123.833 | 104.096 (45,7%) | 5 |
-| 11 | **Thetham** | Asaling | 922.500 km² | 180.643 | 106.386 | 74.258 (41,1%) | 4 |
-| 12 | **Grorres** | Grorres | 858.600 km² | 146.788 | 114.201 | 32.587 (22,2%) | 10 |
-| 13 | **Carolina** | Carolina | 325.575 km² | 144.290 | 61.961 | 82.329 (57,1%) | 2 |
-| 14 | **Elka Yur** | Elka Yur | 558.225 km² | 79.912 | 41.400 | 38.512 (48,2%) | 5 |
-| 15 | **Blandfordia** | Lympsford | 518.400 km² | 58.933 | 37.397 | 21.536 (36,5%) | 3 |
-| — | **TỔNG CỘNG** | — | **12.658.050 km²** | **3.586.239** | **2.030.101 (56,6%)** | **1.556.139 (43,4%)** | **81** |
+| STT | Tên địa hạt (*County*) | Danh xưng Toghman / Ả Rập (*Wilāyah / Iqlīm*) | Thủ phủ hành chính | Diện tích | Tổng dân số | Dân số nông thôn | Dân số thành thị (*Tỷ lệ*) | Đơn vị thành thị (*Burgs*) |
+| :---: | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| 1 | **Amelia và Limorina** | *Iqlīm al-Amīliyya wa-l-Līmūrīna* (إقليم الأميلية والليمورينا) | Limorina | 1.290.825 km² | 4.501.473 | 2.192.538 | 2.308.935 (51,3%) | 6 |
+| 2 | **Loutheton** | *Wilāyat Lūthitūn* (ولاية لوثيتون) | Loutheton | 679.500 km² | 3.396.545 | 1.782.200 | 1.614.345 (47,5%) | 6 |
+| 3 | **Helenica** | *Iqlīm al-Halīniqa* (إقليم الهلينية) | Helenica | 948.150 km² | 3.268.687 | 1.930.709 | 1.337.978 (40,9%) | 5 |
+| 4 | **Chamliova** | *Wilāyat Çamliyūfa* (ولاية چامليوفا) | Çamliova | 787.500 km² | 2.966.362 | 1.937.977 | 1.028.385 (34,7%) | 6 |
+| 5 | **Thornor** | *Iqlīm Thurnūr* (إقليم ثورنور) | Thornor | 1.115.325 km² | 2.899.894 | 2.044.474 | 855.420 (29,5%) | 8 |
+| 6 | **Silaltia** | *Wilāyat Silālṭiya* (ولاية سيلالتيا) | Karelia | 1.040.400 km² | 2.891.108 | 1.717.882 | 1.173.225 (40,6%) | 5 |
+| 7 | **Hatre** | *Iqlīm al-Hātir* (إقليم حاطر) | Axbriden | 1.083.825 km² | 2.709.994 | 2.137.916 | 572.078 (21,1%) | 4 |
+| 8 | **Vivilonia** | *Wilāyat Fīfīlūniya* (ولاية فيفيلونيا) | Vivilonia | 793.125 km² | 2.550.866 | 1.065.731 | 1.485.135 (58,2%) | 4 |
+| 9 | **Almaka** | *Iqlīm al-Maka* (إقليم ألماكا) | Güneydere | 852.525 km² | 2.292.504 | 639.796 | 1.652.708 (72,1%) | 8 |
+| 10 | **Feland** | *Wilāyat Fīlānd* (ولاية فيلاند) | Caltondal | 883.575 km² | 2.279.296 | 1.238.334 | 1.040.962 (45,7%) | 5 |
+| 11 | **Thetham** | *Iqlīm al-Thatham* (إقليم الثاثام) | Asaling | 922.500 km² | 1.806.434 | 1.063.858 | 742.575 (41,1%) | 4 |
+| 12 | **Grorres** | *Wilāyat Jurrīs* (ولاية جريس) | Grorres | 858.600 km² | 1.467.881 | 1.142.014 | 325.868 (22,2%) | 10 |
+| 13 | **Carolina** | *Iqlīm Qārūlīna* (إقليم قارولينا) | Carolina | 325.575 km² | 1.442.905 | 619.615 | 823.290 (57,1%) | 2 |
+| 14 | **Elka Yur** | *Iqlīm Ilqā Yūr* (إقليم إلقا يور) | Elka Yur | 558.225 km² | 799.117 | 413.999 | 385.118 (48,2%) | 5 |
+| 15 | **Blandfordia** | *Wilāyat Bilāndfūrdiyā* (ولاية بلاندفورديا) | Lympsford | 518.400 km² | 589.334 | 373.972 | 215.362 (36,5%) | 3 |
+| — | **TỔNG CỘNG** | — | — | **12.658.050 km²** | **35.862.400** | **20.301.015 (56,6%)** | **15.561.384 (43,4%)** | **81** |
 
 #### Phân tích Địa chính trị & Cơ cấu Dân cư năm 1120 AD:
 
 1. **Trọng tâm Đô thị hóa và Kinh tế (Amelia-Limorina & Almaka)**:
-   * **Amelia-Limorina** là hạt nhân đông dân nhất với hơn 45 vạn người, trong đó hơn 51% sống tại 6 đơn vị thành thị (*Burgs*) tập trung quanh trục sông Kintazion, đóng góp hơn một phần ba tổng thu ngân sách của Trấn phủ.
-   * **Almaka (Thủ phủ Güneydere)**: Là cửa ngõ huyết mạch nơi hẻm núi hiểm trở nối liền Vitalia với chính quốc Toghmanistan ở phương Nam. Do vị trí giao thương và quân sự chiến lược, Almaka có tỷ lệ đô thị hóa cao nhất toàn cõi (**72,1%**), với 8 đơn vị thành thị kiên cố phục vụ cho việc đồn trú kỵ binh, trạm bưu chính và thương đoàn lữ hành.
+   * **Amelia-Limorina** là hạt nhân đông dân nhất với hơn 4,5 triệu người, trong đó hơn 51% (2,3 triệu thị dân) sống tại 6 đơn vị thành thị (*Burgs*) tập trung quanh trục sông Kintazion, đóng góp hơn một phần ba tổng thu ngân sách của Trấn phủ.
+   * **Almaka (Thủ phủ Güneydere)**: Là cửa ngõ huyết mạch nơi hẻm núi hiểm trở nối liền Vitalia với chính quốc Toghmanistan ở phương Nam. Do vị trí giao thương và quân sự chiến lược, Almaka có tỷ lệ đô thị hóa cao nhất toàn cõi (**72,1%**, tương đương 1,65 triệu thị dân), với 8 đơn vị thành thị kiên cố phục vụ cho việc đồn trú kỵ binh, trạm bưu chính và thương đoàn lữ hành.
 2. **Nghịch lý Thống kê tại Helenica**:
-   * Trên sổ bạ của Diwan, **Helenica** vẫn được kê khai đầy đủ diện tích (948.150 km²) và dân số (hơn 32,6 vạn người) nhằm thể hiện uy quyền tượng trưng của Đại Hãn lên toàn cõi.
+   * Trên sổ bạ của Diwan, **Helenica** vẫn được kê khai đầy đủ diện tích (948.150 km²) và dân số (hơn 3,26 triệu người) nhằm thể hiện uy quyền tượng trưng của Đại Hãn lên toàn cõi.
    * Tuy nhiên, trên thực tế, các đoàn kiểm tra điền bạ của Toghman chỉ có thể tiếp cận các bản làng thưa thớt ở vùng bìa rừng thảo nguyên. Vùng lõi thung lũng với thị trấn cổ **Armada** hoàn toàn "biến mất" khỏi tầm mắt của các quan trắc viên nhờ đại kết giới sương mù của Vương nữ Elaina.
 3. **Mạng lưới Đơn vị Thành thị (*Burgs*)**:
    * Toàn lục địa có **81 đơn vị thành thị (*Burgs*)**—đây là các thị trấn có tường thành kiên cố, chợ trung tâm (*Souk*) và đồn trú quân sự.
