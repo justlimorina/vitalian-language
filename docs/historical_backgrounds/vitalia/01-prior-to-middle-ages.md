@@ -131,7 +131,7 @@ Thành tựu đáng kể nhất của ngài là khai thông tuyến đèo hiểm
 
 Chính sách thiên lệch này dẫn tới nạn đói năm 238 AD và làn sóng khởi nghĩa nông dân bùng phát. Để dẹp loạn, thay vì chấn chỉnh chính sự, Edward II lại trao quyền chiêu mộ binh sĩ, thu thuế và lập quân đội riêng cho các thủ lĩnh biên cương, vô tình biến các địa hạt thành các tập đoàn quân phiệt cát cứ.
 
-#### Triều Edward III Mất Đất Vương (242 – 259 AD)
+#### Triều Edward III Thất Quốc Vương (242 – 259 AD)
 
 Đăng cơ ở tuổi 19, **Edward III** (*Eadweard III se Forlēore* - Edward the Realm-loser / Mất Đất Vương) là một quân vương bạc nhược trước thời cuộc biến động dữ dội. Bị các thế lực môn phiệt thao túng, ngài giam mình trong cung điện Limorina. Trước nguy cơ quốc khố cạn kiệt do các phiên trấn ngừng nộp cống phú, triều đình hạ lệnh đúc tiền pha tạp kim loại rẻ tiền, gây nên cơn sốt lạm phát dữ dội, làm tê liệt hệ thống thương mại của vương quốc.
 
@@ -145,7 +145,7 @@ Tháng 7 năm 259 AD, liên minh các lãnh chúa phiên trấn đồng loạt k
 | **2** | **Adolf II** (*Adolf Börügai*) | 138 – 195 AD | 171 – 195 AD | Thiết Kỵ Vương (*se Hors-Cyning*) | Sáng lập lực lượng Thiết Kỵ Hiệp Sĩ (*Iron-knechtes*); thúc đẩy hôn nhân hòa hợp Betarii - Maperia; giữ yên biên cương trước các man tộc phương Đông. | Tiêu tốn tài lực vào hệ thống đồn trại quân sự; chế độ đa thê tạo mầm mống phân tranh kế vị. |
 | **3** | **Edward I** (*Eadweard I*) | 173 – 221 AD | 195 – 221 AD | Văn Hóa Vương (*se Bōcere*) | Lập Viện Dịch thuật Kinh đô; thúc đẩy chuyển hóa sang *Eald-Vitalisc*; ban hành Thuế Tam Phần; phục hồi kinh tế. | Cắt giảm cấm quân thường trực; miễn thuế quá mức cho điền trang giáo hội. |
 | **4** | **Edward II** (*Eadweard II*) | 198 – 242 AD | 221 – 242 AD | Thiển Cận Vương (*se Dweola*) | Khai thông hẻm núi Güneydere; lập sổ bạ điền thổ sơ kỳ (*Dōmbōc*); phát triển mậu dịch phương Nam. | Thiên vị thân tộc thảo nguyên; tăng thuế ngũ cốc gây nạn đói năm 238 AD; trao quyền quân sự riêng cho lãnh chúa biên ải. |
-| **5** | **Edward III** (*Eadweard III*) | 223 – 262 AD | 242 – 259 AD | Mất Đất Vương (*se Forlēore*) | Nỗ lực ký hiệp ước hòa hoãn năm 248 AD nhằm trì hoãn xung đột cục bộ. | Nhu nhược; phá giá tiền tệ gây lạm phát phi mã; ký chiếu thư thoái vị năm 259 AD khiến đất nước tan vỡ thành 10 sứ quân. |
+| **5** | **Edward III** (*Eadweard III*) | 223 – 262 AD | 242 – 259 AD | Thất Quốc Vương (*se Forlēore*) | Nỗ lực ký hiệp ước hòa hoãn năm 248 AD nhằm trì hoãn xung đột cục bộ. | Nhu nhược; phá giá tiền tệ gây lạm phát phi mã; ký chiếu thư thoái vị năm 259 AD khiến đất nước tan vỡ thành 10 sứ quân. |
 
 ---
 
