@@ -132,7 +132,7 @@ Toàn bộ xứ sở được chia thành 15 đơn vị địa hạt (*Counties*
    * Tuy nhiên, trên thực tế, các đoàn kiểm tra điền bạ của Toghman chỉ có thể tiếp cận các bản làng thưa thớt ở vùng bìa rừng thảo nguyên. Vùng lõi thung lũng với thị trấn cổ **Armada** hoàn toàn "biến mất" khỏi tầm mắt của các quan trắc viên nhờ đại kết giới sương mù của Vương nữ Elaina.
 3. **Mạng lưới Đơn vị Thành thị (*Burgs*)**:
    * Toàn lục địa có **81 đơn vị thành thị (*Burgs*)**—đây là các thị trấn có tường thành kiên cố, chợ trung tâm (*Souk*) và đồn trú quân sự.
-   * Địa hạt **Grorres** sở hữu nhiều thành thị nhất (10 Burgs) nhưng tỷ lệ dân đô thị lại thấp nhất (22,2%), phản ánh mô hình mạng lưới thị tứ nông nghiệp phân tán, đóng vai trò là "kho thóc" dự trữ cho toàn miền Trung.
+   * Địa hạt **Grorres** sở hữu nhiều thành thị nhất (10 Burgs) nhưng tỷ lệ dân đô thị lại thấp nhất (22,2%), phản ánh mô hình mạng lưới thị tứ nông-ngư nghiệp phân tán, đóng vai trò là "kho lương" dự trữ cho khu vực Viễn Tây.
 
 ### Mầm mống Phân rã Đầu tiên (1130 – 1180 AD)
 
@@ -143,7 +143,7 @@ Toàn bộ xứ sở được chia thành 15 đơn vị địa hạt (*Counties*
 
 ## 4. Giai đoạn II: Thời kỳ Phân liệt Cát cứ (*Cục diện Taifa*) & Kháng chiến Sơ kỳ (1180 – 1380 AD)
 
-Bước sang cuối thế kỷ XII, bức tranh thống nhất của Trấn phủ Phương Bắc vỡ vụn khi Đế quốc Toghmanistan rơi vào cuộc đại khủng hoảng triều đình tại phương Nam. Vitalia bước vào 200 năm phân liệt đẫm máu—thời kỳ tương đồng với cục diện các tiểu quốc *Taifa* tại Tây Ban Nha hay loạn cát cứ sứ quân:
+Bước sang cuối thế kỷ XII, bức tranh thống nhất của Trấn phủ Phương Bắc vỡ vụn khi Đế quốc Toghmanistan rơi vào cuộc đại khủng hoảng triều đình tại phương Nam. Vitalia bước vào 200 năm phân liệt đẫm máu [thời kỳ tương đồng với cục diện các tiểu quốc *Taifa* tại Tây Ban Nha hay loạn cát cứ sứ quân]:
 
 ### Sự sụp đổ của Trấn phủ và Cục diện Tứ Phân (*The Four Taifas*, 1180 – 1260 AD)
 
@@ -152,7 +152,7 @@ Năm 1182 AD, vị Tổng trấn cuối cùng được Castiluce thừa nhận b
 1. **Tiểu quốc Limorina (*Emirate of Limorina*)**: Do dòng dõi các cựu Tổng trấn Toghman đã bản địa hóa cai trị. Nắm giữ đại đô thành, trung tâm tài chính và đại học viện, tiểu quốc này sở hữu lực lượng cấm quân thiết kỵ đông đảo nhất nhưng suy đồi về kỷ luật.
 2. **Tiểu quốc Duyên hải Brampton (*Taifa of Brampton*)**: Do liên minh giữa các thương nhân kỵ binh và hải tặc biển Bắc kiểm soát. Nắm giữ cửa ngõ hàng hải, độc quyền buôn bán khoáng sản và duy trì đội chiến thuyền hùng hậu.
 3. **Tiểu quốc Thượng Kintazion (*Emirate of Upper Kintazion*)**: Do các thủ lĩnh du mục mới di cư từ biên giới phía Nam kiểm soát. Nắm giữ các đồng cỏ thảo nguyên chăn thả chiến mã và các mỏ đồng then chốt.
-4. **Tiểu trấn Đồi Wantarii (*Lordship of Wantarii*)**: Nơi tầng lớp quý tộc lai (*Muladí*) và các thủ lĩnh lính đánh thuê thiện chiến tự xưng chúa tể, kiểm soát các pháo đài tiền tiêu trên các rặng đồi hiểm trở.
+4. **Tiểu trấn Đồi Wantarii (*Lordship of Vantaria*)**: Nơi tầng lớp quý tộc lai (*Muladí*) và các thủ lĩnh lính đánh thuê thiện chiến tự xưng chúa tể, kiểm soát các pháo đài tiền tiêu trên các rặng đồi hiểm trở.
 
 * **Thảm họa nội chiến và bóc lột**: Bốn tiểu quốc liên tục xâu xé, tranh giành từng dải đất canh tác và nguồn nước sông. Để nuôi dưỡng đội quân kỵ binh đánh thuê, các tiểu chúa Toghman không ngừng tăng thuế đinh *Baddal* và thuế ruộng *Kharaj* lên gấp ba, gấp bốn lần, đồng thời cưỡng bách thanh niên Vitalia vào các đội bộ binh xung kích làm bia đỡ đạn. Sự cùng quẫn đã đẩy mâu thuẫn xã hội đến bờ vực bùng nổ.
 
