@@ -88,7 +88,7 @@ Năm 59 AD, Nữ vương chính thức đổi quốc hiệu thành **Vitalia**, 
 
 ## Thời kỳ Sơ kỳ Trung cổ: Vương triều Morrazalina (160 – 452 AD)
 
-Vương triều Morrazalina là một trong những vương triều vĩ đại và trường tồn nhất trong lịch sử Vitalia (160 – 1015 AD). Vương triều được sáng lập bởi **Nữ Công tước Aglaea Timur qizi Morrazalina xứ Helenica**—thủ lĩnh của thị tộc du mục thảo nguyên Maperia. Thị tộc danh *Morrazalina* bắt nguồn từ cổ ngữ Maperia (*Mabirii* - một ngôn ngữ thuộc ngữ tộc Turkic) là *Muradyn zahesi* ("Ảo ảnh của Murad"—vị khan đầu tiên của Helenica), hoặc dạng Latinh hóa của danh xưng *Moradzadeh*.
+Vương triều Morrazalina là một trong những vương triều vĩ đại và trường tồn nhất trong lịch sử Vitalia (160 – 1015 AD). Vương triều được sáng lập bởi **Nữ Công tước Aglaea Timur qizi Morrazalina xứ Helenica**—thủ lĩnh của thị tộc du mục thảo nguyên Maperia. Thị tộc danh *Morrazalina* bắt nguồn từ cổ ngữ Maperia (*Mabirii*) [một ngôn ngữ thuộc ngữ tộc Turkic] là *Muradyn zahesi* ("Ảo ảnh của Murad"—vị khan đầu tiên của Helenica), hoặc dạng Latinh hóa của danh xưng *Moradzadeh*.
 
 Trong phân kỳ lịch sử từ năm 160 đến năm 452 AD, vận mệnh của vương triều và quốc gia Vitalia vận động qua ba giai đoạn lịch sử mang tính bản lề:
 1. **Giai đoạn Sơ kỳ (160 – 259 AD)**: Kỷ nguyên kiến lập và dung hòa giữa dòng máu quý tộc thảo nguyên Maperia với cư dân bản địa Betarii qua 5 triều quân vương, trước khi rạn nứt sắc tộc dẫn tới sự sụp đổ của chính quyền trung ương.
