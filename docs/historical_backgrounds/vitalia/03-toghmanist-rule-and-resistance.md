@@ -8,7 +8,7 @@ Sau sự sụp đổ của Thịnh vượng chung Vitalia và Riralia cùng cái
 Giai đoạn cai trị trực tiếp và phân liệt dưới quyền Toghman kéo dài từ năm 1029 đến năm 1580 AD. Sau đó, cuộc Đại Phục quốc diễn ra trong giai đoạn 1580–1622 AD; một số vùng, nhất là Helenica, không nằm dưới quyền kiểm soát ổn định của đế quốc:
 1. **Giai đoạn I (1029 – 1180 AD)**: Thiết lập Trấn phủ Phương Bắc & Kỷ nguyên Thịnh vượng Toghman.
 2. **Giai đoạn II (1180 – 1380 AD)**: Thời kỳ Phân liệt Cát cứ (*Cục diện Taifa*) & Các Phong trào Kháng chiến Sơ kỳ.
-3. **Giai đoạn III (1380 – 1580 AD)**: Làn sóng Thiết huyết Tái chiếm & Đỉnh điểm Xung đột Sắc tộc.
+3. **Giai đoạn III (1380 – 1580 AD)**: Làn sóng Tái chiếm của Thị tộc Shaddad & Đỉnh điểm Xung đột Sắc tộc.
 *(Giai đoạn Đại Phục quốc [1580–1622 AD] được biên soạn riêng tại Tài liệu 04.)*
 
 Người Toghman [với nền văn hóa độc đáo kết hợp giữa truyền thống sa mạc Ả Rập và tinh thần thị tộc Celtic] không tiến hành đồng hóa cưỡng bức hay tận diệt bản địa, mà thiết lập một cơ chế cai trị thực dụng dựa trên tô thuế, tự trị đô thị và dung dưỡng văn hóa. Thời kỳ này đã làm thay đổi vĩnh viễn diện mạo kiến trúc, nông nghiệp, trật tự xã hội và đặc biệt là bước chuyển dịch mang tính cấu trúc của ngôn ngữ Vitalia từ Cổ đại sang Trung đại.
@@ -179,21 +179,21 @@ Sau sự thất thủ của Brampton, phong trào kháng chiến chuyển hướ
 
 ---
 
-## 5. Giai đoạn III: Làn sóng Thiết huyết Tái chiếm & Đỉnh điểm Xung đột Sắc tộc (1380 – 1580 AD)
+## 5. Giai đoạn III: Làn sóng Tái Chiếm của Thị tộc Shaddad & Đỉnh điểm Xung đột Sắc tộc (1380 – 1580 AD)
 
-Bước sang cuối thế kỷ XIV, cục diện phân liệt kéo dài hơn hai trăm năm của các tiểu quốc Taifa đột ngột chấm dứt trước một làn sóng can thiệp vũ lực tàn bạo từ phương Nam [tương tự như các cuộc xâm lăng của người Almoravid và Almohad vào Bán đảo Iberia]. Thời kỳ này biến Vitalia thành một chiến trường đẫm máu giữa chủ nghĩa quân phiệt ngoại bang khắc kỷ với ý thức phục quốc sục sôi của toàn thể dân tộc:
+Cuối thế kỷ XIV, cục diện phân liệt kéo dài hơn hai thế kỷ của các tiểu quốc Taifa đột ngột khép lại trước một chiến dịch can thiệp quân sự quy mô lớn từ phương Nam [tương tự sự can thiệp của các phong trào Almoravid và Almohad vào Bán đảo Iberia]. Thời kỳ này biến Vitalia thành chiến trường khốc liệt giữa chủ nghĩa quân phiệt ngoại bang khắc kỷ với ý thức phục quốc sục sôi của toàn thể dân tộc:
 
-### Cuộc Viễn chinh của Kỵ binh Thiết huyết Shaddad (*The Shaddadid Conquest*, 1380 – 1420 AD)
+### Cuộc Viễn chinh của Kỵ binh Banū Shaddād (*The Shaddadid Conquest*, 1380 – 1420 AD)
 
-Vào thập niên 1370 AD, tại chính quốc Toghmanistan phương Nam, một dòng tộc kỵ binh sa mạc có tư tưởng quân sự cực đoan mang tên **Banū Shaddād** (Thị tộc Shaddad) đã lật đổ ngai vàng cũ tại Castiluce. Tự xưng là những người thanh lọc trật tự, lãnh tụ tối cao **Mansur al-Shaddad** và Đại Pháp sư Tối cao **Zafir al-Mansur** nhìn về phương Bắc với sự khinh miệt sâu sắc: họ coi các tiểu chúa Taifa tại Vitalia là những kẻ "thoái hóa, nhu nhược và đã bị người bản địa tha hóa".
+Vào thập niên 1370 AD, tại chính quốc Toghmanistan, một thị tộc kỵ binh sa mạc có đường lối quân phiệt cứng rắn mang tên **Banū Shaddād** đã đoạt lấy quyền lực tại Castiluce. Tự coi mình là lực lượng thanh lọc trật tự, lãnh tụ tối cao **Mansur al-Shaddad** và Đại Pháp sư Tối cao **Zafir al-Mansur** khinh miệt sâu sắc các tiểu chúa Taifa tại Vitalia, xem họ là những kẻ nhu nhược và đã bị nền văn hóa bản địa đồng hóa:
 
-* **Cuộc hành quân thần tốc (1380 – 1385 AD)**: Mười vạn kỵ binh thiết giáp tinh nhuệ Shaddad vượt qua hẻm núi Güneydere, lần lượt đánh tan các đội quân ô hợp của các tiểu quốc Taifa.
-* **Xóa bỏ các tiểu quốc cát cứ**:
-  * Tiểu quốc Limorina bị bao vây và thất thủ; các hậu duệ cựu Tổng trấn bản địa hóa bị xử trảm hoặc trục xuất vào sa mạc.
+* **Hành quân thần tốc (1380 – 1385 AD)**: Hơn mười vạn kỵ binh thiết giáp tinh nhuệ Shaddad vượt qua hẻm núi Güneydere, lần lượt đánh bại lực lượng phòng vệ của các tiểu quốc Taifa.
+* **Xóa bỏ thể chế cát cứ**:
+  * Tiểu quốc Limorina bị bao vây và thất thủ; các hậu duệ của cựu Tổng trấn bản địa hóa bị phế truất hoặc lưu đày.
   * Pháo đài duyên hải Brampton bị công phá; các thương đoàn kỵ binh lai bị tước đoạt toàn bộ chiến thuyền và kho báu.
-  * Toàn bộ xứ sở Vitalia một lần nữa bị quy về một mối dưới quyền **Chính quyền Quân quản Thiết huyết (*Al-Hukm al-Askari*)**.
+  * Toàn bộ xứ Vitalia một lần nữa bị quy về một mối dưới quyền **Chính quyền Quân quản Shaddad (*Al-Hukm al-Askari*)**.
 
-### Bạo chính Sắt đá và Sự Thức tỉnh Ý thức Dân tộc Toàn diện (1420 – 1500 AD)
+### Chính sách Thống trị Sắt đá và Sự Thức tỉnh Ý thức Dân tộc Toàn diện (1420 – 1500 AD)
 
 Không giống như chính sách cai trị thực dụng, dung dưỡng văn hóa thời kỳ đầu của Tariq ibn Kaelan (1029 AD), nhà cầm quyền Shaddad áp đặt một chế độ áp bức sắc tộc vô cùng tàn khốc:
 
@@ -244,7 +244,7 @@ Trong giai đoạn thống trị và phân liệt của người Toghman (1029�
 | **1265 AD** | Hiệp sĩ Alden khởi nghĩa tại Brampton; quét sạch quân đồn trú; khai sinh Lãnh địa Tự do Kintazion. | Hiệp sĩ Alden (*Ealdwine of Brampton*) | Mở ra 20 năm tự chủ oanh liệt; bãi bỏ thuế đinh *Baddal*; đúc tiền riêng. |
 | **1285 AD** | Liên minh 3 tiểu quốc Toghman vây hãm Brampton; Alden tử trận sau 7 tháng giữ thành. | Hiệp sĩ Alden, liên minh tướng lĩnh Toghman | Chính quyền tự chủ sụp đổ; phong trào kháng chiến chuyển vào rừng núi. |
 | **1285 – 1380 AD** | Hoạt động du kích của hội kín "Những Đứa Con Của Sương Mù"; tập kích các đoàn xe thuế. | Nghĩa quân du kích, Vương nữ Elaina bí mật tiếp tế | Duy trì ngọn lửa kháng chiến âm ỉ; chuẩn bị lực lượng cho các thế kỷ sau. |
-| **1380 – 1385 AD** | Quân Thiết huyết Banū Shaddād vượt hẻm Güneydere; tiêu diệt 4 tiểu quốc Taifa, lập Chính quyền Quân quản. | Lãnh tụ Mansur al-Shaddad | Chấm dứt thời kỳ cát cứ; áp đặt nền thống trị quân phiệt hà khắc và bạo chính sắc tộc. |
+| **1380 – 1385 AD** | Đạo quân thiết giáp Banū Shaddād vượt hẻm Güneydere; tiêu diệt 4 tiểu quốc Taifa, lập Chính quyền Quân quản. | Lãnh tụ Mansur al-Shaddad | Chấm dứt thời kỳ cát cứ; áp đặt nền thống trị quân phiệt hà khắc và bạo chính sắc tộc. |
 | **1420 – 1480 AD** | Bãi bỏ tự trị đô thị; đàn áp tầng lớp Mozarab; toàn thể dân tộc Vitalia kết thành khối đại đoàn kết. | Bộ máy quân quản Toghman, thị dân & nông dân Vitalia | Xóa nhòa mọi chia rẽ nội bộ; thúc đẩy ý thức dân tộc phục quốc bùng nổ toàn diện. |
 | **1485 AD** | Thành lập "Liên minh Bí mật Ba Vùng" (Brampton – Wantarii – Limorina); chuẩn bị vũ trang ngầm. | Các thủ lĩnh bang hội, kỵ sĩ Wantarii, trí thức ngầm | Đặt nền móng tổ chức chính quy cho phong trào phục quốc quy mô lục địa. |
 | **1542 – 1546 AD** | Đại dịch Cơn Sốt Đen Thảo Nguyên bùng phát tàn phá các đồn binh; quân Toghman tổn thất nặng nề. | Quân đồn trú Toghman | Bẻ gãy ưu thế kỵ binh ngoại bang; tạo thời cơ vàng cho các vùng tự do nổi dậy. |

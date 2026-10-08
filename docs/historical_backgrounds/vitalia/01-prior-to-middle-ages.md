@@ -44,35 +44,45 @@ Vương triều Æthelwulfson là triều đại quân chủ đầu tiên trong 
 
 #### Quá trình lập quốc và cuộc thanh trừng Reginald
 
-Năm 25 AD, tại thành phố Amaliabyrig, **Công quốc Limorinia** chính thức được tách lập từ Đại Công quốc Burtonces thuộc Đế quốc Taria. Người sáng lập công quốc là **Công tước Adolf Bridiger** (*Æthelwulf Bridyger*), hoàng tử của Quốc vương Taria đương triều là Heimerich II. Tên gọi công quốc được đặt theo tên của công nữ sơ sinh của ông—**Limorina Æthelwulferre** (sau này là Nữ vương khai quốc của Vitalia). Trong thời gian trị vì, Công tước Adolf đặt định các quy chuẩn pháp lý đầu tiên, tổ chức bộ máy hành chính lục bộ (Lại, Hộ, Lễ, Binh, Hình, Công) mô phỏng thể chế Taria, thành lập Viện Nguyên Lão Công quốc và đẩy mạnh khai hoang vùng hợp lưu Kintazion – Trehovil. Lãnh thổ được phân cấp thành các địa hạt (*county*), dưới địa hạt là huyện (*town*) và dưới huyện là xã (*parish*).
+Năm 25 AD, tại thành phố Amaliabyrig, **Công quốc Limorinia** chính thức tách lập khỏi Đại Công quốc Burtonces thuộc Đế quốc Taria. Người sáng lập công quốc là **Công tước Adolf Bridiger** (*Æthelwulf Bridyger*), hoàng tử của Quốc vương Taria Heimerich II. Công quốc được đặt theo tên của người con gái sơ sinh của ông—**Limorina Æthelwulferre**, người sau này trở thành Nữ vương khai quốc của Vitalia. 
 
-Trong những năm cuối đời (43–48 AD), Công tước Adolf lâm bệnh nặng, quyền nhiếp chính được trao cho người em họ là **Bá tước Reginald Aemilium Tariscir**. Nhận thấy phụ thân nguy kịch, các công tử—tiêu biểu là Công tử Edmund—bỏ qua quyền kế vị của công nữ Limorina, dấy binh tranh đoạt ngai vị. Lợi dụng thời cơ, Bá tước Reginald phát động nội chiến trấn áp các công tử kéo dài đến năm 50 AD (hai năm sau khi Công tước Adolf qua đời). Sau thắng lợi, Reginald đưa cháu gái Limorina lên ngôi Nữ công tước, nhưng thực chất nắm trọn binh quyền, mưu toan biến bà thành quân chủ bù nhìn để tiếm vị.
+Trong thời gian trị vì, Công tước Adolf đặt định những nền móng pháp lý đầu tiên, thành lập Viện Nguyên Lão Công quốc và kiến tạo thể chế **Lục Ty Hoàng Gia (*Seox Ambihtas*)**—bộ máy hành chính sáu cơ quan trọng yếu phỏng theo các điển chế phương Nam nhưng thích ứng với tập quán bản địa:
+1. **Lại vụ Ty (*Ambiht þāra Gerefena*)**: Trông coi quan chế, tuyển lựa quan chức và ghi chép danh bạ quý tộc.
+2. **Hộ điền Ty (*Ambiht þæs Feoh-geornes*)**: Phụ trách điền bạ, sổ hộ tịch, thu nộp tô thuế và ngân khố công quốc.
+3. **Lễ nghi Ty (*Ambiht þāra Þēawa*)**: Đảm trách nghi lễ vương quyền, tiếp đón sứ đoàn và thư tịch tôn giáo.
+4. **Binh vụ Ty (*Ambiht þæs Here-rǣdes*)**: Quản lý quân số, vũ khí trang bị, tiền tiêu đồn trú và huấn luyện lực lượng phòng thủ.
+5. **Hình luật Ty (*Ambiht þæs Dōmes*)**: Phụ trách pháp điển, giám sát các phiên tòa bồi thẩm và thi hành án luật.
+6. **Công dịch Ty (*Ambiht þæs Weorces*)**: Đảm trách việc khai hoang châu thổ, mở đường bộ hành và đắp đê ngăn lũ.
 
-Nhận thức rõ âm mưu của viên tể thần nhiếp chính và ách lệ thuộc nặng nề vào chính quốc Taria, Nữ công tước Limorina bí mật liên kết với các tướng lĩnh Betarii trung thành, phát động cuộc chiến tranh giành độc lập. Dưới sự chỉ huy kiên cường của bà, quân dân Limorinia đánh bại hoàn toàn các đạo quân can thiệp của Taria. Trước tổn thất nặng nề, Quốc vương Sigmund II của Taria buộc phải ký hòa ước công nhận Limorinia là một vương quốc độc lập có chủ quyền, tôn Limorina lên ngôi Nữ vương và chấp nhận Reginald tạm giữ chức Tể tướng.
+Cùng với đó, lãnh thổ được phân cấp chặt chẽ: đứng đầu là các **địa hạt (*shires / counties*)**, bên dưới là các **huyện trấn (*towns / burgs*)** và cơ sở là các **xã thôn (*parishes*)**.
 
-Sau ngày độc lập, Reginald ngày càng lộ rõ dã tâm chuyên quyền, kịch liệt cản trở chính sách đổi quốc hiệu thành **Vương quốc Vitalia**—một chiến lược chính trị khôn khéo do Nữ vương chủ trương nhằm "tái Eliavarnumia hóa" tên gọi *Betarii*, nhằm dung hòa khối sắc dân bản địa phương Nam với cư dân châu thổ Kintazion. Nhận thấy người chú họ nhiếp chính đã trở thành mối họa sinh tử đối với vương quyền, Nữ vương Limorina bí mật hạ lệnh tống giam Reginald vào ngục tối. Viên tể tướng lộng quyền bị xử tử bí mật, thi thể bị ném xuống dòng nước lạnh giá của vịnh Brampton, dập tắt hoàn toàn mầm mống phản nghịch và mở đầu cho kỷ nguyên độc tôn của hoàng tộc **Æthelwulfson**.
+Trong những năm cuối đời (43–48 AD), Công tước Adolf lâm bệnh nặng, trao quyền phụ chính cho người em họ là **Bá tước Reginald Aemilium Tariscir**. Thấy phụ thân nguy kịch, các công tử—đứng đầu là Công tử Edmund—bỏ qua quyền kế vị hợp pháp của công nữ Limorina, dấy binh tranh đoạt quyền bính. Nắm lấy thời cơ, Bá tước Reginald phát động cuộc dẹp loạn kéo dài đến năm 50 AD, hai năm sau khi Công tước Adolf qua đời. Dẹp yên các công tử, Reginald tôn cháu gái Limorina lên ngôi Nữ công tước, nhưng thực chất nắm trọn binh quyền trong tay nhằm biến bà thành quân chủ bù nhìn để thuận bề tiếm vị.
 
-Năm 59 AD, Nữ vương chính thức đổi quốc hiệu thành **Vitalia**, bãi bỏ vĩnh viễn chức tể tướng, buộc Hội đồng Vương quyền (*Witan*) và các thượng thư lục bộ phải phụng mệnh và bẩm báo trực tiếp trước ngai vàng. Bà ban chiếu dời đô từ Amelia về ngã ba sông Kintazion, kiến thiết kinh thành mang tên **Æthelwulfbyrig** (tiền thân của thành phố Limorina). Trong những năm tháng trị vì, bà giảm nhẹ thuế khóa, mở mang bờ cõi về phía thảo nguyên Maperia, thiết lập thông thương và đại xá thiên hạ—trong đó tha tội chết cho người em trai là **Albert Adolfer** (*Æthelberht Æthelwulfer*). Nhờ những đại công nghiệp này, hậu thế đời đời tôn kính xưng tụng bà là **Limorina Đại đế**.
+Nhận thức rõ dã tâm của viên phụ chính cùng hiểm họa lệ thuộc vào chính quốc Taria, Nữ công tước Limorina bí mật liên kết với các tướng lĩnh Betarii trung thành, phát động cuộc chiến tranh giành độc lập. Dưới sự chỉ huy kiên cường của bà, quân dân Limorinia bẻ gãy hoàn toàn các đạo quân can thiệp của Taria. Trước tổn thất nặng nề, Quốc vương Sigmund II của Taria buộc phải ký hòa ước công nhận Limorinia là vương quốc độc lập có chủ quyền, chấp thuận Limorina lên ngôi Nữ vương và để Reginald tạm giữ cương vị Tể tướng.
+
+Sau ngày toàn thắng, Reginald ngày càng bộc lộ tham vọng chuyên quyền, kịch liệt cản trở chính sách đổi quốc hiệu thành **Vương quốc Vitalia**—một quyết sách chiến lược của Nữ vương nhằm dung hòa cộng đồng Betarii châu thổ với các sắc tộc bản địa phương Nam. Nhận thấy người chú họ phụ chính đã trở thành mối họa sinh tử đối với nền độc lập non trẻ, Nữ vương Limorina hạ lệnh tống giam Reginald vào ngục tối. Viên tể thần lộng quyền bị xử tử bí mật và thi thể bị ném xuống vịnh Brampton, dập tắt mầm mống phản nghịch và mở đầu cho kỷ nguyên độc tôn của hoàng tộc **Æthelwulfson**.
+
+Năm 59 AD, Nữ vương chính thức đổi quốc hiệu thành **Vitalia**, bãi bỏ vĩnh viễn chức tể tướng, buộc Hội đồng Vương quyền (*Witan*) và các trưởng quan Lục Ty Hoàng Gia phải phụng mệnh trực tiếp trước ngai vàng. Bà ban chiếu dời đô từ Amelia về ngã ba sông Kintazion, kiến thiết kinh thành **Æthelwulfbyrig** (tiền thân của đô thành Limorina sau này). Trong suốt thời gian trị vì, bà giảm nhẹ sưu thuế, mở rộng biên cương về phía thảo nguyên Maperia, thiết lập thông thương và ban lệnh đại xá thiên hạ—bao gồm việc tha tội cho người em trai là **Albert Adolfer** (*Æthelberht Æthelwulfer*). Nhờ những đại công nghiệp này, hậu thế đời đời tôn kính xưng tụng bà là **Limorina Đại Đế**.
 
 #### Tiến trình vận động lịch sử qua các triều đại
 
-1. **Triều Albert I Hiền vương (65 – 84 AD)**: Sau khi Nữ vương Limorina băng hà năm 65 AD, vương đệ Albert kế vị. Kế thừa di nghiệp của vương tỷ, ngài củng cố bộ máy tập quyền, ban hành *Bộ luật Albert* (*Albertisc Dōm*)—bộ luật thành văn đầu tiên của người Betarii sử dụng văn tự Latinh sơ khai, đặt nền tảng hình thành tiếng Vitalia Cổ (*Eald-Vitalisc*). Ngài đẩy mạnh khai khẩn điền trang, định hình giai tầng nông dân tự do (*carlas*).
-2. **Triều Kendrick I Chiến binh (84 – 108 AD)**: Con trưởng của Albert I là Kendrick I (*Cenric I se Wigere*) kế vị. Ngài liên tiếp mở các chiến dịch bình định các tàn dư Taria phía Tây Bắc, phạt dẹp các man tộc phương Nam, mở rộng lãnh thổ ra toàn bộ dải duyên hải vịnh Brampton và vùng đệm Maperia, xây dựng hệ thống đồn lũy biên ải (*burh*) và thành lập cấm quân thường trực.
-3. **Triều Edmund I Thịnh vương (108 – 131 AD)**: Dưới thời vua Edmund I (*Eadmund I se Weliga*), Vitalia bước vào thời kỳ cực thịnh về kinh tế và mậu dịch hàng hải. Cảng Brampton và bến sông kinh đô trở thành đại đô hội giao thương sầm uất đón các đoàn buôn phương Nam, đưa làn sóng từ vựng Latinh/Eliavarnumia sơ khai xâm nhập vào giới học giả và thư lại (*clērocas*). Tuy nhiên, đây cũng là thời kỳ bắt đầu manh nha hiện tượng tích tụ ruộng đất điền trang của giới quý tộc môn phiệt.
-4. **Triều Kendrick II Nhu vương (131 – 149 AD)**: Là vị vua ôn hòa nhưng thiếu quyết đoán, Kendrick II (*Cenric II*) để quyền bính triều chính rơi dần vào tay các thế tộc trong Viện Nguyên Lão. Nạn kiêm tính đất đai bùng phát khiến nông dân bị bần cùng hóa. Để giữ yên bờ cõi phía Nam trước các đợt tập kích của thảo nguyên, triều đình buộc phải trao quyền tự trị quân sự cho các tù trưởng địa phương, tạo điều kiện cho các thế lực quân phiệt vùng biên trỗi dậy—tiêu biểu là dòng họ quý tộc du mục Morrazalina tại thái ấp Helenica.
-5. **Triều Kendrick III Bạo chúa (149 – 160 AD)**: Kế vị giữa lúc quốc khố suy kiệt, Kendrick III (*Cenric III se Yfele*) thiết lập chế độ khủng bố bạo quyền để giành lại quyền lực từ các lãnh chúa. Với tính khí hoang tưởng bệnh hoạn, ngài thẳng tay thanh trừng công thần, ra lệnh sát hại dã man toàn bộ các vương đệ, chú bác và cháu trai trong hoàng tộc Æthelwulfson để triệt hạ mầm mống tranh ngôi. Sưu cao thuế nặng và lao dịch xây cất lâu đài riêng khiến lòng dân oán thán tột cùng. Đêm 16 tháng 9 năm 160 AD, Nữ Công tước Aglaea xứ Helenica cùng các tướng lĩnh bất mãn phát động binh biến; ngày 18 tháng 9, Kendrick III bị đâm chết tại hoàng cung. Do Tiên vương đã tự tay giết sạch thân tộc và không có con nối dõi, vương triều Æthelwulfson chính thức tuyệt tự sau 135 năm trị vì.
+1. **Triều Albert I Hiền Vương (65 – 84 AD)**: Sau khi Nữ vương Limorina băng hà năm 65 AD, vương đệ Albert kế vị. Kế thừa di nghiệp của vương tỷ, nhà vua củng cố bộ máy tập quyền và ban hành *Bộ luật Albert* (*Albertisc Dōm*)—bộ luật thành văn đầu tiên của người Betarii sử dụng văn tự Latinh sơ khai, đặt nền móng cho sự định hình của tiếng Vitalia Cổ (*Eald-Vitalisc*). Ngài đẩy mạnh khai khẩn điền trang, định chế hóa giai tầng nông dân tự do (*carlas*).
+2. **Triều Kendrick I Dũng Vương (84 – 108 AD)**: Con trưởng của Albert I là Kendrick I (*Cenric I se Wigere* - Kendrick Dũng Vương / Kendrick the Warrior) kế vị. Nhà vua liên tiếp mở các chiến dịch bình định tàn dư Taria ở Tây Bắc, đẩy lui các cuộc xâm lấn biên cương phía Nam, mở rộng lãnh thổ ra toàn bộ duyên hải vịnh Brampton và vùng đệm Maperia. Ngài thiết lập hệ thống đồn lũy phòng thủ (*burh*) và xây dựng lực lượng cấm quân thường trực tinh nhuệ.
+3. **Triều Edmund I Thịnh Vương (108 – 131 AD)**: Dưới thời Edmund I (*Eadmund I se Weliga* - Edmund the Prosperous), Vitalia bước vào giai đoạn hoàng kim về mậu dịch hàng hải và điền địa. Cảng Brampton và bến sông kinh đô trở thành những đại đô hội sầm uất đón các thương đoàn phương Nam, đưa làn sóng từ vựng Eliavarnumia sơ khai xâm nhập vào giới học giả và thư lại (*clērocas*). Tuy nhiên, đây cũng là thời kỳ manh nha hiện tượng tích tụ ruộng đất điền trang của giới quý tộc lớn.
+4. **Triều Kendrick II Nhu Vương (131 – 149 AD)**: Là vị quân vương ôn hòa nhưng thiếu quyết đoán, Kendrick II (*Cenric II se Mildlīca* - Kendrick the Mild) để quyền bính triều chính rơi dần vào tay các thế gia trong Viện Nguyên Lão. Tình trạng kiêm tính ruộng đất bùng phát khiến nông dân bị bần cùng hóa. Để giữ yên bờ cõi phía Nam trước các đợt tập kích từ thảo nguyên, triều đình buộc phải trao quyền tự trị quân sự cho các tù trưởng địa phương, tạo điều kiện cho các thế lực lãnh chúa vùng biên trỗi dậy—tiêu biểu là dòng họ quý tộc du mục Morrazalina tại thái ấp Helenica.
+5. **Triều Kendrick III Bạo Vương (149 – 160 AD)**: Đăng cơ giữa lúc quốc khố suy kiệt, Kendrick III (*Cenric III se Yfele* - Kendrick the Cruel / Kendrick the Tyrant) thiết lập nền cai trị hà khắc nhằm đoạt lại quyền lực từ các lãnh chúa. Bị ám ảnh bởi nỗi sợ tranh đoạt ngai vị, nhà vua ra lệnh thanh trừng đẫm máu các công thần và sát hại nhiều thành viên hoàng tộc Æthelwulfson. Sưu thuế nặng nề và các đợt cưỡng bách lao dịch xây dựng lâu đài riêng khiến lòng dân sục sôi căm phẫn. Đêm 16 tháng 9 năm 160 AD, Nữ Công tước Aglaea xứ Helenica liên minh cùng các tướng lĩnh phát động binh biến; ngày 18 tháng 9, Kendrick III bị hạ sát ngay tại hoàng cung. Do nhà vua đã sát hại phần lớn thân tộc và không có người nối dõi, vương triều Æthelwulfson chính thức chấm dứt sau 135 năm trị vì.
 
 #### Bảng niên biểu quân vương triều đại Æthelwulfson (25 – 160 AD)
 
-| STT | Quân vương | Niên đại | Trị vì | Tước hiệu / Miếu hiệu | Chính sách & Di sản nổi bật | Biến cố kết thúc triều |
+| STT | Quân vương | Niên đại | Trị vì | Danh xưng / Thụy hiệu | Chính sách & Di sản nổi bật | Biến cố kết thúc triều |
 | :---: | :--- | :---: | :---: | :--- | :--- | :--- |
-| **1** | **Adolf Bridiger** (*Æthelwulf*) | 2 BC – 48 AD | 25 – 48 AD | Công tước Khai quốc Limorinia | Thành lập Công quốc Limorinia; thiết lập lục bộ và Viện Nguyên Lão sơ khai; mở mang hạ lưu Kintazion. | Lâm bạo bệnh; trao quyền nhiếp chính cho Reginald Tariscir dẫn tới nội chiến. |
-| **2** | **Limorina Đại đế** (*Limorina I*) | 24 – 65 AD | 48 – 65 AD | Nữ vương Lập quốc Vitalia | Đánh bại quân Taria, giành độc lập; trừ khử tể tướng Reginald; đổi quốc hiệu thành Vitalia; dời đô về *Æthelwulfbyrig*. | Băng hà vì bệnh nan y tháng 6/65 AD; truyền ngôi cho vương đệ Albert. |
-| **3** | **Albert I** (*Æthelberht I*) | 28 – 84 AD | 65 – 84 AD | Albert Hiền vương (*se Rǣdfæsta*) | Ban hành *Bộ luật Albert* (*Albertisc Dōm*); định hình tầng lớp nông dân tự do (*carlas*); hoàn thiện Hội đồng Vương quyền. | Băng hà do tuổi cao; truyền ngôi cho con trưởng Kendrick I. |
-| **4** | **Kendrick I** (*Cenric I*) | 52 – 108 AD | 84 – 108 AD | Kendrick Chiến binh (*se Wigere*) | Mở rộng bờ cõi ra vịnh Brampton và thảo nguyên Maperia; xây dựng phòng tuyến đồn lũy (*burh*); thành lập cấm quân. | Băng hà sau chuyến tuần thú biên thùy; truyền ngôi cho con trai Edmund I. |
-| **5** | **Edmund I** (*Eadmund I*) | 75 – 131 AD | 108 – 131 AD | Edmund Thịnh vương (*se Weliga*) | Kinh tế và hàng hải đạt đỉnh cao; mở rộng giao thương với Eliavarnumia; du nhập từ vựng Latinh sơ khai; tích tụ điền trang. | Băng hà thanh thản tại kinh đô; truyền ngôi cho con trai Kendrick II. |
-| **6** | **Kendrick II** (*Cenric II*) | 102 – 149 AD | 131 – 149 AD | Kendrick Nhu vương (*se Mildlīca*) | Trị vì ôn hòa nhưng nhu nhược; quyền lực rơi vào tay môn phiệt Viện Nguyên Lão; trao quyền tự trị biên cương cho các thủ lĩnh thảo nguyên. | Qua đời vì bệnh tật; truyền ngôi cho con trai độc nhất Kendrick III. |
-| **7** | **Kendrick III** (*Cenric III*) | 128 – 160 AD | 149 – 160 AD | Kendrick Bạo chúa (*se Yfele*) | Thiết lập chế độ khủng bố; sát hại toàn bộ thân tộc hoàng thất; tăng thuế tàn bạo; làm sụp đổ kỷ cương quốc gia. | Bị Nữ Công tước Aglaea xứ Helenica binh biến lật đổ và xử tử ngày 18/9/160 AD; triều đại tuyệt tự. |
+| **1** | **Adolf Bridiger** (*Æthelwulf*) | 2 BC – 48 AD | 25 – 48 AD | Công tước Khai quốc Limorinia | Thành lập Công quốc Limorinia; thiết lập thể chế Lục Ty và Viện Nguyên Lão sơ khai; mở mang hạ lưu Kintazion. | Lâm bạo bệnh; trao quyền phụ chính cho Reginald Tariscir dẫn tới nội chiến tranh ngôi. |
+| **2** | **Limorina Đại Đế** (*Limorina I*) | 24 – 65 AD | 48 – 65 AD | Nữ vương Lập quốc Vitalia | Đánh bại quân Taria, giành độc lập; trừ khử tể thần Reginald; đổi quốc hiệu thành Vitalia; dời đô về *Æthelwulfbyrig*. | Băng hà vì bệnh nan y tháng 6/65 AD; truyền ngôi cho vương đệ Albert. |
+| **3** | **Albert I** (*Æthelberht I*) | 28 – 84 AD | 65 – 84 AD | Albert Hiền Vương (*se Rǣdfæsta*) | Ban hành *Bộ luật Albert* (*Albertisc Dōm*); bảo hộ tầng lớp nông dân tự do (*carlas*); hoàn thiện Hội đồng Vương quyền. | Băng hà do tuổi cao; truyền ngôi cho con trưởng Kendrick I. |
+| **4** | **Kendrick I** (*Cenric I*) | 52 – 108 AD | 84 – 108 AD | Kendrick Dũng Vương (*se Wigere*) | Mở rộng bờ cõi ra vịnh Brampton và thảo nguyên Maperia; xây dựng phòng tuyến đồn lũy (*burh*); lập cấm quân thường trực. | Băng hà sau chuyến tuần thú biên thùy; truyền ngôi cho con trai Edmund I. |
+| **5** | **Edmund I** (*Eadmund I*) | 75 – 131 AD | 108 – 131 AD | Edmund Thịnh Vương (*se Weliga*) | Kinh tế và hàng hải đạt đỉnh cao; mở rộng giao thương với Eliavarnumia; du nhập từ vựng Latinh sơ khai; tích tụ điền trang. | Băng hà thanh thản tại kinh đô; truyền ngôi cho con trai Kendrick II. |
+| **6** | **Kendrick II** (*Cenric II*) | 102 – 149 AD | 131 – 149 AD | Kendrick Nhu Vương (*se Mildlīca*) | Trị vì ôn hòa nhưng thiếu quyết đoán; quyền lực rơi vào tay các thế tộc Viện Nguyên Lão; trao quyền tự trị biên cương cho các lãnh chúa thảo nguyên. | Qua đời vì bệnh tật; truyền ngôi cho con trai độc nhất Kendrick III. |
+| **7** | **Kendrick III** (*Cenric III*) | 128 – 160 AD | 149 – 160 AD | Kendrick Bạo Vương (*se Yfele*) | Thiết lập thể chế chuyên chế bạo ngược; thanh trừng hoàng thất; tăng thuế vô độ; làm sụp đổ kỷ cương triều chính. | Bị Nữ Công tước Aglaea xứ Helenica lật đổ và hạ sát ngày 18/9/160 AD; triều đại tuyệt tự. |
 
 ---
 
@@ -89,47 +99,53 @@ Trong phân kỳ lịch sử từ năm 160 đến năm 452 AD, vận mệnh củ
 
 ### 1. Vương triều Morrazalina sơ kỳ (160 – 259 AD)
 
-#### Triều Aglaea I Khai quốc Nữ vương (160 – 171 AD)
+#### Triều Aglaea I Khai Quốc Nữ Vương (160 – 171 AD)
 
-Sau khi trừ khử bạo chúa Kendrick III, Nữ Công tước xứ Helenica được Hội đồng Vương thất suy tôn lên ngôi quốc vương. Ngài bắt tay chấn hưng triều cương: đặt định phẩm hàm quan lại cửu phẩm, giáng chức và tịch thu tài sản của giới quý tộc trung thành với bạo triều cũ, đồng thời dập tắt các mưu toan phục hưng của tàn dư Æthelwulfson. 
+Sau khi lật đổ bạo vương Kendrick III, Nữ Công tước xứ Helenica được Hội đồng Vương thất suy tôn lên ngôi quốc vương. Bà nhanh chóng củng cố trật tự vương quyền: thiết lập hệ thống **Cửu Phẩm Quan Chế (*Nigon Hādas*)**—chín bậc phẩm hàm phân định rõ quyền hạn và bổng lộc nhằm dung hòa giới quý tộc kỵ binh Maperia với tầng lớp hào tộc Betarii bản địa, đồng thời giáng chức và tịch thu thái ấp của phe cánh trung thành với triều đại cũ.
 
-Xuất thân từ thảo nguyên, Aglaea I thúc đẩy việc sử dụng cổ ngữ Maperia trong cung đình bên cạnh tiếng Betarii cổ, tạo tiền đề cho làn sóng từ ngữ du mục xâm nhập vào ngôn ngữ Vitalia. Năm 164 AD, Nữ vương thảo phạt Hãn quốc Almaka; sau hai năm, Lãnh chúa Qutlugh dâng biểu xin hàng. Almaka bị phân chia thành hai nửa: nửa Tây phong cho Qutlugh làm Bá tước xứ Elka Yur, nửa Đông do triều đình trực trị. Cùng thời gian này, Đế quốc Taria cắt nhượng đất Wantarii và Maeclig (nay thuộc các tỉnh Vantaria, Chamliova, Thornor và Yeolia) để cầu hòa.
+Xuất thân từ thảo nguyên, Aglaea I đưa cổ ngữ Maperia vào nghi lễ cung đình song hành cùng tiếng Betarii cổ, tạo tiền đề cho làn sóng từ vựng du mục du nhập vào đời sống ngôn ngữ Vitalia. Năm 164 AD, Nữ vương thân chinh chinh phạt Hãn quốc Almaka; sau hai năm giao tranh, Lãnh chúa Qutlugh dâng biểu xin hàng. Vùng đất Almaka được chia đôi: nửa phía Tây phong cho Qutlugh làm Bá tước xứ Elka Yur, nửa phía Đông do triều đình trực trị. Cùng thời gian này, Đế quốc Taria chấp thuận cắt nhượng dải đất Wantarii và Maeclig (thuộc các tỉnh Vantaria, Chamliova, Thornor và Yeolia ngày nay) để tái lập hòa bình.
 
-Những năm cuối đời, Aglaea tiến hành chiến dịch "Betarii hóa" bằng cách di dân quy mô lớn từ châu thổ Kintazion xuống Helenica, Elka Yur và Güneydere [dạng Vitalia hóa: *Gueneadere*], thống nhất sử dụng cổ ngữ Betarii trong hành chính công, quy chuẩn hóa tiền tệ và đo lường, đồng thời đập tan cuộc nổi dậy ly khai của Hulagu xứ Almaka (170 AD). Tháng 10 năm 171 AD, kinh thành Æthelwulfbyrig được chính thức đổi tên thành **Limorina** để tri ân Nữ vương lập quốc. Tháng 11 cùng năm, Aglaea băng hà ở tuổi 56; con trai là Adolf Frederick Börügai kế vị.
+Những năm cuối đời, Aglaea tiến hành chính sách dung hợp bằng cách khuyến khích cư dân Betarii từ châu thổ Kintazion di cư xuống định cư tại Helenica, Elka Yur và Güneydere (*Gueneadere*). Bà thống nhất sử dụng cổ ngữ Betarii trong công văn hành chính, chuẩn hóa hệ thống tiền tệ và đo lường, đồng thời dẹp yên cuộc nổi dậy ly khai của Hulagu xứ Almaka vào năm 170 AD. Tháng 10 năm 171 AD, kinh thành Æthelwulfbyrig được chính thức đổi tên thành **Limorina** để tri ân Nữ vương lập quốc. Tháng 11 cùng năm, Aglaea băng hà ở tuổi 56; vương tử Adolf Frederick Börügai kế vị.
 
 #### Triều Adolf II Thiết Kỵ Vương (171 – 195 AD)
 
-**Adolf II** (*Adolf Frederick Börügai Morrazalina*) là hiện thân của sự dung hợp song huyết: mang tên thánh German của cha (*Adolf Frederick*) và tên thảo nguyên mẫu hệ (*Börügai* - "Sói Xám"). 
+**Adolf II** (*Adolf Frederick Börügai Morrazalina*) là hiện thân của sự kết hợp hai dòng máu: mang tên thánh German của cha (*Adolf Frederick*) và danh xưng thảo nguyên mẫu hệ (*Börügai* - "Sói Xám"). 
 
-Nhận thấy bộ binh giáp nặng Betarii cơ động kém trước lối đánh tập kích của kỵ binh phương Nam, Adolf II tiến hành cuộc cách tân quân sự mang tính bước ngoặt: kết hợp thuật cưỡi ngựa bắn cung của người Maperia với áo giáp lưới sắt và khiên dài Betarii, sáng lập đội **Thiết Kỵ Hiệp Sĩ** (*Iron-knechtes*). Lực lượng này đã đập tan 3 đợt xâm nhập quy mô lớn của các liên minh man tộc phương Nam và các vương quốc Cereaint phía Đông, giữ vững phòng tuyến sông Carnarfontyp. Nhằm hòa giải dân tộc, nhà vua thành hôn với Công nương Elspeth xứ Amelia (chắt ngoại dòng họ Æthelwulfson), đồng thời khuyến khích quý tộc hai sắc dân kết thông gia. Tuy nhiên, việc xây dựng quá nhiều trại ngựa chiến dọc thảo nguyên đã gây kiệt quệ tài chính nông thôn, và chế độ đa thê của ông đã gieo mầm phân tranh phe phái trong cung đình sau này.
+Nhận thấy bộ binh giáp nặng Betarii kém cơ động trước các đợt tập kích cơ động của kỵ binh phương Nam, Adolf II tiến hành cuộc cải cách quân sự mang tính bước ngoặt: kết hợp thuật cưỡi ngựa bắn cung của người Maperia với áo giáp lưới sắt và khiên dài Betarii, sáng lập quân đoàn **Thiết Kỵ Hiệp Sĩ** (*Iron-knechtes*). Lực lượng tinh nhuệ này đã bẻ gãy ba đợt xâm lấn quy mô lớn của các liên minh man tộc phương Nam và các vương quốc Cereaint phía Đông, bảo vệ vững chắc phòng tuyến sông Carnarfontyp. 
+
+Nhằm hóa giải mâu thuẫn sắc tộc, nhà vua kết hôn với Công nương Elspeth xứ Amelia—chắt ngoại của hoàng tộc Æthelwulfson, đồng thời khuyến khích quý tộc hai bên liên minh hôn nhân. Dẫu vậy, việc xây dựng quá nhiều trại huấn luyện chiến mã dọc thảo nguyên đã tạo gánh nặng lớn lên ngân khố nông thôn, và chế độ đa thê của nhà vua đã gieo mầm phân tranh phe phái trong cung đình về sau.
 
 #### Triều Edward I Văn Hóa Vương (195 – 221 AD)
 
-Con trưởng của Adolf II và Vương hậu Elspeth xứ Amelia là **Edward I** (*Eadweard I Timur-Morrazalina*) kế vị, mở ra giai đoạn thịnh vượng đỉnh cao về văn hóa và học thuật. 
+Con trưởng của Adolf II và Vương hậu Elspeth là **Edward I** (*Eadweard I Timur-Morrazalina* - Edward the Scholar / Văn Hóa Vương) kế vị, mở ra giai đoạn phát triển rực rỡ về học thuật và văn hóa. 
 
-Ngài cho thành lập *Viện Dịch thuật Kinh đô* tại Limorina, quy tụ học giả Betarii, tu sĩ Eliavarnumia và thông dịch viên Maperia để biên dịch kho tàng triết học, tôn giáo và khoa học kỹ thuật. Dưới triều ngài, cổ ngữ Betarii tiếp thu hệ thống thuật ngữ hành chính tinh vi, chuyển hóa rõ rệt sang **tiếng Vitalia Cổ (*Eald-Vitalisc*)**. Về kinh tế, nhà vua ban hành "Thuế Tam Phần" (đất đai, chăn nuôi, thương cảng), cho phép nộp thuế bằng nông sản hoặc gia súc, giúp phục hồi sức dân sau chiến tranh. Tuy nhiên, tính cách mộ đạo và chuộng văn hóa khiến ngài bãi bỏ một phần lực lượng cấm quân thường trực, đồng thời miễn thuế quá mức cho điền trang tu viện, làm suy yếu năng lực phòng thủ của chính quyền trung ương.
+Nhà vua cho lập *Viện Dịch thuật Kinh đô* tại Limorina, quy tụ học giả Betarii, tu sĩ Eliavarnumia và thông dịch viên Maperia nhằm biên dịch các công trình triết học, tôn giáo và kỹ thuật. Dưới triều đại của ngài, cổ ngữ Betarii tiếp thu lớp thuật ngữ hành chính tinh tế, từng bước chuyển mình sang **tiếng Vitalia Cổ (*Eald-Vitalisc*)**. 
 
-#### Triều Edward II Đoản Kiến Vương (221 – 242 AD)
+Về kinh tế, nhà vua ban hành "Thuế Tam Phần" đánh vào đất đai, chăn nuôi và thương cảng, cho phép nộp thuế bằng nông sản hoặc gia súc giúp người dân nhanh chóng phục hồi sinh kế. Tuy nhiên, lòng mộ đạo và khuynh hướng chuộng văn hóa khiến ngài cắt giảm một phần cấm quân thường trực, đồng thời miễn thuế quá mức cho các điền trang tu viện, làm suy giảm năng lực quốc phòng của chính quyền trung ương.
 
-Kế vị vua cha là **Edward II** (*Eadweard II se Dweola*). Lớn lên tại thái ấp thảo nguyên Helenica của gia tộc ngoại thích, Edward II mang nặng tư tưởng thiên vị nguồn cội du mục, trực tiếp châm ngòi cho các rạn nứt sắc tộc nghiêm trọng.
+#### Triều Edward II Thiển Cận Vương (221 – 242 AD)
 
-Thành tựu lớn nhất của ngài là khai thông tuyến hẻm núi hiểm trở Güneydere, kết nối giao thương trực tiếp với trung tâm lục địa Riralia, đem lại nguồn thuế quan dồi dào, đồng thời cho lập sổ bộ điền thổ toàn quốc (*Dōmbōc* sơ kỳ). Ngược lại, những sai lầm chính trị của ngài mang tính chất định mệnh: ngài công khai tước đoạt đất đai của quý tộc Betarii tại Amelia để phong thưởng cho thân tộc Helenica, giảm thuế chăn thả gia súc nhưng tăng gấp đôi thuế lúa mì đối với nông dân trồng trọt châu thổ. Chính sách bất công này dẫn tới nạn đói năm 238 AD và làn sóng khởi nghĩa nông dân lan rộng. Để dập tắt bạo loạn, Edward II trao quyền trưng binh, thu thuế và lập quân đội riêng cho các Hãn vương và lãnh chúa biên cương, trực tiếp biến các địa hạt thành các tập đoàn quân phiệt cát cứ.
+Kế vị vua cha là **Edward II** (*Eadweard II se Dweola* - Edward the Shortsighted / Thiển Cận Vương). Trưởng thành tại thái ấp thảo nguyên Helenica của gia tộc họ ngoại, Edward II mang nặng tư tưởng thiên vị nguồn cội du mục, trực tiếp làm rạn nứt khối đoàn kết sắc tộc.
 
-#### Triều Edward III Thất Quốc Vương (242 – 259 AD)
+Thành tựu đáng kể nhất của ngài là khai thông tuyến đèo hiểm trở Güneydere, mở rộng giao thương với trung tâm lục địa Riralia, đem lại nguồn thuế quan dồi dào và cho lập sổ bạ điền thổ toàn quốc sơ kỳ (*Dōmbōc*). Song những sai lầm chính trị của nhà vua để lại hậu quả nghiêm trọng: ngài tước đoạt đất đai của quý tộc Betarii tại Amelia để ban thưởng cho thân tộc Helenica, giảm thuế chăn thả gia súc nhưng lại tăng gấp đôi thuế lúa mì đối với nông dân trồng trọt châu thổ. 
 
-Đăng cơ ở tuổi 19, **Edward III** (*Eadweard III se Forlēore*) là một quân vương bạc nhược trước thời cuộc biến động dữ dội. Bị các phe cánh thao túng, ngài sống khép kín trong hoàng cung Limorina. Trước tình trạng quốc khố cạn kiệt do các phiên trấn ngừng nộp cống nạp, triều đình hạ lệnh đúc tiền tệ pha tạp kim loại rẻ tiền, gây nên cơn sốt lạm phát phi mã, phá hủy hoàn toàn hệ thống thương mại của vương quốc.
+Chính sách thiên lệch này dẫn tới nạn đói năm 238 AD và làn sóng khởi nghĩa nông dân bùng phát. Để dẹp loạn, thay vì chấn chỉnh chính sự, Edward II lại trao quyền chiêu mộ binh sĩ, thu thuế và lập quân đội riêng cho các thủ lĩnh biên cương, vô tình biến các địa hạt thành các tập đoàn quân phiệt cát cứ.
 
-Tháng 7 năm 259 AD, liên minh các lãnh chúa phiên trấn đồng loạt xua quân vây hãm kinh đô Limorina. Ngày 28 tháng 8 năm 259 AD, trước sức ép quân sự áp đảo, Edward III buộc phải ký chiếu thư thoái vị, từ bỏ vương vị tối cao trên toàn cõi Vitalia và lui về làm "Công tước đô thành Limorina". **Nhà nước thống nhất của vương triều Morrazalina chính thức sụp đổ**, toàn bộ bờ cõi phân liệt thành 10 vương quốc độc lập.
+#### Triều Edward III Mất Đất Vương (242 – 259 AD)
+
+Đăng cơ ở tuổi 19, **Edward III** (*Eadweard III se Forlēore* - Edward the Realm-loser / Mất Đất Vương) là một quân vương bạc nhược trước thời cuộc biến động dữ dội. Bị các thế lực môn phiệt thao túng, ngài giam mình trong cung điện Limorina. Trước nguy cơ quốc khố cạn kiệt do các phiên trấn ngừng nộp cống phú, triều đình hạ lệnh đúc tiền pha tạp kim loại rẻ tiền, gây nên cơn sốt lạm phát dữ dội, làm tê liệt hệ thống thương mại của vương quốc.
+
+Tháng 7 năm 259 AD, liên minh các lãnh chúa phiên trấn đồng loạt kéo quân vây hãm kinh thành Limorina. Ngày 28 tháng 8 năm 259 AD, trước sức ép quân sự áp đảo, Edward III buộc phải ký chiếu thư thoái vị, từ bỏ vương vị tối cao và lui về làm Công tước đô thành Limorina. **Chính quyền trung ương thống nhất của vương triều Morrazalina sụp đổ**, bờ cõi Vitalia chính thức phân liệt thành 10 tiểu quốc cát cứ.
 
 #### Bảng niên biểu quân vương Morrazalina sơ kỳ (160 – 259 AD)
 
-| STT | Quân vương | Niên đại | Trị vì | Tước hiệu / Miếu hiệu | Thành tựu & Di sản nổi bật | Sai lầm & Hậu quả lịch sử |
+| STT | Quân vương | Niên đại | Trị vì | Danh xưng / Thụy hiệu | Thành tựu & Di sản nổi bật | Sai lầm & Hạn chế lịch sử |
 | :---: | :--- | :---: | :---: | :--- | :--- | :--- |
-| **1** | **Aglaea I** (*Aglaea Morrazalina*) | 115 – 171 AD | 160 – 171 AD | Khai quốc Nữ vương | Diệt bạo chúa Kendrick III; định cửu phẩm quan chế; đả bại Almaka; đổi tên kinh đô thành Limorina; đưa yếu tố Cổ Maperia vào ngôn ngữ. | Cưỡng bức di dân "Betarii hóa" phương Nam; tạo mầm mống quân phiệt tại Elka Yur. |
-| **2** | **Adolf II** (*Adolf Börügai*) | 138 – 195 AD | 171 – 195 AD | Thiết Kỵ Vương (*se Hors-Cyning*) | Sáng lập lực lượng Thiết Kỵ Hiệp Sĩ (*Iron-knechtes*); hòa hợp hôn nhân Betarii - Maperia; giữ yên biên cương trước man tộc phương Đông. | Lãng phí tài lực vào đồn trại quân sự; hậu cung đa thê tạo phân tranh phe phái kế vị. |
-| **3** | **Edward I** (*Eadweard I*) | 173 – 221 AD | 195 – 221 AD | Văn Hóa Vương (*se Bōcere*) | Lập Viện Dịch thuật Kinh đô; thúc đẩy chuyển hóa sang *Eald-Vitalisc*; ban hành Thuế Tam Phần; kinh tế phồn vinh. | Cắt giảm cấm quân thường trực; miễn thuế quá mức cho điền trang giáo hội và quý tộc. |
-| **4** | **Edward II** (*Eadweard II*) | 198 – 242 AD | 221 – 242 AD | Đoản Kiến Vương (*se Dweola*) | Khai thông hẻm núi Güneydere mậu dịch phương Nam; lập sổ bộ điền thổ toàn quốc (*Dōmbōc* sơ kỳ). | Thiên vị thân tộc thảo nguyên; tăng thuế lúa mì gây nạn đói 238 AD; trao quyền lập quân đội riêng cho lãnh chúa biên cương. |
-| **5** | **Edward III** (*Eadweard III*) | 223 – 262 AD | 242 – 259 AD | Thất Quốc Vương (*se Forlēore*) | Ký hiệp ước hòa hoãn năm 248 AD nhằm trì hoãn xung đột cục bộ. | Nhu nhược, phá giá tiền tệ gây lạm phát phi mã; ký chiếu thư thoái vị năm 259 AD khiến đất nước tan vỡ thành 10 mảnh. |
+| **1** | **Aglaea I** (*Aglaea Morrazalina*) | 115 – 171 AD | 160 – 171 AD | Khai Quốc Nữ Vương | Diệt bạo vương Kendrick III; lập Cửu Phẩm Quan Chế (*Nigon Hādas*); bình định Almaka; đổi tên kinh đô thành Limorina; đưa yếu tố Cổ Maperia vào ngôn ngữ. | Di dân cưỡng bách xuống phương Nam; tạo mầm mống quân phiệt cát cứ tại Elka Yur. |
+| **2** | **Adolf II** (*Adolf Börügai*) | 138 – 195 AD | 171 – 195 AD | Thiết Kỵ Vương (*se Hors-Cyning*) | Sáng lập lực lượng Thiết Kỵ Hiệp Sĩ (*Iron-knechtes*); thúc đẩy hôn nhân hòa hợp Betarii - Maperia; giữ yên biên cương trước các man tộc phương Đông. | Tiêu tốn tài lực vào hệ thống đồn trại quân sự; chế độ đa thê tạo mầm mống phân tranh kế vị. |
+| **3** | **Edward I** (*Eadweard I*) | 173 – 221 AD | 195 – 221 AD | Văn Hóa Vương (*se Bōcere*) | Lập Viện Dịch thuật Kinh đô; thúc đẩy chuyển hóa sang *Eald-Vitalisc*; ban hành Thuế Tam Phần; phục hồi kinh tế. | Cắt giảm cấm quân thường trực; miễn thuế quá mức cho điền trang giáo hội. |
+| **4** | **Edward II** (*Eadweard II*) | 198 – 242 AD | 221 – 242 AD | Thiển Cận Vương (*se Dweola*) | Khai thông hẻm núi Güneydere; lập sổ bạ điền thổ sơ kỳ (*Dōmbōc*); phát triển mậu dịch phương Nam. | Thiên vị thân tộc thảo nguyên; tăng thuế ngũ cốc gây nạn đói năm 238 AD; trao quyền quân sự riêng cho lãnh chúa biên ải. |
+| **5** | **Edward III** (*Eadweard III*) | 223 – 262 AD | 242 – 259 AD | Mất Đất Vương (*se Forlēore*) | Nỗ lực ký hiệp ước hòa hoãn năm 248 AD nhằm trì hoãn xung đột cục bộ. | Nhu nhược; phá giá tiền tệ gây lạm phát phi mã; ký chiếu thư thoái vị năm 259 AD khiến đất nước tan vỡ thành 10 sứ quân. |
 
 ---
 
@@ -152,24 +168,24 @@ Thời kỳ 19 năm (259 – 278 AD) là giai đoạn **khủng hoảng gián ch
 | **9** | **Lãnh địa Feland** | Malbole | Lãnh chúa rừng rậm Eadric | Địa hình đồi núi hiểm trở phía Tây Nam; sở hữu lực lượng cung thủ du kích thiện chiến trong rừng sâu, tôn sùng Aglaea I. |
 | **10** | **Bá quốc Maeclig & Yeolia** | Chamliova | Lãnh chúa Kurbat xứ Đồi Cao | Vùng đệm đa sắc tộc giữa Maperia và Taria; nổi tiếng với chính sách ngoại giao đu dây, liên tục đổi phe giữa các thế lực. |
 
-#### Liên minh hôn nhân Wantarii – Güneydere và thế trận gọng kìm lịch sử
+##### Liên minh hôn nhân Wantarii – Güneydere và thế trận gọng kìm lịch sử
 
-Giữa bức tranh hỗn chiến phân liệt, cục diện thống nhất của Vitalia được định hình bởi một cuộc hôn nhân chính trị mang tầm nhìn chiến lược vĩ mô diễn ra từ trước khi biến cố nổ ra:
+Giữa bức tranh hỗn chiến phân liệt, cục diện tái thống nhất của Vitalia được định hình bởi một cuộc hôn nhân chính trị mang tầm nhìn chiến lược sâu sắc diễn ra từ trước khi biến cố nổ ra:
 
-Vào khoảng năm 252 AD, trước nguy cơ ly tâm của các phiên trấn, vua Edward III đã cử vương tử thứ là **Stephan Frederick Edward Morrazalina**—một tướng lĩnh quân sự tài ba—đi kinh lý phương Nam để thắt chặt mối bang giao với giới quý tộc thảo nguyên thung lũng Güneydere. Tại đây, Stephan thành hôn với **Nữ Bá tước Morwenna Margarita Gülnaz Güneydereli**. Sau hôn lễ, ngài được phái tới trấn nhậm chức Tổng tư lệnh quân vụ tại **Công quốc Wantarii** (Vantaria) ở tận cùng viễn Tây.
+Vào khoảng năm 252 AD, trước nguy cơ ly tâm của các phiên trấn, vua Edward III cử vương tử thứ là **Stephan Frederick Edward Morrazalina**—một tướng lĩnh quân sự tài ba—đi kinh lý phương Nam nhằm thắt chặt mối bang giao với quý tộc thảo nguyên thung lũng Güneydere. Tại đây, Stephan kết hôn với **Nữ Bá tước Morwenna Margarita Gülnaz Güneydereli**. Sau hôn lễ, ngài được cử tới trấn nhậm chức Tổng tư lệnh quân vụ tại **Công quốc Wantarii** (Vantaria) ở tận cùng viễn Tây.
 
-Khi Vitalia tan vỡ năm 259 AD, hai vợ chồng bị chia cắt ở hai đầu đất nước, cách nhau hơn 50 độ kinh tuyến. Tuy nhiên, khoảng cách địa lý này đã được chuyển hóa thành **thế trận gọng kìm chiến lược hoàn hảo**:
-* **Wantarii phía Tây**: Sở hữu đội quân phòng thủ đồn lũy kiên cố và Thiết Kỵ tinh nhuệ (đóng vai trò là sức mạnh quân sự thiết huyết), nhưng thiếu thốn lương thảo do đất đai cằn cỗi.
-* **Güneydere phía Đông Nam**: Sở hữu kho thóc khổng lồ và đầu mối thương lộ trù phú (đóng vai trò là hậu thuẫn tài chính và nguồn cung lương thực), nhưng thiếu hụt tướng lĩnh cầm quân cơ động.
+Khi Vitalia tan vỡ năm 259 AD, hai vợ chồng bị chia cắt ở hai đầu bờ cõi, cách nhau hàng trăm dặm đường hiểm trở từ viễn Tây sang cực Đông Nam. Tuy nhiên, khoảng cách địa lý này đã được chuyển hóa thành **thế trận gọng kìm chiến lược hoàn hảo**:
+* **Wantarii phía Tây**: Sở hữu hệ thống đồn lũy kiên cố và quân đoàn Thiết Kỵ tinh nhuệ (đóng vai trò là sức mạnh quân sự chủ lực), nhưng thiếu thốn lương thảo do đất đai cằn cỗi.
+* **Güneydere phía Đông Nam**: Sở hữu kho ngũ cốc dồi dào và đầu mối thương lộ trù phú (đóng vai trò là hậu thuẫn tài chính và quân lương), nhưng thiếu hụt tướng lĩnh chỉ huy dạn dày trận mạc.
 
-Thông qua các đoàn thuyền buôn bí mật liên kết với Liên minh Cảng khẩu Brampton và các tuyến thương đạo ngầm men theo biên giới phía Nam, Güneydere liên tục tiếp tế tài chính và lương thực sang Wantarii; ngược lại, Wantarii điều động các sĩ quan dày dạn trận mạc sang huấn luyện quân đội phòng thủ cho Güneydere. Thế liên minh kẹp chặt các thế lực trung tâm vào giữa, khiến không một sứ quân nào (kể cả Hãn quốc Helenica hay Đại Công quốc Amelia) dám dốc toàn lực tấn công một bên vì luôn lo ngại bị mũi giáp công còn lại tập kích từ phía sau.
+Thông qua các đoàn thuyền buôn bí mật liên kết với Liên minh Cảng khẩu Brampton và các tuyến đường mòn men theo biên giới phía Nam, Güneydere liên tục tiếp tế tài chính và lương thực sang Wantarii; ngược lại, Wantarii điều động các sĩ quan dày dạn kinh nghiệm sang huấn luyện lực lượng phòng vệ cho Güneydere. Thế liên minh kẹp chặt các thế lực trung tâm vào giữa, khiến không một sứ quân nào (kể cả Hãn quốc Helenica hay Đại Công quốc Amelia) dám dốc toàn lực tấn công một bên vì luôn lo ngại bị mũi giáp công còn lại đánh úp sau lưng.
 
-Kết tinh của mối liên minh vĩ đại này chính là sự trưởng thành của vương tử **Edward Albert Morrazalina** (sau này đăng cơ là **Edward IV**). Thừa hưởng thiên tài quân sự sắt đá của phụ thân tại miền biên ải Wantarii, nguồn tài chính và quân lương vô tận từ quê ngoại Güneydere, cùng tính chính thống hoàng gia Morrazalina từ vua ông Edward III, Edward IV đã phất cờ khởi nghĩa từ Wantarii vào năm 275 AD, phối hợp với đạo quân nghi binh từ Güneydere đánh thọc sườn. Sau 3 năm bách chiến bách thắng, ngài lần lượt bình định 9 sứ quân còn lại, khép lại 19 năm phân liệt và tái lập nền thống nhất toàn vẹn lãnh thổ vào năm **278 AD**.
+Kết tinh của mối liên minh chiến lược này chính là sự trưởng thành của vương tử **Edward Albert Morrazalina** (sau này đăng cơ là **Edward IV**). Thừa hưởng bản lĩnh quân sự sắt đá của phụ thân tại miền biên ải Wantarii, nguồn tài lực và quân lương dồi dào từ quê ngoại Güneydere, cùng tính chính thống hoàng thất Morrazalina từ vua ông Edward III, Edward IV đã phất cờ khởi nghĩa từ Wantarii vào năm 275 AD, phối hợp với đạo quân nghi binh từ Güneydere đánh thọc sườn. Sau ba năm chinh chiến liên tục với tài thao lược kiệt xuất, ngài lần lượt bình định 9 sứ quân còn lại, khép lại 19 năm phân liệt và tái lập nền thống nhất toàn vẹn lãnh thổ vào năm **278 AD**.
 
 #### Tác động đối với văn hóa và ngôn ngữ học
 
-Thời kỳ 19 năm Thập Quốc Phân Tranh để lại dấu ấn sâu đậm đối với tiến trình tiến hóa của ngôn ngữ Vitalia:
-1. **Sự khởi phát phân hóa phương ngữ**: Việc biên giới cát cứ bị phong tỏa và giao thương đứt đoạn đã tạo điều kiện cho các vùng địa lý tự phát triển các nét đặc thù ngữ âm và từ vựng riêng biệt.
+Thời kỳ 19 năm Thập Quốc Phân Tranh để lại dấu ấn sâu sắc đối với tiến trình tiến hóa của ngôn ngữ Vitalia:
+1. **Sự khởi phát phân hóa phương ngữ**: Việc biên giới cát cứ bị phong tỏa và giao thương gián đoạn đã tạo điều kiện cho các vùng địa lý tự phát triển các nét đặc thù ngữ âm và từ vựng riêng biệt.
 2. **Hình thành tiếng lóng đô thị Limorina**: Bị cô lập trong cảnh vây thành, thị dân nghèo và binh lính thảo nguyên Maperia tại Limorina tiếp xúc dày đặc trong đời sống đường phố, dẫn đến sự bùng nổ của việc dùng hậu tố thảo nguyên `-lith / -ilith` để chế tác tiếng lóng sinh hoạt (*folcklith*, *druncklith*, *churlelith*).
 3. **Bảo tồn tính chất cổ phong ở các vùng biên viễn**: Các thung lũng miền núi hẻo lánh và khu vực biên viễn phía Nam (nơi sau này sẽ di cư hình thành nên cộng đồng **Sinestria và Silicania**) hoàn toàn tách biệt khỏi các cuộc cải cách của kinh thành, tiếp tục lưu giữ trọn vẹn ngữ âm xát răng cổ và hệ thống biến đuôi ngữ pháp của thời kỳ tiền phân quốc.
 
@@ -177,9 +193,9 @@ Thời kỳ 19 năm Thập Quốc Phân Tranh để lại dấu ấn sâu đậm
 
 ### 3. Vương triều Morrazalina phục hưng: Giai đoạn Tái thiết (278 – 452 AD)
 
-Sau khi dẹp yên 10 sứ quân và khép lại 19 năm nội chiến huynh đệ tương tàn, tháng 5 năm 278 AD, **Edward Albert Morrazalina** tiến vào kinh thành Limorina trong sự hân hoan tột cùng của thứ dân sau gần hai thập kỷ điêu tàn. Tại Đại Giáo đường Æthelwulfbyrig, ngài cử hành đại lễ đăng quang ngôi vua Vitalia, lấy vương hiệu là **Edward IV**, được thần dân suy tôn là *Eadweard se Geānlǣcere* (Edward Đại Thống Nhất Giả). Triều đại của ngài mở đầu cho **Giai đoạn Tái thiết** kéo dài 174 năm (278 – 452 AD), chuyển giao đất nước từ đống tro tàn loạn lạc vươn mình trở thành một đại cường quốc thịnh trị trước khi vua James II lên ngôi.
+Sau khi dẹp yên 10 sứ quân và khép lại 19 năm nội chiến huynh đệ tương tàn, tháng 5 năm 278 AD, **Edward Albert Morrazalina** tiến vào kinh thành Limorina trong sự hân hoan tột cùng của thứ dân sau gần hai thập kỷ điêu tàn. Tại Đại Giáo đường Æthelwulfbyrig, ngài cử hành đại lễ đăng quang ngôi vua Vitalia, lấy vương hiệu là **Edward IV**, được thần dân suy tôn là *Eadweard se Geānlǣcere* (Edward Đại Thống Nhất Vương / Edward the Unifier). Triều đại của ngài mở đầu cho **Giai đoạn Tái thiết** kéo dài 174 năm (278 – 452 AD), chuyển giao đất nước từ đống tro tàn loạn lạc vươn mình trở thành một đại cường quốc thịnh trị trước khi vua James II lên ngôi.
 
-#### Triều Edward IV Đại Thống Nhất Giả (278 – 305 AD)
+#### Triều Edward IV Đại Thống Nhất Vương (278 – 305 AD)
 
 Đăng cơ ở tuổi 30 với bản lĩnh sắt đá được tôi luyện qua ngọn lửa chiến tranh nơi biên thùy Wantarii và nguồn lực dồi dào từ quê ngoại Güneydere, Edward IV hiểu rằng một chiến thắng quân sự thuần túy sẽ không thể duy trì nền thái bình nếu không triệt tiêu tận gốc rễ mầm mống phân quyền cát cứ. Ngài dành trọn 27 năm trị vì vĩ đại của mình cho công cuộc tái cơ cấu toàn diện thể chế nhà nước, pháp luật và kinh tế:
 
@@ -195,44 +211,44 @@ Dưới sự cai trị quyết đoán và tầm nhìn vĩ đại của Edward IV
 
 #### Triều Murad I Kiến Thiết Vương (305 – 328 AD)
 
-Năm 305 AD, con trai ngài là **Murad I** (*Murad se Byrġend*) kế vị. Mang tên thảo nguyên của vị tổ khai sáng dòng họ Morrazalina, Murad I là vị vua tiêu biểu cho công cuộc đại kiến thiết cơ sở hạ tầng quốc gia:
+Năm 305 AD, con trai ngài là **Murad I** (*Murad se Byrġend* - Murad the Builder / Kiến Thiết Vương) kế vị. Mang tên thảo nguyên của vị tổ khai sáng dòng họ Morrazalina, Murad I là vị vua tiêu biểu cho công cuộc đại kiến thiết cơ sở hạ tầng quốc gia:
 * **Hệ thống Đại lộ Hoàng gia (*Kinges-strǣt*)**: Khởi công xây dựng mạng lưới đường lát đá quy mô lớn, nối liền từ đồn lũy Wantarii ở cực Tây, xuyên qua kinh đô Limorina, tỏa xuống vựa lúa Güneydere và hướng thẳng ra Cảng Brampton. Mạng lưới trạm dịch (*hors-steall*) được thiết lập dọc tuyến đường, giúp mệnh lệnh triều đình truyền đi khắp cõi nhanh chóng.
 * **Trị thủy và Phục hưng Thương cảng**: Đắp tuyến đê vĩ đại dọc hạ lưu sông Kintazion, chấm dứt nạn lũ lụt triền miên đe dọa kinh thành; đồng thời đầu tư ngân khố mở rộng Cảng khẩu Brampton, thu hút đội tàu buôn của các thương gia duyên hải quy phục triều đình, biến nơi đây thành cửa ngõ xuất nhập khẩu sầm uất bậc nhất bờ biển phía Bắc.
 * **Hạn chế**: Sưu dịch nặng nề để phục vụ các đại công trình vắt kiệt sức lao động của thứ dân, làm bùng phát một số cuộc phản kháng của thợ thuyền và phu đắp đê quanh ngã ba sông Trehovil (321 AD).
 
 #### Triều Oswald I Mộ Đạo Vương (328 – 354 AD)
 
-Con trai Murad I là **Oswald I** (*Oswald se Haliga*) kế vị năm 328 AD, mở ra thời kỳ khai minh văn hóa, giáo dục và chữ nghĩa:
+Con trai Murad I là **Oswald I** (*Oswald se Haliga* - Oswald the Pious / Mộ Đạo Vương) kế vị năm 328 AD, mở ra thời kỳ khai minh văn hóa, giáo dục và chữ nghĩa:
 * **Chuẩn hóa Văn tự & Cổ điển hóa ngôn ngữ**: Khuyến khích sự phát triển của Cơ Đốc giáo sơ khai song hành cùng việc dung hòa các tín ngưỡng bản địa. Dưới sự bảo trợ của nhà vua, các đại tu viện trở thành trung tâm chép sách và nghiên cứu học thuật. Tiếng Vitalia Cổ (**Eald-Vitalisc**) chính thức được hoàn thiện thể thức văn tự với bộ chữ Insular gồm 4 ký tự chuyên biệt: **Þ (Thorn), Ð (Eth), Æ (Ash), Ƿ (Wynn)**. Toàn bộ thánh thư, biên niên sử triều đình và pháp lệnh đều được chuẩn hóa bằng văn tự này.
 * **Mạng lưới cứu tế tu viện**: Thành lập các trạm xá cứu tế (*spitālas*) tại các tu viện dọc trục đường Kinges-strǣt để chữa bệnh miễn phí cho người nghèo và bảo bọc khách thương lỡ đường.
 * **Hạn chế**: Vì quá mộ đạo và vị tha, Oswald I ban hành nhiều sắc lệnh miễn thuế vĩnh viễn cho điền trang của các tu viện lớn, vô tình tạo mầm mống cho sự phình to quyền lực kinh tế của tầng lớp tăng lữ trong các thế kỷ sau.
 
 #### Triều Stephan I Công Minh Vương (354 – 376 AD)
 
-Năm 354 AD, con trai Oswald I đăng cơ, lấy vương hiệu là **Stephan I** (*Stephan I se Rihtwīsa*) nhằm tôn vinh công đức của cụ cố—Vương tử Stephan xứ Wantarii. Ngài là một nhà lập pháp và cải cách chính trị lỗi lạc:
+Năm 354 AD, con trai Oswald I đăng cơ, lấy vương hiệu là **Stephan I** (*Stephan I se Rihtwīsa* - Stephan the Just / Công Minh Vương) nhằm tôn vinh công đức của cụ cố—Vương tử Stephan xứ Wantarii. Ngài là một nhà lập pháp và cải cách chính trị lỗi lạc:
 * **Ban hành Đại Pháp Điển (*Micel Lāhbōc*)**: Hệ thống hóa toàn bộ các chiếu chỉ, tập quán pháp và luật tục lưu truyền từ thời *Bộ luật Albert*, thiết lập bộ luật dân sự và hình sự thống nhất cho toàn vương quốc. Luật quy định rõ quyền tư hữu ruộng đất, hạn chế sự lấn chiếm đất công của các điền trang quý tộc và tu viện.
 * **Cải tổ Viện Nguyên Lão**: Lần đầu tiên trong lịch sử, Stephan I ban sắc lệnh cho phép các đại diện xuất sắc của tầng lớp thị dân thành thị (*burchers*) và thương gia cảng khẩu tham gia Viện Nguyên Lão với tư cách Nghị viên Thành bang, tạo thế cân bằng quyền lực vững chắc chống lại sự thao túng của tầng lớp đại quý tộc nông nghiệp.
 * **Hạn chế**: Việc kiên quyết thu hồi một phần đất đai miễn thuế trái phép của giáo hội khiến nhà vua nảy sinh xung đột gay gắt với Tòa Giám mục kinh thành, suýt dẫn tới nguy cơ khủng hoảng tôn giáo trước khi hai bên ký thỏa ước hòa giải năm 368 AD.
 
-#### Triều Arslan-Athelstan Chiến Mã Vương (376 – 402 AD)
+#### Triều Arslan-Athelstan Kỵ Vương (376 – 402 AD)
 
-Kế vị vua cha là người con trai mang danh hiệu kép: **Arslan-Athelstan** (*se Hors-Thegn* - Kỵ Vương / Chiến Mã Vương), thể hiện sự hòa quyện hoàn hảo giữa dòng dõi kỵ xạ thảo nguyên (*Arslan* - "Sư Tử") và quý tộc German bản địa (*Athelstan* - "Đá Quý Cao Quý"):
+Kế vị vua cha là người con trai mang danh hiệu kép: **Arslan-Athelstan** (*se Hors-Thegn* - Kỵ Vương / Arslan the Horse-lord), thể hiện sự hòa quyện hoàn hảo giữa dòng dõi kỵ xạ thảo nguyên (*Arslan* - "Sư Tử") và quý tộc German bản địa (*Athelstan* - "Đá Quý Cao Quý"):
 * **Chiến lược phòng thủ tích cực**: Trước các cuộc tập kích cướp bóc quấy nhiễu biên cương phía Đông của các man tộc miền núi, nhà vua thân chinh cầm quân đánh tan quân xâm lấn, cho xây dựng một vành đai đồn lũy kiên cố tại ranh giới phía Đông Vitalia.
 * **Khai phá cánh cửa hướng Đông**: Thiết lập mối bang giao và các tiền đồn thương mại đầu tiên với các vương quốc cổ nằm sâu về phía Đông lục địa Riralia (nơi định cư của người Cereaint [Wales cổ], Riralia bản địa và Pheof [Ireland cổ]), mở đầu cho sự thâm nhập chính trị và văn hóa của Vitalia sang các vùng lãnh thổ này.
 * **Hạn chế**: Bản tính say mê thao trường, thường xuyên tổ chức các cuộc đại diễn võ tốn kém khiến ngân sách quốc phòng tăng vọt; về cuối đời ít chú ý tới công việc nội chính bàn giấy.
 
-#### Triều James I Đại Độ Vương (402 – 431 AD)
+#### Triều James I Nhân Từ Vương (402 – 431 AD)
 
-Năm 402 AD, con trai Arslan-Athelstan lên ngôi, trở thành **James I** (*Iacob I se Fæġere*)—vị quân vương đầu tiên của Vitalia mang danh xưng James (nguồn gốc Kinh thánh/Romance Latinh hóa qua phương Nam):
-* **Kỷ nguyên Phú cường & Thịnh trị**: Trị vì gần 30 năm trong cảnh thái bình thịnh trị tuyệt đối. Nông nghiệp bội thu liên tiếp nhờ hệ thống thủy lợi hoàn chỉnh; thương mại hàng hải vươn xa khắp bờ biển phía Bắc. Đồng *Vitalian Pening* trở thành đồng tiền chuẩn mực được chấp nhận rộng rãi trên toàn cõi Riralia.
-* **Chính sách Ngoại giao thầm lặng**: Nhận thấy sự suy yếu và chia rẽ nội bộ của các vương quốc Cereaint và Pheof ở phía Đông, James I không dùng vũ lực mà sử dụng nguồn tài chính khổng lồ để viện trợ kinh tế, mua chuộc các lãnh chúa địa phương và thiết lập mạng lưới hôn nhân quý tộc xuyên biên giới, biến Vitalia thành người bảo hộ quyền lực trên thực tế của vùng đất phía Đông.
+Năm 402 AD, con trai Arslan-Athelstan lên ngôi, trở thành **James I** (*Iacob I se Fæġere* - James the Fair / Nhân Từ Vương)—vị quân vương đầu tiên của Vitalia mang danh xưng James (nguồn gốc Kinh thánh/Romance Latinh hóa qua phương Nam):
+* **Kỷ nguyên Phú cường & Thịnh trị**: Trị vì gần 30 năm trong cảnh thái bình thịnh trị. Nông nghiệp bội thu liên tiếp nhờ hệ thống thủy lợi hoàn chỉnh; thương mại hàng hải vươn xa khắp bờ biển phía Bắc. Đồng *Vitalian Pening* trở thành đồng tiền chuẩn mực được chấp nhận rộng rãi trên toàn cõi Riralia.
+* **Chính sách Ngoại giao thầm lặng**: Nhận thấy sự suy yếu và chia rẽ nội bộ của các vương quốc Cereaint và Pheof ở phía Đông, James I không dùng vũ lực mà sử dụng nguồn tài chính dồi dào để viện trợ kinh tế, tranh thủ cảm tình của các lãnh chúa địa phương và thiết lập mạng lưới hôn nhân quý tộc xuyên biên giới, biến Vitalia thành người bảo hộ quyền lực trên thực tế của vùng đất phía Đông.
 * **Hạn chế**: Khi tuổi cao, nhà vua bắt đầu sa vào lối sống xa hoa, chi dùng ngân khố xây dựng nhiều ly cung và hoa viên tráng lệ ven vịnh Brampton.
 
 #### Triều Godwin I Thận Trọng Vương (431 – 452 AD)
 
-Sau khi James I băng hà, con trai trưởng là **Godwin I** (*Godwin se Wæra*) kế vị năm 431 AD:
+Sau khi James I băng hà, con trai trưởng là **Godwin I** (*Godwin se Wæra* - Godwin the Prudent / Thận Trọng Vương) kế vị năm 431 AD:
 * **Bảo toàn thành quả & Củng cố quân bị**: Là một nhà quản trị cẩn trọng và mực thước, Godwin I chấn chỉnh lại kỷ cương tài chính sau những năm tháng chi tiêu xa hoa cuối triều vua cha. Ngài cho hiện đại hóa lực lượng hải quân tại Cảng Brampton và chuẩn hóa trang bị Thiết Kỵ cấm vệ quân.
-* **Dẹp yên biến loạn cung đình**: Khéo léo phát hiện và hóa giải âm mưu tiếm quyền của người vương đệ một cách êm đẹp, giữ vững sự ổn định tuyệt đối cho vương thất mà không phải đổ máu diện rộng.
+* **Dẹp yên biến loạn cung đình**: Khéo léo phát hiện và hóa giải âm mưu tiếm quyền của hoàng đệ một cách êm đẹp, giữ vững sự ổn định tuyệt đối cho vương thất mà không phải đổ máu diện rộng.
 * **Nuôi dưỡng người kế nghiệp vĩ đại**: Toàn tâm đào tạo và truyền thụ thuật trị quốc cho thái tử **James**—một nhân vật kiệt xuất mang hoài bão lớn lao về một đại đế quốc liên hiệp.
 * **Hạn chế**: Tính cách có phần do dự, bỏ lỡ cơ hội thuận lợi để can thiệp quân sự trực tiếp khi nội chiến nổ ra tại vương quốc Cereaint vào năm 446 AD.
 
@@ -240,15 +256,18 @@ Sau khi James I băng hà, con trai trưởng là **Godwin I** (*Godwin se Wæra
 
 #### Bảng niên biểu quân vương giai đoạn tái thiết (278 – 452 AD)
 
-| STT | Quân vương | Niên đại | Trị vì | Tước hiệu / Miếu hiệu | Thành tựu & Di sản nổi bật | Đóng góp lịch sử cho thời kỳ |
+| STT | Quân vương | Niên đại | Trị vì | Danh xưng / Thụy hiệu | Thành tựu & Di sản nổi bật | Đóng góp lịch sử cho thời kỳ |
 | :---: | :--- | :---: | :---: | :--- | :--- | :--- |
-| **1** | **Edward IV** (*Eadweard IV*) | 248 – 305 AD | 278 – 305 AD | Đại Thống Nhất Giả (*se Geānlǣcere*) | Xóa bỏ phiên trấn; chia lại các Địa hạt tập quyền; cải cách đồng bạc *Vitalian Pening*; thống nhất Amelia và hai hãn quốc. | Tái lập nền thống nhất quốc gia từ đống tro tàn nội chiến. |
+| **1** | **Edward IV** (*Eadweard IV*) | 248 – 305 AD | 278 – 305 AD | Đại Thống Nhất Vương (*se Geānlǣcere*) | Xóa bỏ phiên trấn; chia lại các Địa hạt tập quyền; cải cách đồng bạc *Vitalian Pening*; thống nhất Amelia và hai hãn quốc. | Tái lập nền thống nhất quốc gia từ đống tro tàn nội chiến. |
 | **2** | **Murad I** (*Murad I*) | 275 – 328 AD | 305 – 328 AD | Kiến Thiết Vương (*se Byrġend*) | Xây dựng Đại lộ Hoàng gia (*Kinges-strǣt*); đắp đại đê sông Kintazion; mở rộng thương cảng quốc tế Brampton. | Hoàn thiện mạng lưới giao thông, thủy lợi và ngoại thương toàn quốc. |
 | **3** | **Oswald I** (*Oswald I*) | 302 – 354 AD | 328 – 354 AD | Mộ Đạo Vương (*se Haliga*) | Khai minh văn tự; điển phạm hóa tiếng Vitalia Cổ (*Eald-Vitalisc*) với 4 ký tự Insular (*Þ, Ð, Æ, Ƿ*); lập trạm xá cứu tế. | Chuẩn hóa ngôn ngữ, văn tự và định hình văn hóa bác ái. |
 | **4** | **Stephan I** (*Stephan I*) | 326 – 376 AD | 354 – 376 AD | Công Minh Vương (*se Rihtwīsa*) | Ban hành Đại Pháp Điển (*Micel Lāhbōc*); đưa đại diện thị dân (*burchers*) vào Viện Nguyên Lão; tái lập kỷ cương pháp luật. | Đặt nền móng pháp trị vững chắc và cân bằng quyền lực xã hội. |
-| **5** | **Arslan-Athelstan** | 351 – 402 AD | 376 – 402 AD | Chiến Mã Vương (*se Hors-Thegn*) | Đập tan các cuộc quấy nhiễu phía Đông; dựng tuyến đồn lũy biên cương; mở cánh cửa bang giao với Cereaint và Pheof. | Giữ vững an ninh biên thùy và hướng tầm nhìn ra ngoài lãnh thổ. |
-| **6** | **James I** (*Iacob I*) | 374 – 431 AD | 402 – 431 AD | Đại Độ Vương (*se Fæġere*) | Trị vì thái bình gần 30 năm; kinh tế cực thịnh; ngoại giao thầm lặng chi phối nội bộ các vương quốc phía Đông. | Tích lũy tiềm lực tài chính khổng lồ chuẩn bị cho kỷ nguyên mở cõi. |
+| **5** | **Arslan-Athelstan** | 351 – 402 AD | 376 – 402 AD | Kỵ Vương (*se Hors-Thegn*) | Đập tan các cuộc quấy nhiễu phía Đông; dựng tuyến đồn lũy biên cương; mở cánh cửa bang giao với Cereaint và Pheof. | Giữ vững an ninh biên thùy và hướng tầm nhìn ra ngoài lãnh thổ. |
+| **6** | **James I** (*Iacob I*) | 374 – 431 AD | 402 – 431 AD | Nhân Từ Vương (*se Fæġere*) | Trị vì thái bình gần 30 năm; kinh tế cực thịnh; ngoại giao thầm lặng chi phối nội bộ các vương quốc phía Đông. | Tích lũy tiềm lực tài chính khổng lồ chuẩn bị cho kỷ nguyên mở cõi. |
 | **7** | **Godwin I** (*Godwin I*) | 394 – 452 AD | 431 – 452 AD | Thận Trọng Vương (*se Wæra*) | Bảo toàn ngân khố quốc gia; hiện đại hóa hải quân và cấm quân; hóa giải êm thấm biến loạn hoàng tộc; đào tạo James II. | Giữ vững đại cuộc, chuyển giao trọn vẹn sức mạnh quốc gia cho thời kỳ Hoàng kim. |
+
+
+---
 
 #### Dấu ấn ngôn ngữ và văn hóa của giai đoạn tái thiết
 
@@ -260,7 +279,7 @@ Sau khi James I băng hà, con trai trưởng là **Godwin I** (*Godwin se Wæra
 
 ## Thời kỳ Trung kỳ Trung cổ: Kỷ nguyên Hoàng Kim của Vương triều Morrazalina (453 – 879 AD)
 
-Kỷ nguyên Hoàng Kim (453 – 879 AD) kéo dài 426 năm qua mười hai thế hệ quân vương, là giai đoạn phát triển rực rỡ nhất về lãnh thổ, sức mạnh quân sự, mậu dịch hàng hải và văn minh của Vương triều Morrazalina. Từ một vương quốc lục địa nằm quanh châu thổ sông Kintazion, Vitalia đã vươn mình trở thành một đại đế quốc liên hợp hàng hải – lục địa hùng mạnh bậc nhất thế giới đương thời. Sự kiện lịch sử mang tính thời đại của giai đoạn này là sự sáp nhập của các thực thể chính trị phía Đông—gồm khối văn hóa Cereaint [Cambrian/Wales cổ] (với **Nhà nước Cambria** và **Vương quốc Penmawr**), tiểu quốc duyên hải **Arys**, đại vương quốc **Riralia** cùng **Quần đảo Pheof** [văn hóa Ireland / Celtic Goidelic] ngoài khơi—chính thức khai sinh **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*).
+Kỷ nguyên Hoàng Kim (453 – 879 AD) kéo dài 426 năm qua mười hai thế hệ quân vương, là giai đoạn phát triển rực rỡ nhất về lãnh thổ, sức mạnh quân sự, mậu dịch hàng hải và văn minh của Vương triều Morrazalina. Từ một vương quốc lục địa nằm quanh châu thổ sông Kintazion, Vitalia vươn mình trở thành một đại đế quốc liên hợp hàng hải – lục địa hùng mạnh bậc nhất thế giới đương thời. Sự kiện lịch sử mang tính bước ngoặt của giai đoạn này là sự sáp nhập của các thực thể chính trị phía Đông—gồm khối văn hóa Cereaint [Cambrian/Wales cổ] (với **Nhà nước Cambria** và **Vương quốc Penmawr**), tiểu quốc duyên hải **Arys**, đại vương quốc **Riralia** cùng **Quần đảo Pheof** [văn hóa Ireland / Celtic Goidelic] ngoài khơi—chính thức khai sinh **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*).
 
 Tiến trình hơn bốn thế kỷ hoàng kim này được chia thành ba giai đoạn phát triển liên tục:
 
@@ -284,33 +303,33 @@ Trước khi đại nghiệp thống nhất của vua James II bắt đầu, b�
 
 #### Triều James II Đại Đế (453 – 488 AD)
 
-Sau khi vua cha Godwin I băng hà vào tháng 12 năm 452 AD, Thái tử James đăng cơ tại Đại Giáo đường Limorina, lấy vương hiệu là **James II** (*Iacob II*). Sở hữu thiên tài quân sự xuất chúng và nhãn quan địa chính trị sắc bén, James II đã biến toàn bộ tiềm lực tích lũy từ thời Tái thiết thành một cuộc đại bành trướng định hình lịch sử qua *Chiến dịch Đông Phạt* kéo dài hơn hai thập kỷ:
+Sau khi vua cha Godwin I băng hà vào tháng 12 năm 452 AD, Thái tử James đăng cơ tại Đại Giáo đường Limorina, lấy vương hiệu là **James II** (*Iacob II*). Sở hữu tài năng quân sự xuất chúng và nhãn quan địa chính trị sắc bén, James II đã biến toàn bộ tiềm lực tích lũy từ thời Tái thiết thành một cuộc mở cõi định hình lịch sử qua *Chiến dịch Đông Phạt* kéo dài hơn hai thập kỷ:
 
 1. **Khống chế yết hầu Invergeall và bình định Cambria (455 – 458 AD)**:
    Để rảnh tay xuất quân về phía Đông mà không lo bị tập kích bên sườn, James II ký hòa ước bất tương xâm và ưu đãi thuế quan với **Công quốc Berton** ở phía Nam. Mùa xuân năm 455 AD, nhà vua đích thân thống lĩnh 4 vạn Thiết Kỵ Hiệp Sĩ cùng đại hạm đội Cảng Brampton xuất chinh. Đạo quân hoàng gia đánh chiếm pháo đài yết hầu then chốt **Invergeall**, mở toang cánh cửa tiến vào bán đảo phía Bắc. Tại đây, lợi dụng cuộc nội loạn tranh ngôi của các tiểu vương Cambrian, James II nhanh chóng thu phục hai đô thị *Kilwynverdon* và *Alexandra*, sáp nhập **Nhà nước Cambria** vào quyền bảo hộ của triều đình.
 2. **Khuất phục Vương quốc Penmawr (458 – 465 AD)**:
-   Sau khi làm chủ bán đảo Cambria, quân đội Vitalia đối đầu trực diện với lực lượng thiện chiến của **Vương quốc Penmawr**. Trận quyết chiến lịch sử nổ ra tại vùng đồi **Abercaethen** (460 AD): Thiết Kỵ giáp nặng Vitalia phá vỡ hoàn toàn hàng ngũ kỵ binh chiến xa của Penmawr, thừa thắng chiếm đóng quân cảng huyết mạch **Inmouth** và pháo đài **Pontypridd**. Với tầm nhìn của một đại đế vương, James II không tàn phá xứ sở mà thi hành chính sách liên hiệp khoan dung: ngài phong cho cựu vương Penmawr tước vị Đại Công tước xứ Cambria-Penmawr, ban quy chế tự trị luật tục cho người Celtic, đồng thời cử hành đại lễ thành hôn với **Vương nữ Gwenllian xứ Penmawr**, gắn kết vĩnh viễn dòng máu Morrazalina với thần dân khối Cereaint.
+   Sau khi làm chủ bán đảo Cambria, quân đội Vitalia đối đầu trực diện với lực lượng thiện chiến của **Vương quốc Penmawr**. Trận quyết chiến lịch sử nổ ra tại vùng đồi **Abercaethen** (460 AD): Thiết Kỵ giáp nặng Vitalia phá vỡ hoàn toàn hàng ngũ kỵ binh chiến xa của Penmawr, thừa thắng chiếm đóng quân cảng huyết mạch **Inmouth** và pháo đài **Pontypridd**. Với tầm nhìn xa rộng, James II không tàn phá xứ sở mà thi hành chính sách liên hiệp khoan dung: ngài phong cho cựu vương Penmawr tước vị Đại Công tước xứ Cambria-Penmawr, ban quy chế tự trị luật tục cho người Celtic, đồng thời cử hành đại lễ thành hôn với **Vương nữ Gwenllian xứ Penmawr**, gắn kết dòng máu Morrazalina với thần dân khối Cereaint.
 3. **Vượt ngả Arys và quy phục Quần đảo Pheof (466 – 472 AD)**:
-   Nhận thấy uy thế tuyệt đối của triều đình Limorina, Lãnh chúa **tiểu quốc Arys** dâng biểu xin quy phục, mở toang hai thị trấn yết hầu *Blowelgel* và *Intillainve*. Từ căn cứ bàn đạp quân cảng Inmouth và duyên hải Arys, hạm đội liên hiệp Vitalia – Penmawr vượt biển Bắc, đánh dẹp các sào huyệt cướp biển và ký hiệp ước liên minh bảo hộ với các tù trưởng **Quần đảo Pheof**.
+   Nhận thấy uy thế của triều đình Limorina, Lãnh chúa **tiểu quốc Arys** dâng biểu quy phục, mở toang hai thị trấn yết hầu *Blowelgel* và *Intillainve*. Từ căn cứ bàn đạp quân cảng Inmouth và duyên hải Arys, hạm đội liên hiệp Vitalia – Penmawr vượt biển Bắc, đánh dẹp các sào huyệt cướp biển và ký hiệp ước liên minh bảo hộ với các tù trưởng **Quần đảo Pheof**.
 4. **Hợp nhất Đại vương quốc Riralia & Đại lễ Khai sinh Liên hiệp (472 – 476 AD)**:
-   Đứng trước vòng vây địa chính trị từ cả trên bộ lẫn ngoài biển, triều đình **Vương quốc Riralia** tại đô thành **Riralo** nhận thức rõ sự tất yếu của lịch sử. Sau nhiều vòng đàm phán ngoại giao, năm 475 AD, Quốc vương Riralia ký Hiệp ước Hợp nhất hòa bình, chấp nhận sáp nhập vương quốc vào khối liên hiệp để đổi lấy đặc quyền kinh tế và ghế lãnh đạo trong triều đình trung ương.
+   Đứng trước vòng vây địa chính trị từ cả trên bộ lẫn ngoài biển, triều đình **Vương quốc Riralia** tại đô thành **Riralo** nhận thức rõ tính tất yếu của thời cuộc. Sau nhiều vòng đàm phán ngoại giao, năm 475 AD, Quốc vương Riralia ký Hiệp ước Hợp nhất hòa bình, chấp nhận sáp nhập vương quốc vào khối liên hiệp để đổi lấy đặc quyền kinh tế và ghế đại biểu trong triều đình trung ương.
 
-Vào ngày lễ Thánh Michael năm 476 AD, tại kinh thành Limorina, James II long trọng tuyên bố bản chiếu chỉ lịch sử: hợp nhất toàn bộ bờ cõi từ viễn Tây Wantarii, qua dải đất Cereaint (Cambria và Penmawr), Arys, quần đảo Pheof cho tới đại đô thành Riralo thành một đế chế thống nhất mang tên **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*). Ngài ban hành *Hiến chương Liên hiệp* (*Geānnes Bōc*), tái cấu trúc Viện Nguyên Lão thành **Nghị viện Liên hiệp** với sự hiện diện bình đẳng của đại biểu quý tộc và giáo sĩ từ cả bốn xứ. Với công nghiệp vĩ đại chưa từng có, ngài được thần dân đời đời tôn kính xưng tụng là **James Đại Đế (*Iacob se Micela*)**. Ngài băng hà năm 488 AD ở tuổi 63 sau 35 năm trị vì hiển hách.
+Vào ngày lễ Thánh Michael năm 476 AD, tại kinh thành Limorina, James II long trọng ban bố bản chiếu chỉ lịch sử: hợp nhất toàn bộ bờ cõi từ viễn Tây Wantarii, qua dải đất Cereaint (Cambria và Penmawr), Arys, quần đảo Pheof cho tới đại đô thành Riralo thành một thể chế thống nhất mang tên **Vương quốc Liên hiệp Vitalia và Riralia** (*Geānlǣht Cynerīce Vitalia and Riralia*). Ngài ban hành *Hiến chương Liên hiệp* (*Geānnes Bōc*), tái cấu trúc Viện Nguyên Lão thành **Nghị viện Liên hiệp** với sự hiện diện bình đẳng của đại biểu quý tộc và giáo sĩ từ cả bốn xứ. Với công nghiệp vĩ đại, ngài được thần dân đời đời tôn xưng là **James Đại Đế (*Iacob se Micela*)**. Ngài băng hà năm 488 AD ở tuổi 63 sau 35 năm trị vì hiển hách.
 
 ![Bản đồ 2: Cương thổ Vương quốc Liên hiệp Vitalia và Riralia vào năm 488 AD — Thành quả sau 35 năm trị vì của James Đại Đế](/images/Map_488_AD.png)
 
 #### Triều Edward V Hiệp Sĩ Vương (488 – 515 AD)
 
-Con trưởng của James II và Vương hậu Gwenllian xứ Penmawr là **Edward V** (*Eadweard V se Cniht*) kế vị ở tuổi 28:
-* **Hội Hiệp Sĩ Bàn Tròn Liên Hiệp (*Hring-bordes Thegnas*)**: Tại pháo đài ngã ba biên giới **Invergeall**, nhà vua sáng lập hội hiệp sĩ quy tụ các dũng tướng xuất chúng nhất từ Vitalia, Cambria, Penmawr, Pheof và Riralia. Nghi thức danh dự và tinh thần thượng võ hiệp sĩ đã trở thành sợi dây liên kết văn hóa vững chắc giữa các tầng lớp quý tộc trẻ tuổi trong toàn liên hiệp.
+Con trưởng của James II và Vương hậu Gwenllian là **Edward V** (*Eadweard V se Cniht* - Edward the Knight / Hiệp Sĩ Vương) kế vị ở tuổi 28:
+* **Hội Hiệp Sĩ Bàn Tròn Liên Hiệp (*Hring-bordes Thegnas*)**: Tại pháo đài ngã ba biên giới **Invergeall**, nhà vua sáng lập hội hiệp sĩ quy tụ các dũng tướng xuất chúng nhất từ Vitalia, Cambria, Penmawr, Pheof và Riralia. Nghi thức danh dự và tinh thần thượng võ hiệp sĩ đã trở thành sợi dây liên kết văn hóa bền chặt giữa các tầng lớp quý tộc trẻ tuổi trong toàn liên hiệp.
 * **Bảo an biên cương**: Dập tắt các cuộc bạo loạn cục bộ của tàn dư quý tộc miền núi quanh Pontypridd và rặng đồi Arys, củng cố tuyến phòng thủ dọc biên giới phía Nam giáp Berton.
-* **Hạn chế**: Quá say mê các cuộc chinh phạt mở rộng đường biên trên biển, ngân sách cấm quân tiêu tốn đáng kể.
+* **Hạn chế**: Say mê các cuộc viễn chinh mở rộng đường biên trên biển, khiến ngân sách quân bị tiêu tốn đáng kể.
 
 #### Triều Murad II Hòa Giải Vương (515 – 540 AD)
 
-Kế vị Edward V là người con trai mang tên thảo nguyên truyền thống của hoàng tộc: **Murad II** (*Murad se Friðwīsa*):
+Kế vị Edward V là người con trai mang tên thảo nguyên truyền thống của hoàng tộc: **Murad II** (*Murad se Friðwīsa* - Murad the Peacemaker / Hòa Giải Vương):
 * **Hòa hợp văn hóa & Tôn giáo**: Nhận thấy sự dị biệt sâu sắc về ngôn ngữ và tín ngưỡng giữa người Betarii (Vitalia) và các dân tộc Celtic (Cambria, Penmawr, Pheof), Murad II ban hành *Chiếu chỉ Khoan dung Tôn giáo*, công nhận quyền tự do thờ phụng của các giáo hội địa phương. Ngài cho thành lập **Đại học viện Liên hiệp tại Limorina** (*Limorina Hēahleornungstōw*), tài trợ việc dịch thuật thi ca, huyền thoại Celtic xứ Penmawr sang tiếng Vitalia Cổ và ngược lại.
-* **Khai khẩn kinh tế miền Đông**: Đầu tư kỹ thuật thủy lợi dọc theo các phụ lưu sông quanh kinh thành Riralo và thung lũng Kilwynverdon, đưa sản lượng lúa mì và len dạ của toàn liên hiệp tăng trưởng vượt bậc.
+* **Khai khẩn kinh tế miền Đông**: Đầu tư kỹ thuật thủy lợi dọc theo các phụ lưu sông quanh kinh thành Riralo và thung lũng Kilwynverdon, đưa sản lượng ngũ cốc và len dạ của toàn liên hiệp tăng trưởng vượt bậc.
 
 ---
 
@@ -318,31 +337,31 @@ Kế vị Edward V là người con trai mang tên thảo nguyên truyền thố
 
 #### Triều Kenneth I Hải Vương (540 – 572 AD)
 
-Sau khi Murad II qua đời không có con trai nối dõi, Hội đồng Vương quyền suy tôn vương đệ là **Kenneth I** (*Ceneth I se Sǣ-Cyning*)—vị vua mang dòng máu quý tộc mẫu hệ đảo Pheof:
-* **Làm chủ đại dương**: Kenneth I biến quân cảng **Inmouth** (Penmawr cũ) và cảng **Brampton** thành hai đại căn cứ hải quân tối tân, đóng hàng trăm chiến hạm mũi rồng ba tầng chèo mang tên *Drakkar-cneow*. Hạm đội Hoàng gia Liên hiệp hoàn toàn làm chủ các tuyến hải trình biển Bắc, bảo hộ các đoàn thương thuyền từ Inmouth tỏa đi khắp các lục địa.
+Sau khi Murad II qua đời không có con trai nối dõi, Hội đồng Vương quyền suy tôn vương đệ là **Kenneth I** (*Ceneth I se Sǣ-Cyning* - Kenneth the Sea King / Hải Vương)—vị vua mang dòng máu quý tộc mẫu hệ đảo Pheof:
+* **Làm chủ đại dương**: Kenneth I biến quân cảng **Inmouth** (Penmawr cũ) và cảng **Brampton** thành hai đại căn cứ hải quân tối tân, đóng hàng trăm chiến hạm mũi rồng ba tầng chèo mang tên *Drakkar-cneow*. Hạm đội Hoàng gia Liên hiệp hoàn toàn làm chủ các tuyến hải trình biển Bắc, bảo hộ các đoàn thương thuyền từ Inmouth tỏa đi khắp các bờ cõi.
 * **Mậu dịch hàng hải bùng nổ**: Các thương cảng duyên hải như Alexandra, Inmouth, Maberden và Hesvikland trở thành những trung tâm xuất nhập khẩu nhộn nhịp, thu về nguồn thuế quan khổng lồ.
 
-#### Triều James III Hiền Vương (572 – 605 AD)
+#### Triều James III Hiền Minh Vương (572 – 605 AD)
 
-Con trai Kenneth I là **James III** (*Iacob III se Rǣdfæsta*) kế vị, mở ra ba thập kỷ thịnh trị phồn vinh tột bậc:
+Con trai Kenneth I là **James III** (*Iacob III se Rǣdfæsta* - James the Sage / Hiền Minh Vương) kế vị, mở ra ba thập kỷ thịnh trị phồn vinh:
 * **Mở rộng kinh đô Limorina**: Nhờ quốc khố sung túc, nhà vua cho quy hoạch lại đô thành Limorina gấp ba lần diện tích cũ, xây dựng hệ thống cống ngầm thoát nước kiên cố, lát đá toàn bộ các trục lộ nối liền với đại lộ phía Đông dẫn sang Invergeall và Riralo, đồng thời xây dựng cây cầu đá vòm **Geānnes-brycġ** (Cầu Liên Hiệp) bắc qua sông Kintazion.
-* **Đồng tiền vàng Gold-Gylden**: Triều đình phát hành đồng tiền vàng nguyên chất mang tên **Gold-Gylden**, trở thành thước đo giá trị và đồng tiền thanh toán quốc tế được chấp nhận khắp lục địa Riralia.
+* **Đồng tiền vàng Gold-Gylden**: Triều đình phát hành đồng tiền vàng nguyên chất mang tên **Gold-Gylden**, trở thành thước đo giá trị và đồng tiền thanh toán chuẩn mực được chấp nhận khắp lục địa Riralia.
 
 #### Triều Henry I Lập Pháp Vương (605 – 638 AD)
 
-Kế vị vua cha là **Henry I** (*Henrīc I se Lāhbora*), một nhà kỹ trị và luật gia vĩ đại của thời phong kiến trung kỳ:
-* **Ban hành Đại Điển Lệ Toàn Thư (*Corpus Vitalisc*)**: Công trình luật pháp vĩ đại nhất của thời Trung cổ Vitalia, bao gồm 12 tập sách chuẩn hóa toàn bộ luật dân sự, hình sự, hàng hải, thuế khóa và quân sự trên toàn cõi Vương quốc Liên hiệp. Bộ luật xóa bỏ các tập quán pháp man dã, quy định chế độ xét xử công khai bằng bồi thẩm đoàn 12 người (*Twelf-manna Dōm*).
+Kế vị vua cha là **Henry I** (*Henrīc I se Lāhbora* - Henry the Lawmaker / Lập Pháp Vương), một nhà kỹ trị và luật gia vĩ đại của thời phong kiến trung kỳ:
+* **Ban hành Đại Điển Lệ Toàn Thư (*Corpus Vitalisc*)**: Công trình luật pháp vĩ đại nhất của thời Trung cổ Vitalia, bao gồm 12 tập sách chuẩn hóa toàn bộ luật dân sự, hình sự, hàng hải, thuế khóa và quân sự trên toàn cõi Vương quốc Liên hiệp. Bộ luật xóa bỏ các tập quán pháp lạc hậu, quy định chế độ xét xử công khai bằng bồi thẩm đoàn 12 người (*Twelf-manna Dōm*).
 * **Chuẩn hóa đo lường toàn quốc**: Thống nhất tuyệt đối hệ thống cân, đo, đong, đếm từ viễn Tây Wantarii qua Invergeall đến tận cực Đông Riralo.
 
 #### Triều Adolf III Hùng Vương (638 – 675 AD)
 
-Năm 638 AD, con trai Henry I là **Adolf III** (*Adolf se Mihtiga*) lên ngôi. Năm 641 AD, một liên minh các Hãn quốc kỵ binh du mục từ viễn đông thảo nguyên Maperia bất ngờ vượt biên giới phía Nam mở cuộc đại xâm lược vào vùng Güneydere và Helenica:
-* **Trận huyết chiến Karagöl (642 AD)**: Adolf III thân chinh chỉ huy 3 vạn Thiết Kỵ cấm quân và bộ binh giáp nặng liên hiệp nghênh chiến. Tại bờ hồ Karagöl, nhà vua dùng chiến thuật dụ địch vào trận địa mai phục đầm lầy, tiêu diệt hoàn toàn quân tiên phong của quân Maperia, chém chết Khả hãn đối phương, giữ vững biên thùy phương Nam trong suốt nửa thế kỷ sau đó.
+Năm 638 AD, con trai Henry I là **Adolf III** (*Adolf se Mihtiga* - Adolf the Mighty / Hùng Vương) lên ngôi. Năm 641 AD, một liên minh các Hãn quốc kỵ binh du mục từ viễn đông thảo nguyên Maperia bất ngờ vượt biên giới phía Nam mở cuộc xâm lược vào vùng Güneydere và Helenica:
+* **Trận huyết chiến Karagöl (642 AD)**: Adolf III thân chinh chỉ huy 3 vạn Thiết Kỵ cấm quân và bộ binh giáp nặng liên hiệp nghênh chiến. Tại bờ hồ Karagöl, nhà vua dùng chiến thuật dụ địch vào trận địa mai phục đầm lầy, tiêu diệt hoàn toàn quân tiên phong của quân Maperia, giữ vững biên thùy phương Nam trong suốt nửa thế kỷ sau đó.
 * **Hạn chế**: Chi phí tái thiết hậu chiến và nuôi dưỡng đạo quân thường trực khổng lồ bắt đầu tạo áp lực lên nguồn thu của triều đình.
 
 #### Triều Oswald II Minh Vương (675 – 710 AD)
 
-Dưới triều **Oswald II** (*Oswald se Glēawa*), đất nước trở lại cảnh thanh bình, đánh dấu thời kỳ hoàng kim của học thuật và nghệ thuật:
+Dưới triều **Oswald II** (*Oswald se Glēawa* - Oswald the Enlightened / Minh Vương), đất nước trở lại cảnh thanh bình, đánh dấu thời kỳ hoàng kim của học thuật và nghệ thuật:
 * **Đỉnh cao thư tịch cổ**: Các đại tu viện ở Brampton, Limorina, Abercaethen và Riralo trở thành trung tâm sao chép kinh thư khổng lồ, cho ra đời những bản thảo chép tay bằng tiếng Vitalia Cổ nạm vàng và phẩm màu khoáng sản vô giá. Thi ca cung đình và âm nhạc hiệp sĩ đạt tới độ tinh tế bậc thầy.
 
 ---
@@ -351,17 +370,17 @@ Dưới triều **Oswald II** (*Oswald se Glēawa*), đất nước trở lại 
 
 #### Các triều vua thịnh vượng hậu kỳ (710 – 819 AD)
 
-* **Triều Roger I Thắng Trận Vương (710 – 745 AD)**: Cháu nội Oswald II, mang danh xưng cổ ngữ **Roger I** (*Hrōðgār I se Sigefæsta*). Ngài mở rộng tầm ảnh hưởng hàng hải lên các đảo băng giá phía Bắc, ký kết các hiệp ước thuế quan bảo hộ thương nhân liên hiệp, dẹp yên các cuộc xung đột biên giới nhỏ lẻ với các tiểu quốc lân bang phía Nam.
-* **Triều Edward VI Phúc Đức Vương (745 – 782 AD)**: Con trai Roger I, xưng hiệu **Edward VI** (*Eadweard VI se Eadiga*). Trị vì thanh bình suốt 37 năm, thời tiết thuận hòa, mùa màng bội thu liên tiếp. Dân số toàn Vương quốc Liên hiệp đạt mốc đỉnh cao lịch sử thời tiền cận đại (ước tính đạt gần 8 triệu dân).
-* **Triều Philip I Hòa Hiếu Vương (782 – 819 AD)**: Mang vương hiệu **Philip I** (*Philippus I se Friðsum*). Duy trì chính sách ngoại giao hòa hiếu với tất cả các cường quốc lục địa. Ngài cho xây dựng **Đại Thư viện Hoàng gia tại Limorina**, lưu trữ hơn 2 vạn cuộn giấy da chép tay về triết học, lịch sử, bản đồ hàng hải và y học.
+* **Triều Roger I Chiến Thắng Vương (710 – 745 AD)**: Cháu nội Oswald II, mang danh xưng cổ ngữ **Roger I** (*Hrōðgār I se Sigefæsta* - Roger the Triumphant / Chiến Thắng Vương). Ngài mở rộng tầm ảnh hưởng hàng hải lên các đảo băng giá phía Bắc, ký kết các hiệp ước thuế quan bảo hộ thương nhân liên hiệp, dẹp yên các cuộc xung đột biên giới nhỏ lẻ với các tiểu quốc lân bang phía Nam.
+* **Triều Edward VI Phúc Đức Vương (745 – 782 AD)**: Con trai Roger I, xưng hiệu **Edward VI** (*Eadweard VI se Eadiga* - Edward the Blessed / Phúc Đức Vương). Trị vì thanh bình suốt 37 năm, thời tiết thuận hòa, mùa màng bội thu. Dân số toàn Vương quốc Liên hiệp đạt mốc đỉnh cao thời tiền cận đại (ước tính đạt gần 8 triệu dân).
+* **Triều Philip I Hòa Hiếu Vương (782 – 819 AD)**: Mang vương hiệu **Philip I** (*Philippus I se Friðsum* - Philip the Peaceful / Hòa Hiếu Vương). Duy trì chính sách ngoại giao hòa hiếu với tất cả các cường quốc lục địa. Ngài cho xây dựng **Đại Thư viện Hoàng gia tại Limorina**, lưu trữ hơn 2 vạn cuộn giấy da chép tay về triết học, lịch sử, bản đồ hàng hải và y học.
 
 #### Những mầm mống khủng hoảng và sự khép lại thời kỳ Hoàng kim (819 – 879 AD)
 
-* **Triều Murad III Bách Triều Vương (819 – 851 AD)**: Mang tôn hiệu **Murad III** (*Murad se Cynelic*). Sang thế kỷ thứ IX, sau gần bốn thế kỷ thái bình, những mầm mống khủng hoảng cơ cấu bắt đầu xuất hiện:
+* **Triều Murad III Uy Nghi Vương (819 – 851 AD)**: Mang tôn hiệu **Murad III** (*Murad se Cynelic* - Murad the Regal / Uy Nghi Vương). Sang thế kỷ thứ IX, sau gần bốn thế kỷ thái bình, những mầm mống khủng hoảng cơ cấu bắt đầu xuất hiện:
   * Sự tích tụ ruộng đất không ngừng của các dòng họ đại quý tộc tại Penmawr, Riralia và miền Nam khiến tầng lớp nông dân tự do (*carlas*) giảm sút nghiêm trọng.
-  * Tầng lớp đại thương gia hàng hải tại Cảng Brampton và Inmouth ngày càng thao túng nền kinh tế, đối đầu quyền lực với giới quý tộc điền trang truyền thống trong Nghị viện Liên hiệp.
+  * Tầng lớp đại thương gia hàng hải tại Cảng Brampton và Inmouth ngày càng thao túng nền kinh tế, cạnh tranh quyền lực với giới quý tộc điền trang truyền thống trong Nghị viện Liên hiệp.
   * Xuất hiện các cuộc tranh chấp quyền tài phán tôn giáo giữa Tòa Tổng Giám mục Limorina và các giáo khu bảo thủ miền Đông tại Abercaethen và Riralo.
-* **Triều James IV Trì Thế Vương (851 – 879 AD)**: Là vị quân vương thứ 12 và cũng là người cuối cùng của Kỷ nguyên Hoàng Kim, mang tôn hiệu **James IV** (*Iacob IV se Langsum*). Ý thức được nguy cơ suy thoái, nhà vua ban hành *Sắc lệnh Hạn điền* nhằm hạn chế việc kiêm tính đất đai của quý tộc, đồng thời nỗ lực điều đình mâu thuẫn sắc tộc giữa người Vitalia, người Cambria, Penmawr và Riralia. Ngài giữ vững sự ổn định và thống nhất của đế quốc cho đến ngày trút hơi thở cuối cùng vào mùa đông năm 879 AD ở tuổi 68.
+* **Triều James IV Trì Thế Vương (851 – 879 AD)**: Là vị quân vương thứ 12 và cũng là người cuối cùng của Kỷ nguyên Hoàng Kim, mang tôn hiệu **James IV** (*Iacob IV se Langsum* - James the Enduring / Trì Thế Vương). Ý thức được nguy cơ suy thoái, nhà vua ban hành *Sắc lệnh Hạn điền* nhằm hạn chế việc kiêm tính đất đai của quý tộc, đồng thời nỗ lực điều đình mâu thuẫn sắc tộc giữa người Vitalia, người Cambria, Penmawr và Riralia. Ngài giữ vững sự ổn định và thống nhất của đế quốc cho đến ngày trút hơi thở cuối cùng vào mùa đông năm 879 AD ở tuổi 68.
 
 Cái chết của vua James IV vào tháng 12 năm 879 AD chính thức khép lại **426 năm Kỷ nguyên Hoàng Kim rực rỡ** của Vương triều Morrazalina. Toàn bộ tiến trình biến động tiếp theo—từ triều đại của Nữ vương **Aglaea II**, sự đào thoát của Vương nữ **Elaina**, sự suy tàn và sụp đổ của vương triều dưới tay quý tộc **Hector Hinderland** (1015 AD), cho đến thời kỳ Thịnh vượng chung và cuộc thôn tính của Đế quốc **Toghmanistan** (1029 AD)—được trình bày chi tiết trong tài liệu tiếp theo: [**Lịch sử Vitalia: Hậu kỳ Morrazalina và Chế độ Thịnh vượng chung (880 – 1029 AD)**](./02-late-morrazalina-and-commonwealth.md).
 
@@ -369,13 +388,13 @@ Cái chết của vua James IV vào tháng 12 năm 879 AD chính thức khép l�
 
 #### Bảng niên biểu quân vương tiêu biểu kỷ nguyên hoàng kim (453 – 879 AD)
 
-| STT | Quân vương | Niên đại | Trị vì | Tước hiệu / Miếu hiệu | Thành tựu & Di sản vĩ đại | Ý nghĩa lịch sử |
+| STT | Quân vương | Niên đại | Trị vì | Danh xưng / Thụy hiệu | Thành tựu & Di sản vĩ đại | Ý nghĩa lịch sử |
 | :---: | :--- | :---: | :---: | :--- | :--- | :--- |
 | **1** | **James II** (*Iacob II*) | 425 – 488 AD | 453 – 488 AD | James Đại Đế (*Iacob se Micela*) | Bình định Cambria, Penmawr, Arys, Pheof; hợp nhất Riralia; khai sinh Vương quốc Liên hiệp; ban *Hiến chương Liên hiệp*. | Mở ra Kỷ nguyên Hoàng Kim và định hình cương thổ đại đế quốc. |
 | **2** | **Edward V** (*Eadweard V*) | 460 – 515 AD | 488 – 515 AD | Hiệp Sĩ Vương (*Eadweard se Cniht*) | Sáng lập Hội Hiệp Sĩ Bàn Tròn tại Invergeall; bảo vệ biên thùy phía Đông; dẹp yên ly khai vùng núi Pontypridd. | Thắt chặt khối đại đoàn kết quý tộc các dân tộc liên hiệp. |
 | **3** | **Murad II** (*Murad II*) | 487 – 540 AD | 515 – 540 AD | Hòa Giải Vương (*Murad se Friðwīsa*) | Ban *Chiếu chỉ Khoan dung Tôn giáo*; lập Đại học viện Liên hiệp Limorina; đẩy mạnh dịch thuật văn học Penmawr. | Đặt nền móng hòa hợp văn hóa, giáo dục và tín ngưỡng. |
 | **4** | **Kenneth I** (*Ceneth I*) | 512 – 572 AD | 540 – 572 AD | Hải Vương (*Ceneth se Sǣ-Cyning*) | Xây dựng Đại hạm đội rồng biển; biến Inmouth và Brampton thành quân cảng tối tân; làm chủ biển Bắc. | Chuyển mình Vitalia thành đế quốc hàng hải phồn vinh. |
-| **5** | **James III** (*Iacob III*) | 545 – 605 AD | 572 – 605 AD | Hiền Vương (*Iacob se Rǣdfæsta*) | Mở rộng kinh đô Limorina gấp ba; xây cầu vòm đá Geānnes-brycġ; phát hành đồng tiền vàng quốc tế *Gold-Gylden*. | Đỉnh cao phú cường kinh tế và kiến trúc đô thị. |
+| **5** | **James III** (*Iacob III*) | 545 – 605 AD | 572 – 605 AD | Hiền Minh Vương (*Iacob se Rǣdfæsta*) | Mở rộng kinh đô Limorina gấp ba; xây cầu vòm đá Geānnes-brycġ; phát hành đồng tiền vàng quốc tế *Gold-Gylden*. | Đỉnh cao phú cường kinh tế và kiến trúc đô thị. |
 | **6** | **Henry I** (*Henrīc I*) | 578 – 638 AD | 605 – 638 AD | Lập Pháp Vương (*Henrīc se Lāhbora*) | Ban hành *Đại Điển Lệ Toàn Thư (Corpus Vitalisc)*; thiết lập chế độ bồi thẩm đoàn; chuẩn hóa đo lường toàn quốc. | Hoàn thiện thể chế pháp quyền phong kiến đỉnh cao. |
 | **7** | **Adolf III** (*Adolf III*) | 610 – 675 AD | 638 – 675 AD | Hùng Vương (*Adolf se Mihtiga*) | Đại thắng trận Karagöl (642 AD), đập tan liên quân xâm lược thảo nguyên Maperia; bảo vệ bờ cõi phương Nam. | Bảo toàn vững chắc cương thổ đế quốc trước ngoại xâm. |
 | **8** | **Oswald II** (*Oswald II*) | 648 – 710 AD | 675 – 710 AD | Minh Vương (*Oswald se Glēawa*) | Bảo trợ thư tịch cổ tại Abercaethen và Riralo; thời kỳ vàng son của chép sử và thi ca cung đình; tôn vinh văn hóa bác ái. | Đưa nền văn minh nghệ thuật Vitalia đạt đỉnh cao tinh hoa. |
