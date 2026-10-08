@@ -133,7 +133,7 @@ Chính sách thiên lệch này dẫn tới nạn đói năm 238 AD và làn só
 
 #### Triều Edward III Thất Quốc Vương (242 – 259 AD)
 
-Đăng cơ ở tuổi 19, **Edward III** (*Eadweard III se Forlēore* - Edward the Realm-loser / Mất Đất Vương) là một quân vương bạc nhược trước thời cuộc biến động dữ dội. Bị các thế lực môn phiệt thao túng, ngài giam mình trong cung điện Limorina. Trước nguy cơ quốc khố cạn kiệt do các phiên trấn ngừng nộp cống phú, triều đình hạ lệnh đúc tiền pha tạp kim loại rẻ tiền, gây nên cơn sốt lạm phát dữ dội, làm tê liệt hệ thống thương mại của vương quốc.
+Đăng cơ ở tuổi 19, **Edward III** (*Eadweard III se Forlēore* - Edward the Realm-loser / Thất Quốc Vương) là một quân vương bạc nhược trước thời cuộc biến động dữ dội. Bị các thế lực môn phiệt thao túng, ngài giam mình trong cung điện Limorina. Trước nguy cơ quốc khố cạn kiệt do các phiên trấn ngừng nộp cống phú, triều đình hạ lệnh đúc tiền pha tạp kim loại rẻ tiền, gây nên cơn sốt lạm phát dữ dội, làm tê liệt hệ thống thương mại của vương quốc.
 
 Tháng 7 năm 259 AD, liên minh các lãnh chúa phiên trấn đồng loạt kéo quân vây hãm kinh thành Limorina. Ngày 28 tháng 8 năm 259 AD, trước sức ép quân sự áp đảo, Edward III buộc phải ký chiếu thư thoái vị, từ bỏ vương vị tối cao và lui về làm Công tước đô thành Limorina. **Chính quyền trung ương thống nhất của vương triều Morrazalina sụp đổ**, bờ cõi Vitalia chính thức phân liệt thành 10 tiểu quốc cát cứ.
 
