@@ -93,7 +93,7 @@ Sự phát triển của Đại Học viện Limorina, Học viện Ma thuật v
 | Thuật ngữ Chuẩn (Kinh viện / Pháp lý) | IPA | Nghĩa tiếng Việt | Nguồn gốc | Từ bản địa song trùng (Germanic) | Phân hóa sắc thái sử dụng |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **universitee / acadēmie** | /y.ni.vɛr.siˈteː/, /a.ka.deːˈmiː/ | viện đại học, viện hàn lâm | Latin *universitas* / *academia* | **heah-scole** (/ˈheːax ˌskoː.lə/) | *universitee*: cơ sở đào tạo bác học đa ngành; *heah-scole*: trường cao đẳng, trường võ bị cổ |
-| **astronomie** | /as.trɔ.nɔˈmiː/ | thiên văn học | Latin *astronomia* | **stierne-craeft** (/ˈstiːr.nə ˌkræft/) | *astronomie*: khoa học quan trắc đài thiên văn; *stierne-craeft*: thuật xem sao, chiêm tinh cổ truyền |
+| **astronomie** | /as.trɔ.nɔˈmiː/ | thiên văn học | Latin *astronomia* | **stierne-craeft / stellecrâft** (/ˈstiːr.nə ˌkræft/) | *astronomie*: khoa học quan trắc đài thiên văn; *stierne-craeft / stellecrâft*: thuật xem sao, chiêm tinh cổ truyền |
 | **philosophie** | /fi.lɔ.sɔˈfiː/ | triết học | Latin *philosophia* | **wiesdom-lore** (/ˈwiːs.dɔm ˌloː.rə/) | *philosophie*: luận thuyết tư tưởng kinh viện; *wiesdom-lore*: minh triết nhân sinh, lời răn dạy tiền nhân |
 | **alchemie** | /al.ʃəˈmiː/ | thuật giả kim | Mượn qua Toghman *al-kīmiyā* | **fier-craeft** (/ˈfiː.ər ˌkræft/) | *alchemie*: thuật luyện kim, dược liệu cao cấp; *fier-craeft*: kỹ nghệ luyện kim, thuật chế tác lửa |
 | **Archimagus** | /ar.ʃiˈmaː.gʊs/ | Đại Pháp sư | Hy Lạp / Latinh | **Heah-Wita** (/ˈheːax ˌwɪ.tɑ/) | *Archimagus*: học vị tối cao của Hội đồng Pháp sư; *Heah-Wita*: bậc đại hiền triết vương quyền cổ |
