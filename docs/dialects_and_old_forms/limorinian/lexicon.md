@@ -200,3 +200,36 @@ Sự tiếp nhận tầng từ vựng Romance vào đời sống triều đình 
        - *companie* (/kɔm.paˈniː/) (đoàn thể, hội bạn hữu)
        - *philosophie* (/fi.lɔ.sɔˈfiː/) (triết học)
        - *folie* (/fɔˈliː/) (sự ngu muội, dại dột)
+
+---
+
+## 5. Thành Ngữ & Tục Ngữ Đô Thị Limorina (Limoriniene Proverbes & Idiomes)
+
+Trải qua gần sáu thế kỷ thăng trầm dưới ách đô hộ của Đế quốc Toghmanistan, những cuộc nổi dậy của thợ thuyền và vị thế trung tâm tri thức của các học viện, thị dân Limorina đã đúc kết nên một kho tàng thành ngữ, ngạn ngữ phản ánh sâu sắc thế giới quan, tính thực tế và sự trào phúng sắc sảo của người dân thủ đô:
+
+| Thành ngữ (Limoriniene) | Phiên âm IPA | Dịch nghĩa đen | Ý nghĩa hàm ẩn & Hoàn cảnh sử dụng |
+| :--- | :--- | :--- | :--- |
+| **Watyr of Kintazion forgetes not.** | /ˈwa.tər ɔv kɪnˈtaː.zjɔn fɔrˈgɛ.təs nɔt/ | Nước sông Kintazion không bao giờ quên. | Biểu thị ký ức lịch sử bền bỉ và ý chí quật cường của dân tộc; nợ máu và ân nghĩa qua thời gian đều sẽ được định đoạt. |
+| **To looke the moone thurgh the mist.** | /toː ˈloː.kə ðə ˈmoː.nə θʊrx ðə mɪst/ | Ngắm trăng qua màn sương mù. | Ẩn dụ về việc nhìn thấu chân lý và bản chất con người giữa những mưu toan chính trị mờ ám hoặc thời cuộc nhiễu nhương. |
+| **Bred in the hond is bettyr than a fat scheep on the muintaine.** | /brɛːd ɪn ðə hɔnd ɪs ˈbɛt.tər ðan a fæt ʃeːp ɔn ðə ˈmyn.tai.njə/ | Bánh mì trong tay còn hơn cừu béo trên núi. | Tính thực dụng khôn ngoan của thị dân: trân trọng những gì có thật trước mắt hơn là những lời hứa hão huyền xa xôi. |
+| **He spekes courtese / clerkese.** | /heː ˈspeː.kəs kuːrˈteː.sə / klɛrˈkeː.sə/ | Hắn đang nói giọng triều đình / giọng thư lại. | Lời châm biếm của người bình dân khi ai đó dùng lời lẽ vòng vo, đãi bôi, khách sáo hoặc sặc mùi quan liêu giấy tờ. |
+| **Twâ clerkes, three doomes.** | /twæː klɛrks, θriː doːms/ | Hai ông thầy kiện, ba bản án. | Châm biếm sự nhiêu khê, mâu thuẫn và lắt léo của hệ thống luật pháp đô thị; khuyên nhau nên tự hòa giải thay vì lên cửa quan. |
+| **To drinken with the river-wind.** | /toː ˈdrɪŋ.kən wɪð ðə ˈrɪ.vər wɪnd/ | Uống rượu cùng ngọn gió sông. | Thảnh thơi nhậu nhẹt bên cầu vòm hoặc bến cảng sông Kintazion sau chuỗi ngày lao động cực nhọc; tận hưởng sự tự do thanh thản. |
+| **Fire in the hevene, asche on the earthe.** | /ˈfiː.rə ɪn ðə ˈhɛ.və.nə, ˈæʃ.ʃə ɔn ðə ˈɛːr.θə/ | Lửa cháy trên trời, tro tàn dưới đất. | Nhắc nhở về sự tàn khốc của ma thuật chiến tranh và những tham vọng siêu nhiên vượt ngoài tầm kiểm soát của con người. |
+
+---
+
+## 6. Thuật Ngữ Học Viện & Đô Thị Đặc Thù (Academic, Municipal & Arcane Lexicon)
+
+Limorina vừa là kinh đô chính trị, vừa là nơi tọa lạc của Đại Học viện (*Bayt al-Hikma* thời Toghman), Học viện Ma thuật (*Limorina Arcane Academy*) và Viện Hàn lâm Ngôn ngữ. Tầng lớp học giả và pháp sư nơi đây đã phát triển hệ thống thuật ngữ chuyên ngành kết hợp giữa gốc Romance đài các và gốc Germanic cổ:
+
+| Thuật ngữ Limoriniene | IPA | Nghĩa tiếng Việt | Nguồn gốc / Ghi chú |
+| :--- | :--- | :--- | :--- |
+| **Arcan-scole / Magie-scole** | /ˈar.kaːn ˈskɔː.lə/ | Học viện Ma thuật | Gốc Latin *arcanus* + Germanic *scole*; trung tâm đào tạo pháp sư hoàng gia. |
+| **observatorie** | /ɔb.sɛr.vaˈtoː.ri.ə/ | Đài thiên văn | Nơi nghiên cứu thiên văn và phong ấn năng lượng thiên thể trên đỉnh đồi Limorina. |
+| **stierne-lore / astronomie** | /ˈstiːr.nə ˌloː.rə/, /as.trɔ.nɔˈmiː/ | Thiên văn học / Chiêm tinh | Gốc Germanic *stierne-lore* dùng phổ thông; *astronomie* dùng trong kinh viện. |
+| **alchemie** | /al.ʃəˈmiː/ | Thuật giả kim | Mượn từ thời Toghman (*al-kīmiyā*); nghiên cứu chuyển hóa kim loại và dược liệu. |
+| **ley-veine** | /ˈlɛi ˌvɛi.nə/ | Linh mạch đất mẹ | Kết hợp *ley* (đường thông linh cổ) + *veine* (mạch máu Romance); nguồn năng lượng sinh tồn. |
+| **sang-craeft / blood-craeft** | /ˈsaŋ ˌkræft/, /ˈbluːd ˌkræft/ | Huyết thuật | Nhánh ma thuật cổ đại điều khiển sinh mệnh qua huyết thống vương tộc Morrazalina. |
+| **burgh-maister** | /ˈbʊrx ˌmais.tər/ | Thị trưởng đô thành | Chức sắc dân cử đứng đầu hội đồng thành phố Limorina. |
+| **souk-marketch** | /ˈsuːk ˈmar.kɛtʃ/ | Khu chợ mái vòm | Di sản kiến trúc thương mại kết hợp giữa văn hóa phương Nam và thủ phủ phương Bắc. |

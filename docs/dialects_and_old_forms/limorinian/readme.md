@@ -27,7 +27,41 @@ Phương ngữ Limorina hiện đại là hậu duệ của phương ngữ Limor
 
 ---
 
-## 📚 Mục Lục Tài Liệu
+## 🏛️ Thế Lưỡng Ngữ Xã Hội (Sociolinguistic Diglossia) tại Kinh Đô Limorina
+
+Một hiện tượng ngôn ngữ học then chốt giải thích sự khác biệt giữa Tiếng Vitalia Chuẩn và Phương ngữ Limorina chính là **thế lưỡng ngữ (Diglossia)** sâu sắc tại kinh đô:
+
+```mermaid
+flowchart TD
+    subgraph Diglossia ["THẾ LƯỠNG NGỮ TẠI THỦ ĐÔ LIMORINA"]
+        Acrolect["VĂN PHONG BÁC HỌC (ACROLECT)<br>★ Tiếng Vitalia Chuẩn (Standard Vitalische)<br>• Sử dụng: Viện Hàn lâm Ngôn ngữ, Nghị viện, Chiếu chỉ, Học viện Ma thuật<br>• Đặc trưng: Tuân thủ nghiêm ngặt đảo ngữ V2, đại từ tôn ty thou/jou, chính tả -gn-"]
+        Basilect["KHẨU NGỮ ĐÔ THỊ (BASILECT / MESOLECT)<br>★ Phương ngữ Limorina (Limoriniene Dialecte)<br>• Sử dụng: Giao thương chợ Souk, bến cảng sông Kintazion, đời sống thị dân<br>• Đặc trưng: SVO-fication phá vỡ V2, đào thải thou dùng jou/jous, biến âm â/ui, từ lóng -lith"]
+    end
+```
+
+* **Văn phong Bác học / Hành chính (Acrolect - High Variety)**: Dựa trên tầng văn học cổ điển của Limorina thế kỷ XI–XII. Đây là ngôn ngữ của luật pháp, kinh viện, ngoại giao và các bài diễn văn long trọng của triều đình và chính phủ Cộng hòa.
+* **Khẩu ngữ Đô thị / Đời thường (Basilect / Mesolect - Low Variety)**: Nảy sinh từ nhịp sống giao thương hối hả, sự hòa huyết văn hóa tại các khu phố chợ vòm và các hội thợ thuyền. Thị dân ưa chuộng lối diễn đạt nhanh gọn, lược bỏ sự rườm rà của ngữ pháp cổ, tạo nên diện mạo phương ngữ Limorina hiện đại.
+
+---
+
+## 📊 Bảng Đối Chiếu Nhanh (Cheatsheet: Chuẩn vs. Limorina)
+
+| Tiêu chí | Tiếng Vitalia Chuẩn (*Standard Vitalische*) | Phương ngữ Limorina (*Limoriniene Dialecte*) | Minh họa / Đối chiếu |
+| :--- | :--- | :--- | :--- |
+| **Bảng chữ cái** | 26 chữ cái Latinh tiêu chuẩn | **27 chữ cái** (thêm ký tự **Â / â**) | Chuẩn: *what, fat* → Limorina: *whât, fât* |
+| **Phát âm /a/ ngắn** | Luôn đọc /a/ trước âm tắc/xát | **Biến thành /æ/ (`â`)** trước `-t, -k, -sch` | *that* (/ðat/) $\rightarrow$ **thât** (/ðæt/) |
+| **Số từ 2 (two)** | **twoo** (/twoː/ - làm tròn môi) | **twâ** (/twæː/ - bẹt hóa từ *twā* Saxon cổ) | *twoo houses* vs. *twâ houses* |
+| **Nguyên âm tròn môi /y/** | Hiếm; giữ nguyên âm Romance mượn | **Xuất hiện quy luật thành `ui` (/y/)** | *montaigne* $\rightarrow$ **muintaine**, *duke* $\rightarrow$ **duik** |
+| **Ký âm âm mũi vòm /nj/** | Dùng tổ hợp **-gn-** | Tránh *-gn-*, dùng **-ni- / -nj-** | *regne* (/ˈrɛ.njə/) $\rightarrow$ **renje** (/ˈrɛ.njə/) |
+| **Phụ âm đầu *j-*** | Phát âm rõ /j/ (*jine* /jiːnə/) | **Câm hoặc tiêu biến nhẹ** (*jine* /ɪnə/) | *jine dai* (một ngày) |
+| **Quy tắc đảo ngữ V2** | **Bắt buộc** sau trạng ngữ đầu câu | **Bị phá vỡ trong khẩu ngữ**, giữ thuần SVO | Chuẩn: *Todai **looke we**...*<br>Limorina: *Todai **we looke**...* |
+| **Đại từ ngôi 2 (You)** | Phân biệt *thou* (thân mật) & *jou* (lịch sự) | **Đào thải *thou***; dùng độc nhất **jou** | Chuẩn: *Whidyr goos thou?*<br>Limorina: *Whidyr goos jou?* |
+| **Số nhiều ngôi 2** | Dùng *jou* hoặc *je* | Tạo từ đường phố: **jou-folck / jous** | *Gode dai to jou-folck!* (Chào cả lò chúng mày!) |
+| **Biến đuôi tính từ** | Giữ dạng không đuôi chuẩn | **Hoàn toàn bất biến** trong mọi vị trí | *a good man*, *the good man*, *men are good* |
+| **Hậu tố du mục `-lith`** | Dùng cho thuật ngữ thể chế (*vrielith*) | Phát triển thành **từ lóng sinh hoạt đường phố** | *druncklith* (tiệc say), *folcklith* (hội bạn thân) |
+| **Biệt ngữ mỉa mai `-ese`** | Không phổ biến | Hậu tố châm biếm tác phong quan liêu | *courtese* (giọng cung đình), *clerkese* (giọng thư lại) |
+
+---
 
 1. [**Hệ thống Ngữ âm & Chính tả (Phonology & Orthography)**](phonology.md)
    - Bảng 27 chữ cái với ký tự đặc trưng `Â / â`.
@@ -44,9 +78,10 @@ Phương ngữ Limorina hiện đại là hậu duệ của phương ngữ Limor
    - Tỷ lệ cốt lõi ~70% Germanic và ~30% Latinh/Romance.
    - Các từ vựng địa phương đặc thù (*renje*, *knecht*, *dout*, *clerk*, *stelle*).
    - Các phụ tố cấu tạo từ: *-ische*, *-litche / -li*, *-hede*, *-dom*, và hậu tố du mục *-lith / -ilith*.
+   - Kho tàng thành ngữ, tục ngữ đô thị và thuật ngữ học viện / ma thuật học Limorina.
 
 4. [**Bảng 100 Từ Swadesh Phương Ngữ Limorina (Swadesh List)**](../../words_list/limorinian/swadesh_100_limorina.md)
    - 100 từ vựng căn bản của phương ngữ Limorina kèm phiên âm IPA chuẩn và từ nguyên.
 
 5. [**Văn Bản Mẫu & Hội Thoại (Sample Texts)**](../../../samples/sample_texts.md)
-   - Văn bản mẫu của vương quốc và đối thoại đời thường.
+   - Văn bản mẫu Tuyên ngôn vương quốc, đối thoại đời thường và khẩu ngữ phố cổ Limorina (*Limoriniene Strete-Speche*).

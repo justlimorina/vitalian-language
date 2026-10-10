@@ -86,6 +86,22 @@ Sự tiếp nhận tầng từ vựng Romance vào đời sống triều đình 
 | **montaigne** | /mɔnˈtai.njə/ | ngọn núi | OF *montaigne* | **bergh** (/bɛrx/ < *beorg*) | *montaigne*: rặng núi lớn; *bergh*: ngọn núi, đồi cao gồ ghề |
 | **duik** | /dyːk/ | công tước | OF *duc* | **heretoga** (/ˈhɛ.rəˌtoː.gɑ/) | *duik*: tước vị quý tộc phong kiến; *heretoga*: thủ lĩnh quân sự bộ tộc cổ |
 
+### 3.3. Thuật ngữ Học thuật, Ma thuật học & Thể chế Nhà nước (Academic, Arcane & Constitutional Doublets)
+
+Sự phát triển của Đại Học viện Limorina, Học viện Ma thuật và sự khai sinh của nền Cộng hòa đại nghị năm 1622 đã tạo nên một tầng lớp thuật ngữ chuyên ngành chuẩn mực. Tiếng Vitalia Chuẩn duy trì cấu trúc song trùng hài hòa giữa các thuật ngữ kinh viện mượn từ Classical/Romance và các từ tố bản địa kế thừa từ Cổ ngữ Vitalia:
+
+| Thuật ngữ Chuẩn (Kinh viện / Pháp lý) | IPA | Nghĩa tiếng Việt | Nguồn gốc | Từ bản địa song trùng (Germanic) | Phân hóa sắc thái sử dụng |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **universitee / acadēmie** | /y.ni.vɛr.siˈteː/, /a.ka.deːˈmiː/ | viện đại học, viện hàn lâm | Latin *universitas* / *academia* | **heah-scole** (/ˈheːax ˌskoː.lə/) | *universitee*: cơ sở đào tạo bác học đa ngành; *heah-scole*: trường cao đẳng, trường võ bị cổ |
+| **astronomie** | /as.trɔ.nɔˈmiː/ | thiên văn học | Latin *astronomia* | **stierne-craeft** (/ˈstiːr.nə ˌkræft/) | *astronomie*: khoa học quan trắc đài thiên văn; *stierne-craeft*: thuật xem sao, chiêm tinh cổ truyền |
+| **philosophie** | /fi.lɔ.sɔˈfiː/ | triết học | Latin *philosophia* | **wiesdom-lore** (/ˈwiːs.dɔm ˌloː.rə/) | *philosophie*: luận thuyết tư tưởng kinh viện; *wiesdom-lore*: minh triết nhân sinh, lời răn dạy tiền nhân |
+| **alchemie** | /al.ʃəˈmiː/ | thuật giả kim | Mượn qua Toghman *al-kīmiyā* | **fier-craeft** (/ˈfiː.ər ˌkræft/) | *alchemie*: thuật luyện kim, dược liệu cao cấp; *fier-craeft*: kỹ nghệ luyện kim, thuật chế tác lửa |
+| **Archimagus** | /ar.ʃiˈmaː.gʊs/ | Đại Pháp sư | Hy Lạp / Latinh | **Heah-Wita** (/ˈheːax ˌwɪ.tɑ/) | *Archimagus*: học vị tối cao của Hội đồng Pháp sư; *Heah-Wita*: bậc đại hiền triết vương quyền cổ |
+| **sang-magie** | /ˈsaŋ maˈʒiː/ | Huyết thuật | OF *sang* + *magie* | **blood-craeft** (/ˈbluːd ˌkræft/) | *sang-magie*: thuật ngữ nghiên cứu trong thư tịch cổ; *blood-craeft*: cổ thuật thao túng sinh mệnh |
+| **ley-veine** | /ˈlɛi ˌvɛi.nə/ | linh mạch đất mẹ | Kết hợp *ley* + Romance *veine* | **earthe-swat** (/ˈɛːr.θə ˌswɑːt/) | *ley-veine*: mạng lưới dòng chảy năng lượng địa chất; *earthe-swat*: sinh khí thiêng liêng của đất mẹ |
+| **republica** | /rə.pʊbˈliː.ka/ | nền cộng hòa | Latin *res publica* | **comen-welthe** (/ˈkɔ.mən ˌwɛl.θə/) | *republica*: thể chế nhà nước đại nghị 1622; *comen-welthe*: khối thịnh vượng chung của toàn dân |
+| **parlament** | /par.laˈmɛnt/ | nghị viện, quốc hội | OF *parlement* | **witenagemot** (/ˌwɪ.tə.nɑ.gəˈmoːt/) | *parlament*: cơ quan đại nghị lưỡng viện hiện đại; *witenagemot*: đại hội quý tộc & bô lão thời cổ |
+
 ---
 
 ## 4. Phương Pháp Ghép & Tạo Từ (Compounding & Affixation)
